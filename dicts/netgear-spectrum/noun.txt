@@ -188,6 +188,7 @@ shrub
 skin
 side
 silver
+singer
 sitter
 skates
 skin
