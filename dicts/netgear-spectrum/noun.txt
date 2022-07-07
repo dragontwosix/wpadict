@@ -62,6 +62,7 @@ doll
 door
 eagle
 earth
+effort
 eggplant
 elephant
 emerald
@@ -100,6 +101,7 @@ iris
 jacket
 jade
 jazz
+jeans
 jet
 jetcar
 jungle
@@ -223,6 +225,7 @@ tiger
 timber
 toast
 tomato
+topic
 toy
 trail
 train
@@ -244,11 +247,13 @@ violet
 violin
 walnut
 water
+week
 west
 whale
 wind
 window
 wolf
 yacht
+year
 zebra
 zoo

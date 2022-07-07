@@ -5,6 +5,7 @@ ancient
 angry
 antique
 aquatic
+away
 baby
 basic
 bay
@@ -158,6 +159,7 @@ quaint
 quick
 quiet
 rapid
+ready
 red
 rocky
 rough
@@ -188,6 +190,7 @@ snug
 soft
 sour
 south
+square
 strange
 strong
 sturdy
