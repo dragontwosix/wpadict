@@ -86,6 +86,7 @@ giddy
 gifted
 gigantic
 good
+gold
 golden
 goofy
 graceful
@@ -123,11 +124,14 @@ lovely
 lucky
 lumpy
 magical
+major
 manic
 mellow
 melodic
+mental
 mighty
 misty
+mobile
 modern
 narrow
 new

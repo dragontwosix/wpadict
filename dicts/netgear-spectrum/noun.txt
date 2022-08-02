@@ -45,6 +45,7 @@ coat
 coconut
 comet
 country
+course
 cow
 cream
 crown
@@ -54,12 +55,14 @@ daisy
 data
 deal
 deer
+degree
 desk
 diamond
 dink
 dog
 doll
 door
+duty
 eagle
 earth
 effort
@@ -169,6 +172,7 @@ rabbit
 raccoon
 raid
 rain
+radio
 raven
 review
 river
@@ -220,6 +224,7 @@ tea
 teapot
 tent
 terrain
+theory
 tie
 tiger
 timber
