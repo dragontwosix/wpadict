@@ -72,6 +72,7 @@ absurdemerald
 absurdengine
 absurdestate
 absurdfield
+absurdfig
 absurdfinch
 absurdfire
 absurdfish
@@ -336,6 +337,7 @@ adorableemerald
 adorableengine
 adorableestate
 adorablefield
+adorablefig
 adorablefinch
 adorablefire
 adorablefish
@@ -600,6 +602,7 @@ anchoremerald
 anchorengine
 anchorestate
 anchorfield
+anchorfig
 anchorfinch
 anchorfire
 anchorfish
@@ -864,6 +867,7 @@ ancientemerald
 ancientengine
 ancientestate
 ancientfield
+ancientfig
 ancientfinch
 ancientfire
 ancientfish
@@ -1128,6 +1132,7 @@ angryemerald
 angryengine
 angryestate
 angryfield
+angryfig
 angryfinch
 angryfire
 angryfish
@@ -1392,6 +1397,7 @@ antiqueemerald
 antiqueengine
 antiqueestate
 antiquefield
+antiquefig
 antiquefinch
 antiquefire
 antiquefish
@@ -1656,6 +1662,7 @@ aquaticemerald
 aquaticengine
 aquaticestate
 aquaticfield
+aquaticfig
 aquaticfinch
 aquaticfire
 aquaticfish
@@ -1920,6 +1927,7 @@ awayemerald
 awayengine
 awayestate
 awayfield
+awayfig
 awayfinch
 awayfire
 awayfish
@@ -2184,6 +2192,7 @@ babyemerald
 babyengine
 babyestate
 babyfield
+babyfig
 babyfinch
 babyfire
 babyfish
@@ -2448,6 +2457,7 @@ basicemerald
 basicengine
 basicestate
 basicfield
+basicfig
 basicfinch
 basicfire
 basicfish
@@ -2712,6 +2722,7 @@ bayemerald
 bayengine
 bayestate
 bayfield
+bayfig
 bayfinch
 bayfire
 bayfish
@@ -2976,6 +2987,7 @@ betteremerald
 betterengine
 betterestate
 betterfield
+betterfig
 betterfinch
 betterfire
 betterfish
@@ -3240,6 +3252,7 @@ bigemerald
 bigengine
 bigestate
 bigfield
+bigfig
 bigfinch
 bigfire
 bigfish
@@ -3504,6 +3517,7 @@ bitteremerald
 bitterengine
 bitterestate
 bitterfield
+bitterfig
 bitterfinch
 bitterfire
 bitterfish
@@ -3768,6 +3782,7 @@ blackemerald
 blackengine
 blackestate
 blackfield
+blackfig
 blackfinch
 blackfire
 blackfish
@@ -4032,6 +4047,7 @@ blueemerald
 blueengine
 blueestate
 bluefield
+bluefig
 bluefinch
 bluefire
 bluefish
@@ -4296,6 +4312,7 @@ boardemerald
 boardengine
 boardestate
 boardfield
+boardfig
 boardfinch
 boardfire
 boardfish
@@ -4560,6 +4577,7 @@ boldemerald
 boldengine
 boldestate
 boldfield
+boldfig
 boldfinch
 boldfire
 boldfish
@@ -4824,6 +4842,7 @@ bottleemerald
 bottleengine
 bottleestate
 bottlefield
+bottlefig
 bottlefinch
 bottlefire
 bottlefish
@@ -5088,6 +5107,7 @@ bottledemerald
 bottledengine
 bottledestate
 bottledfield
+bottledfig
 bottledfinch
 bottledfire
 bottledfish
@@ -5352,6 +5372,7 @@ braveemerald
 braveengine
 braveestate
 bravefield
+bravefig
 bravefinch
 bravefire
 bravefish
@@ -5616,6 +5637,7 @@ breezyemerald
 breezyengine
 breezyestate
 breezyfield
+breezyfig
 breezyfinch
 breezyfire
 breezyfish
@@ -5880,6 +5902,7 @@ brightemerald
 brightengine
 brightestate
 brightfield
+brightfig
 brightfinch
 brightfire
 brightfish
@@ -6144,6 +6167,7 @@ brownemerald
 brownengine
 brownestate
 brownfield
+brownfig
 brownfinch
 brownfire
 brownfish
@@ -6408,6 +6432,7 @@ calmemerald
 calmengine
 calmestate
 calmfield
+calmfig
 calmfinch
 calmfire
 calmfish
@@ -6672,6 +6697,7 @@ carrotemerald
 carrotengine
 carrotestate
 carrotfield
+carrotfig
 carrotfinch
 carrotfire
 carrotfish
@@ -6936,6 +6962,7 @@ cashemerald
 cashengine
 cashestate
 cashfield
+cashfig
 cashfinch
 cashfire
 cashfish
@@ -7200,6 +7227,7 @@ charmingemerald
 charmingengine
 charmingestate
 charmingfield
+charmingfig
 charmingfinch
 charmingfire
 charmingfish
@@ -7464,6 +7492,7 @@ cheerfulemerald
 cheerfulengine
 cheerfulestate
 cheerfulfield
+cheerfulfig
 cheerfulfinch
 cheerfulfire
 cheerfulfish
@@ -7728,6 +7757,7 @@ chillyemerald
 chillyengine
 chillyestate
 chillyfield
+chillyfig
 chillyfinch
 chillyfire
 chillyfish
@@ -7992,6 +8022,7 @@ chipemerald
 chipengine
 chipestate
 chipfield
+chipfig
 chipfinch
 chipfire
 chipfish
@@ -8256,6 +8287,7 @@ chummyemerald
 chummyengine
 chummyestate
 chummyfield
+chummyfig
 chummyfinch
 chummyfire
 chummyfish
@@ -8520,6 +8552,7 @@ classyemerald
 classyengine
 classyestate
 classyfield
+classyfig
 classyfinch
 classyfire
 classyfish
@@ -8784,6 +8817,7 @@ cleanemerald
 cleanengine
 cleanestate
 cleanfield
+cleanfig
 cleanfinch
 cleanfire
 cleanfish
@@ -9048,6 +9082,7 @@ clearemerald
 clearengine
 clearestate
 clearfield
+clearfig
 clearfinch
 clearfire
 clearfish
@@ -9312,6 +9347,7 @@ cleveremerald
 cleverengine
 cleverestate
 cleverfield
+cleverfig
 cleverfinch
 cleverfire
 cleverfish
@@ -9576,6 +9612,7 @@ cloudyemerald
 cloudyengine
 cloudyestate
 cloudyfield
+cloudyfig
 cloudyfinch
 cloudyfire
 cloudyfish
@@ -9840,6 +9877,7 @@ clumsyemerald
 clumsyengine
 clumsyestate
 clumsyfield
+clumsyfig
 clumsyfinch
 clumsyfire
 clumsyfish
@@ -10104,6 +10142,7 @@ coldemerald
 coldengine
 coldestate
 coldfield
+coldfig
 coldfinch
 coldfire
 coldfish
@@ -10368,6 +10407,7 @@ cometemerald
 cometengine
 cometestate
 cometfield
+cometfig
 cometfinch
 cometfire
 cometfish
@@ -10632,6 +10672,7 @@ coolemerald
 coolengine
 coolestate
 coolfield
+coolfig
 coolfinch
 coolfire
 coolfish
@@ -10896,6 +10937,7 @@ crispyemerald
 crispyengine
 crispyestate
 crispyfield
+crispyfig
 crispyfinch
 crispyfire
 crispyfish
@@ -11160,6 +11202,7 @@ curlyemerald
 curlyengine
 curlyestate
 curlyfield
+curlyfig
 curlyfinch
 curlyfire
 curlyfish
@@ -11424,6 +11467,7 @@ cuteemerald
 cuteengine
 cuteestate
 cutefield
+cutefig
 cutefinch
 cutefire
 cutefish
@@ -11688,6 +11732,7 @@ dailyemerald
 dailyengine
 dailyestate
 dailyfield
+dailyfig
 dailyfinch
 dailyfire
 dailyfish
@@ -11952,6 +11997,7 @@ dampemerald
 dampengine
 dampestate
 dampfield
+dampfig
 dampfinch
 dampfire
 dampfish
@@ -12216,6 +12262,7 @@ dandyemerald
 dandyengine
 dandyestate
 dandyfield
+dandyfig
 dandyfinch
 dandyfire
 dandyfish
@@ -12480,6 +12527,7 @@ deepemerald
 deepengine
 deepestate
 deepfield
+deepfig
 deepfinch
 deepfire
 deepfish
@@ -12744,6 +12792,7 @@ delightfulemerald
 delightfulengine
 delightfulestate
 delightfulfield
+delightfulfig
 delightfulfinch
 delightfulfire
 delightfulfish
@@ -13008,6 +13057,7 @@ desertemerald
 desertengine
 desertestate
 desertfield
+desertfig
 desertfinch
 desertfire
 desertfish
@@ -13272,6 +13322,7 @@ dizzyemerald
 dizzyengine
 dizzyestate
 dizzyfield
+dizzyfig
 dizzyfinch
 dizzyfire
 dizzyfish
@@ -13536,6 +13587,7 @@ doubleemerald
 doubleengine
 doubleestate
 doublefield
+doublefig
 doublefinch
 doublefire
 doublefish
@@ -13800,6 +13852,7 @@ downemerald
 downengine
 downestate
 downfield
+downfig
 downfinch
 downfire
 downfish
@@ -14064,6 +14117,7 @@ dustyemerald
 dustyengine
 dustyestate
 dustyfield
+dustyfig
 dustyfinch
 dustyfire
 dustyfish
@@ -14328,6 +14382,7 @@ dynamicemerald
 dynamicengine
 dynamicestate
 dynamicfield
+dynamicfig
 dynamicfinch
 dynamicfire
 dynamicfish
@@ -14592,6 +14647,7 @@ eageremerald
 eagerengine
 eagerestate
 eagerfield
+eagerfig
 eagerfinch
 eagerfire
 eagerfish
@@ -14856,6 +14912,7 @@ eastemerald
 eastengine
 eastestate
 eastfield
+eastfig
 eastfinch
 eastfire
 eastfish
@@ -15120,6 +15177,7 @@ easyemerald
 easyengine
 easyestate
 easyfield
+easyfig
 easyfinch
 easyfire
 easyfish
@@ -15384,6 +15442,7 @@ elatedemerald
 elatedengine
 elatedestate
 elatedfield
+elatedfig
 elatedfinch
 elatedfire
 elatedfish
@@ -15648,6 +15707,7 @@ elegantemerald
 elegantengine
 elegantestate
 elegantfield
+elegantfig
 elegantfinch
 elegantfire
 elegantfish
@@ -15912,6 +15972,7 @@ engineemerald
 engineengine
 engineestate
 enginefield
+enginefig
 enginefinch
 enginefire
 enginefish
@@ -16176,6 +16237,7 @@ exciteemerald
 exciteengine
 exciteestate
 excitefield
+excitefig
 excitefinch
 excitefire
 excitefish
@@ -16440,6 +16502,7 @@ epicemerald
 epicengine
 epicestate
 epicfield
+epicfig
 epicfinch
 epicfire
 epicfish
@@ -16704,6 +16767,7 @@ excitedemerald
 excitedengine
 excitedestate
 excitedfield
+excitedfig
 excitedfinch
 excitedfire
 excitedfish
@@ -16968,6 +17032,7 @@ exoticemerald
 exoticengine
 exoticestate
 exoticfield
+exoticfig
 exoticfinch
 exoticfire
 exoticfish
@@ -17232,6 +17297,7 @@ famousemerald
 famousengine
 famousestate
 famousfield
+famousfig
 famousfinch
 famousfire
 famousfish
@@ -17496,6 +17562,7 @@ fancyemerald
 fancyengine
 fancyestate
 fancyfield
+fancyfig
 fancyfinch
 fancyfire
 fancyfish
@@ -17760,6 +17827,7 @@ fastemerald
 fastengine
 fastestate
 fastfield
+fastfig
 fastfinch
 fastfire
 fastfish
@@ -18024,6 +18092,7 @@ fearlessemerald
 fearlessengine
 fearlessestate
 fearlessfield
+fearlessfig
 fearlessfinch
 fearlessfire
 fearlessfish
@@ -18288,6 +18357,7 @@ festiveemerald
 festiveengine
 festiveestate
 festivefield
+festivefig
 festivefinch
 festivefire
 festivefish
@@ -18552,6 +18622,7 @@ finishemerald
 finishengine
 finishestate
 finishfield
+finishfig
 finishfinch
 finishfire
 finishfish
@@ -18816,6 +18887,7 @@ flatemerald
 flatengine
 flatestate
 flatfield
+flatfig
 flatfinch
 flatfire
 flatfish
@@ -19080,6 +19152,7 @@ fluentemerald
 fluentengine
 fluentestate
 fluentfield
+fluentfig
 fluentfinch
 fluentfire
 fluentfish
@@ -19344,6 +19417,7 @@ fluffyemerald
 fluffyengine
 fluffyestate
 fluffyfield
+fluffyfig
 fluffyfinch
 fluffyfire
 fluffyfish
@@ -19608,6 +19682,7 @@ fragileemerald
 fragileengine
 fragileestate
 fragilefield
+fragilefig
 fragilefinch
 fragilefire
 fragilefish
@@ -19872,6 +19947,7 @@ freeemerald
 freeengine
 freeestate
 freefield
+freefig
 freefinch
 freefire
 freefish
@@ -20136,6 +20212,7 @@ freshemerald
 freshengine
 freshestate
 freshfield
+freshfig
 freshfinch
 freshfire
 freshfish
@@ -20400,6 +20477,7 @@ friendlyemerald
 friendlyengine
 friendlyestate
 friendlyfield
+friendlyfig
 friendlyfinch
 friendlyfire
 friendlyfish
@@ -20664,6 +20742,7 @@ frostyemerald
 frostyengine
 frostyestate
 frostyfield
+frostyfig
 frostyfinch
 frostyfire
 frostyfish
@@ -20928,6 +21007,7 @@ funnyemerald
 funnyengine
 funnyestate
 funnyfield
+funnyfig
 funnyfinch
 funnyfire
 funnyfish
@@ -21192,6 +21272,7 @@ furryemerald
 furryengine
 furryestate
 furryfield
+furryfig
 furryfinch
 furryfire
 furryfish
@@ -21456,6 +21537,7 @@ fuzzyemerald
 fuzzyengine
 fuzzyestate
 fuzzyfield
+fuzzyfig
 fuzzyfinch
 fuzzyfire
 fuzzyfish
@@ -21720,6 +21802,7 @@ gentleemerald
 gentleengine
 gentleestate
 gentlefield
+gentlefig
 gentlefinch
 gentlefire
 gentlefish
@@ -21984,6 +22067,7 @@ globalemerald
 globalengine
 globalestate
 globalfield
+globalfig
 globalfinch
 globalfire
 globalfish
@@ -22248,6 +22332,7 @@ giddyemerald
 giddyengine
 giddyestate
 giddyfield
+giddyfig
 giddyfinch
 giddyfire
 giddyfish
@@ -22512,6 +22597,7 @@ giftedemerald
 giftedengine
 giftedestate
 giftedfield
+giftedfig
 giftedfinch
 giftedfire
 giftedfish
@@ -22776,6 +22862,7 @@ giganticemerald
 giganticengine
 giganticestate
 giganticfield
+giganticfig
 giganticfinch
 giganticfire
 giganticfish
@@ -23040,6 +23127,7 @@ goodemerald
 goodengine
 goodestate
 goodfield
+goodfig
 goodfinch
 goodfire
 goodfish
@@ -23304,6 +23392,7 @@ goldemerald
 goldengine
 goldestate
 goldfield
+goldfig
 goldfinch
 goldfire
 goldfish
@@ -23568,6 +23657,7 @@ goldenemerald
 goldenengine
 goldenestate
 goldenfield
+goldenfig
 goldenfinch
 goldenfire
 goldenfish
@@ -23832,6 +23922,7 @@ goofyemerald
 goofyengine
 goofyestate
 goofyfield
+goofyfig
 goofyfinch
 goofyfire
 goofyfish
@@ -24096,6 +24187,7 @@ gracefulemerald
 gracefulengine
 gracefulestate
 gracefulfield
+gracefulfig
 gracefulfinch
 gracefulfire
 gracefulfish
@@ -24360,6 +24452,7 @@ grandemerald
 grandengine
 grandestate
 grandfield
+grandfig
 grandfinch
 grandfire
 grandfish
@@ -24624,6 +24717,7 @@ gratefulemerald
 gratefulengine
 gratefulestate
 gratefulfield
+gratefulfig
 gratefulfinch
 gratefulfire
 gratefulfish
@@ -24888,6 +24982,7 @@ greatemerald
 greatengine
 greatestate
 greatfield
+greatfig
 greatfinch
 greatfire
 greatfish
@@ -25152,6 +25247,7 @@ greenemerald
 greenengine
 greenestate
 greenfield
+greenfig
 greenfinch
 greenfire
 greenfish
@@ -25416,6 +25512,7 @@ happyemerald
 happyengine
 happyestate
 happyfield
+happyfig
 happyfinch
 happyfire
 happyfish
@@ -25680,6 +25777,7 @@ heartyemerald
 heartyengine
 heartyestate
 heartyfield
+heartyfig
 heartyfinch
 heartyfire
 heartyfish
@@ -25944,6 +26042,7 @@ heavyemerald
 heavyengine
 heavyestate
 heavyfield
+heavyfig
 heavyfinch
 heavyfire
 heavyfish
@@ -26208,6 +26307,7 @@ helpfulemerald
 helpfulengine
 helpfulestate
 helpfulfield
+helpfulfig
 helpfulfinch
 helpfulfire
 helpfulfish
@@ -26472,6 +26572,7 @@ honestemerald
 honestengine
 honestestate
 honestfield
+honestfig
 honestfinch
 honestfire
 honestfish
@@ -26736,6 +26837,7 @@ hotemerald
 hotengine
 hotestate
 hotfield
+hotfig
 hotfinch
 hotfire
 hotfish
@@ -27000,6 +27102,7 @@ hungryemerald
 hungryengine
 hungryestate
 hungryfield
+hungryfig
 hungryfinch
 hungryfire
 hungryfish
@@ -27264,6 +27367,7 @@ huskyemerald
 huskyengine
 huskyestate
 huskyfield
+huskyfig
 huskyfinch
 huskyfire
 huskyfish
@@ -27528,6 +27632,7 @@ hybridemerald
 hybridengine
 hybridestate
 hybridfield
+hybridfig
 hybridfinch
 hybridfire
 hybridfish
@@ -27792,6 +27897,7 @@ icyemerald
 icyengine
 icyestate
 icyfield
+icyfig
 icyfinch
 icyfire
 icyfish
@@ -28056,6 +28162,7 @@ imaginaryemerald
 imaginaryengine
 imaginaryestate
 imaginaryfield
+imaginaryfig
 imaginaryfinch
 imaginaryfire
 imaginaryfish
@@ -28320,6 +28427,7 @@ immuneemerald
 immuneengine
 immuneestate
 immunefield
+immunefig
 immunefinch
 immunefire
 immunefish
@@ -28584,6 +28692,7 @@ inputemerald
 inputengine
 inputestate
 inputfield
+inputfig
 inputfinch
 inputfire
 inputfish
@@ -28848,6 +28957,7 @@ invisibleemerald
 invisibleengine
 invisibleestate
 invisiblefield
+invisiblefig
 invisiblefinch
 invisiblefire
 invisiblefish
@@ -29112,6 +29222,7 @@ jaggedemerald
 jaggedengine
 jaggedestate
 jaggedfield
+jaggedfig
 jaggedfinch
 jaggedfire
 jaggedfish
@@ -29376,6 +29487,7 @@ jollyemerald
 jollyengine
 jollyestate
 jollyfield
+jollyfig
 jollyfinch
 jollyfire
 jollyfish
@@ -29640,6 +29752,7 @@ joyfulemerald
 joyfulengine
 joyfulestate
 joyfulfield
+joyfulfig
 joyfulfinch
 joyfulfire
 joyfulfish
@@ -29904,6 +30017,7 @@ joyousemerald
 joyousengine
 joyousestate
 joyousfield
+joyousfig
 joyousfinch
 joyousfire
 joyousfish
@@ -30168,6 +30282,7 @@ kindemerald
 kindengine
 kindestate
 kindfield
+kindfig
 kindfinch
 kindfire
 kindfish
@@ -30432,6 +30547,7 @@ largeemerald
 largeengine
 largeestate
 largefield
+largefig
 largefinch
 largefire
 largefish
@@ -30696,6 +30812,7 @@ leaderemerald
 leaderengine
 leaderestate
 leaderfield
+leaderfig
 leaderfinch
 leaderfire
 leaderfish
@@ -30960,6 +31077,7 @@ lightemerald
 lightengine
 lightestate
 lightfield
+lightfig
 lightfinch
 lightfire
 lightfish
@@ -31224,6 +31342,7 @@ littleemerald
 littleengine
 littleestate
 littlefield
+littlefig
 littlefinch
 littlefire
 littlefish
@@ -31488,6 +31607,7 @@ livelyemerald
 livelyengine
 livelyestate
 livelyfield
+livelyfig
 livelyfinch
 livelyfire
 livelyfish
@@ -31752,6 +31872,7 @@ longemerald
 longengine
 longestate
 longfield
+longfig
 longfinch
 longfire
 longfish
@@ -32016,6 +32137,7 @@ loudemerald
 loudengine
 loudestate
 loudfield
+loudfig
 loudfinch
 loudfire
 loudfish
@@ -32280,6 +32402,7 @@ lovelyemerald
 lovelyengine
 lovelyestate
 lovelyfield
+lovelyfig
 lovelyfinch
 lovelyfire
 lovelyfish
@@ -32544,6 +32667,7 @@ luckyemerald
 luckyengine
 luckyestate
 luckyfield
+luckyfig
 luckyfinch
 luckyfire
 luckyfish
@@ -32808,6 +32932,7 @@ lumpyemerald
 lumpyengine
 lumpyestate
 lumpyfield
+lumpyfig
 lumpyfinch
 lumpyfire
 lumpyfish
@@ -33072,6 +33197,7 @@ magicalemerald
 magicalengine
 magicalestate
 magicalfield
+magicalfig
 magicalfinch
 magicalfire
 magicalfish
@@ -33336,6 +33462,7 @@ majoremerald
 majorengine
 majorestate
 majorfield
+majorfig
 majorfinch
 majorfire
 majorfish
@@ -33600,6 +33727,7 @@ manicemerald
 manicengine
 manicestate
 manicfield
+manicfig
 manicfinch
 manicfire
 manicfish
@@ -33864,6 +33992,7 @@ mellowemerald
 mellowengine
 mellowestate
 mellowfield
+mellowfig
 mellowfinch
 mellowfire
 mellowfish
@@ -34128,6 +34257,7 @@ melodicemerald
 melodicengine
 melodicestate
 melodicfield
+melodicfig
 melodicfinch
 melodicfire
 melodicfish
@@ -34392,6 +34522,7 @@ mentalemerald
 mentalengine
 mentalestate
 mentalfield
+mentalfig
 mentalfinch
 mentalfire
 mentalfish
@@ -34656,6 +34787,7 @@ mightyemerald
 mightyengine
 mightyestate
 mightyfield
+mightyfig
 mightyfinch
 mightyfire
 mightyfish
@@ -34920,6 +35052,7 @@ mistyemerald
 mistyengine
 mistyestate
 mistyfield
+mistyfig
 mistyfinch
 mistyfire
 mistyfish
@@ -35184,6 +35317,7 @@ mobileemerald
 mobileengine
 mobileestate
 mobilefield
+mobilefig
 mobilefinch
 mobilefire
 mobilefish
@@ -35448,6 +35582,7 @@ modernemerald
 modernengine
 modernestate
 modernfield
+modernfig
 modernfinch
 modernfire
 modernfish
@@ -35712,6 +35847,7 @@ narrowemerald
 narrowengine
 narrowestate
 narrowfield
+narrowfig
 narrowfinch
 narrowfire
 narrowfish
@@ -35976,6 +36112,7 @@ newemerald
 newengine
 newestate
 newfield
+newfig
 newfinch
 newfire
 newfish
@@ -36240,6 +36377,7 @@ niceemerald
 niceengine
 niceestate
 nicefield
+nicefig
 nicefinch
 nicefire
 nicefish
@@ -36504,6 +36642,7 @@ niftyemerald
 niftyengine
 niftyestate
 niftyfield
+niftyfig
 niftyfinch
 niftyfire
 niftyfish
@@ -36768,6 +36907,7 @@ noisyemerald
 noisyengine
 noisyestate
 noisyfield
+noisyfig
 noisyfinch
 noisyfire
 noisyfish
@@ -37032,6 +37172,7 @@ normalemerald
 normalengine
 normalestate
 normalfield
+normalfig
 normalfinch
 normalfire
 normalfish
@@ -37296,6 +37437,7 @@ northemerald
 northengine
 northestate
 northfield
+northfig
 northfinch
 northfire
 northfish
@@ -37560,6 +37702,7 @@ occuremerald
 occurengine
 occurestate
 occurfield
+occurfig
 occurfinch
 occurfire
 occurfish
@@ -37824,6 +37967,7 @@ oddemerald
 oddengine
 oddestate
 oddfield
+oddfig
 oddfinch
 oddfire
 oddfish
@@ -38088,6 +38232,7 @@ oldemerald
 oldengine
 oldestate
 oldfield
+oldfig
 oldfinch
 oldfire
 oldfish
@@ -38352,6 +38497,7 @@ oliveemerald
 oliveengine
 oliveestate
 olivefield
+olivefig
 olivefinch
 olivefire
 olivefish
@@ -38616,6 +38762,7 @@ orangeemerald
 orangeengine
 orangeestate
 orangefield
+orangefig
 orangefinch
 orangefire
 orangefish
@@ -38880,6 +39027,7 @@ ordinaryemerald
 ordinaryengine
 ordinaryestate
 ordinaryfield
+ordinaryfig
 ordinaryfinch
 ordinaryfire
 ordinaryfish
@@ -39144,6 +39292,7 @@ painlessemerald
 painlessengine
 painlessestate
 painlessfield
+painlessfig
 painlessfinch
 painlessfire
 painlessfish
@@ -39408,6 +39557,7 @@ pastelemerald
 pastelengine
 pastelestate
 pastelfield
+pastelfig
 pastelfinch
 pastelfire
 pastelfish
@@ -39672,6 +39822,7 @@ peacefulemerald
 peacefulengine
 peacefulestate
 peacefulfield
+peacefulfig
 peacefulfinch
 peacefulfire
 peacefulfish
@@ -39936,6 +40087,7 @@ perfectemerald
 perfectengine
 perfectestate
 perfectfield
+perfectfig
 perfectfinch
 perfectfire
 perfectfish
@@ -40200,6 +40352,7 @@ phobicemerald
 phobicengine
 phobicestate
 phobicfield
+phobicfig
 phobicfinch
 phobicfire
 phobicfish
@@ -40464,6 +40617,7 @@ pinkemerald
 pinkengine
 pinkestate
 pinkfield
+pinkfig
 pinkfinch
 pinkfire
 pinkfish
@@ -40728,6 +40882,7 @@ plainemerald
 plainengine
 plainestate
 plainfield
+plainfig
 plainfinch
 plainfire
 plainfish
@@ -40992,6 +41147,7 @@ politeemerald
 politeengine
 politeestate
 politefield
+politefig
 politefinch
 politefire
 politefish
@@ -41256,6 +41412,7 @@ pooremerald
 poorengine
 poorestate
 poorfield
+poorfig
 poorfinch
 poorfire
 poorfish
@@ -41520,6 +41677,7 @@ preciousemerald
 preciousengine
 preciousestate
 preciousfield
+preciousfig
 preciousfinch
 preciousfire
 preciousfish
@@ -41784,6 +41942,7 @@ prettyemerald
 prettyengine
 prettyestate
 prettyfield
+prettyfig
 prettyfinch
 prettyfire
 prettyfish
@@ -42048,6 +42207,7 @@ proudemerald
 proudengine
 proudestate
 proudfield
+proudfig
 proudfinch
 proudfire
 proudfish
@@ -42312,6 +42472,7 @@ purpleemerald
 purpleengine
 purpleestate
 purplefield
+purplefig
 purplefinch
 purplefire
 purplefish
@@ -42576,6 +42737,7 @@ quaintemerald
 quaintengine
 quaintestate
 quaintfield
+quaintfig
 quaintfinch
 quaintfire
 quaintfish
@@ -42840,6 +43002,7 @@ quickemerald
 quickengine
 quickestate
 quickfield
+quickfig
 quickfinch
 quickfire
 quickfish
@@ -43104,6 +43267,7 @@ quietemerald
 quietengine
 quietestate
 quietfield
+quietfig
 quietfinch
 quietfire
 quietfish
@@ -43368,6 +43532,7 @@ rapidemerald
 rapidengine
 rapidestate
 rapidfield
+rapidfig
 rapidfinch
 rapidfire
 rapidfish
@@ -43632,6 +43797,7 @@ readyemerald
 readyengine
 readyestate
 readyfield
+readyfig
 readyfinch
 readyfire
 readyfish
@@ -43896,6 +44062,7 @@ redemerald
 redengine
 redestate
 redfield
+redfig
 redfinch
 redfire
 redfish
@@ -44160,6 +44327,7 @@ rockyemerald
 rockyengine
 rockyestate
 rockyfield
+rockyfig
 rockyfinch
 rockyfire
 rockyfish
@@ -44424,6 +44592,7 @@ roughemerald
 roughengine
 roughestate
 roughfield
+roughfig
 roughfinch
 roughfire
 roughfish
@@ -44688,6 +44857,7 @@ roundemerald
 roundengine
 roundestate
 roundfield
+roundfig
 roundfinch
 roundfire
 roundfish
@@ -44952,6 +45122,7 @@ royalemerald
 royalengine
 royalestate
 royalfield
+royalfig
 royalfinch
 royalfire
 royalfish
@@ -45216,6 +45387,7 @@ ruggedemerald
 ruggedengine
 ruggedestate
 ruggedfield
+ruggedfig
 ruggedfinch
 ruggedfire
 ruggedfish
@@ -45480,6 +45652,7 @@ rusticemerald
 rusticengine
 rusticestate
 rusticfield
+rusticfig
 rusticfinch
 rusticfire
 rusticfish
@@ -45744,6 +45917,7 @@ safeemerald
 safeengine
 safeestate
 safefield
+safefig
 safefinch
 safefire
 safefish
@@ -46008,6 +46182,7 @@ sandyemerald
 sandyengine
 sandyestate
 sandyfield
+sandyfig
 sandyfinch
 sandyfire
 sandyfish
@@ -46272,6 +46447,7 @@ scalyemerald
 scalyengine
 scalyestate
 scalyfield
+scalyfig
 scalyfinch
 scalyfire
 scalyfish
@@ -46536,6 +46712,7 @@ scaryemerald
 scaryengine
 scaryestate
 scaryfield
+scaryfig
 scaryfinch
 scaryfire
 scaryfish
@@ -46800,6 +46977,7 @@ shinyemerald
 shinyengine
 shinyestate
 shinyfield
+shinyfig
 shinyfinch
 shinyfire
 shinyfish
@@ -47064,6 +47242,7 @@ shortemerald
 shortengine
 shortestate
 shortfield
+shortfig
 shortfinch
 shortfire
 shortfish
@@ -47328,6 +47507,7 @@ silentemerald
 silentengine
 silentestate
 silentfield
+silentfig
 silentfinch
 silentfire
 silentfish
@@ -47592,6 +47772,7 @@ silkyemerald
 silkyengine
 silkyestate
 silkyfield
+silkyfig
 silkyfinch
 silkyfire
 silkyfish
@@ -47856,6 +48037,7 @@ sillyemerald
 sillyengine
 sillyestate
 sillyfield
+sillyfig
 sillyfinch
 sillyfire
 sillyfish
@@ -48120,6 +48302,7 @@ sleepyemerald
 sleepyengine
 sleepyestate
 sleepyfield
+sleepyfig
 sleepyfinch
 sleepyfire
 sleepyfish
@@ -48384,6 +48567,7 @@ slenderemerald
 slenderengine
 slenderestate
 slenderfield
+slenderfig
 slenderfinch
 slenderfire
 slenderfish
@@ -48648,6 +48832,7 @@ slowemerald
 slowengine
 slowestate
 slowfield
+slowfig
 slowfinch
 slowfire
 slowfish
@@ -48912,6 +49097,7 @@ sloweremerald
 slowerengine
 slowerestate
 slowerfield
+slowerfig
 slowerfinch
 slowerfire
 slowerfish
@@ -49176,6 +49362,7 @@ smallemerald
 smallengine
 smallestate
 smallfield
+smallfig
 smallfinch
 smallfire
 smallfish
@@ -49440,6 +49627,7 @@ smartemerald
 smartengine
 smartestate
 smartfield
+smartfig
 smartfinch
 smartfire
 smartfish
@@ -49704,6 +49892,7 @@ smileyemerald
 smileyengine
 smileyestate
 smileyfield
+smileyfig
 smileyfinch
 smileyfire
 smileyfish
@@ -49968,6 +50157,7 @@ smilelyemerald
 smilelyengine
 smilelyestate
 smilelyfield
+smilelyfig
 smilelyfinch
 smilelyfire
 smilelyfish
@@ -50232,6 +50422,7 @@ smilingemerald
 smilingengine
 smilingestate
 smilingfield
+smilingfig
 smilingfinch
 smilingfire
 smilingfish
@@ -50496,6 +50687,7 @@ smoothemerald
 smoothengine
 smoothestate
 smoothfield
+smoothfig
 smoothfinch
 smoothfire
 smoothfish
@@ -50760,6 +50952,7 @@ snugemerald
 snugengine
 snugestate
 snugfield
+snugfig
 snugfinch
 snugfire
 snugfish
@@ -51024,6 +51217,7 @@ softemerald
 softengine
 softestate
 softfield
+softfig
 softfinch
 softfire
 softfish
@@ -51288,6 +51482,7 @@ souremerald
 sourengine
 sourestate
 sourfield
+sourfig
 sourfinch
 sourfire
 sourfish
@@ -51552,6 +51747,7 @@ southemerald
 southengine
 southestate
 southfield
+southfig
 southfinch
 southfire
 southfish
@@ -51816,6 +52012,7 @@ squareemerald
 squareengine
 squareestate
 squarefield
+squarefig
 squarefinch
 squarefire
 squarefish
@@ -52080,6 +52277,7 @@ strangeemerald
 strangeengine
 strangeestate
 strangefield
+strangefig
 strangefinch
 strangefire
 strangefish
@@ -52344,6 +52542,7 @@ strongemerald
 strongengine
 strongestate
 strongfield
+strongfig
 strongfinch
 strongfire
 strongfish
@@ -52608,6 +52807,7 @@ sturdyemerald
 sturdyengine
 sturdyestate
 sturdyfield
+sturdyfig
 sturdyfinch
 sturdyfire
 sturdyfish
@@ -52872,6 +53072,7 @@ suddenemerald
 suddenengine
 suddenestate
 suddenfield
+suddenfig
 suddenfinch
 suddenfire
 suddenfish
@@ -53136,6 +53337,7 @@ sunnyemerald
 sunnyengine
 sunnyestate
 sunnyfield
+sunnyfig
 sunnyfinch
 sunnyfire
 sunnyfish
@@ -53400,6 +53602,7 @@ superemerald
 superengine
 superestate
 superfield
+superfig
 superfinch
 superfire
 superfish
@@ -53664,6 +53867,7 @@ sweetemerald
 sweetengine
 sweetestate
 sweetfield
+sweetfig
 sweetfinch
 sweetfire
 sweetfish
@@ -53928,6 +54132,7 @@ swiftemerald
 swiftengine
 swiftestate
 swiftfield
+swiftfig
 swiftfinch
 swiftfire
 swiftfish
@@ -54192,6 +54397,7 @@ tallemerald
 tallengine
 tallestate
 tallfield
+tallfig
 tallfinch
 tallfire
 tallfish
@@ -54456,6 +54662,7 @@ tealemerald
 tealengine
 tealestate
 tealfield
+tealfig
 tealfinch
 tealfire
 tealfish
@@ -54720,6 +54927,7 @@ terrificemerald
 terrificengine
 terrificestate
 terrificfield
+terrificfig
 terrificfinch
 terrificfire
 terrificfish
@@ -54984,6 +55192,7 @@ thirstyemerald
 thirstyengine
 thirstyestate
 thirstyfield
+thirstyfig
 thirstyfinch
 thirstyfire
 thirstyfish
@@ -55248,6 +55457,7 @@ thoughtfulemerald
 thoughtfulengine
 thoughtfulestate
 thoughtfulfield
+thoughtfulfig
 thoughtfulfinch
 thoughtfulfire
 thoughtfulfish
@@ -55512,6 +55722,7 @@ tinyemerald
 tinyengine
 tinyestate
 tinyfield
+tinyfig
 tinyfinch
 tinyfire
 tinyfish
@@ -55776,6 +55987,7 @@ unevenemerald
 unevenengine
 unevenestate
 unevenfield
+unevenfig
 unevenfinch
 unevenfire
 unevenfish
@@ -56040,6 +56252,7 @@ unusualemerald
 unusualengine
 unusualestate
 unusualfield
+unusualfig
 unusualfinch
 unusualfire
 unusualfish
@@ -56304,6 +56517,7 @@ urbanemerald
 urbanengine
 urbanestate
 urbanfield
+urbanfig
 urbanfinch
 urbanfire
 urbanfish
@@ -56568,6 +56782,7 @@ vanillaemerald
 vanillaengine
 vanillaestate
 vanillafield
+vanillafig
 vanillafinch
 vanillafire
 vanillafish
@@ -56832,6 +57047,7 @@ vastemerald
 vastengine
 vastestate
 vastfield
+vastfig
 vastfinch
 vastfire
 vastfish
@@ -57096,6 +57312,7 @@ violetemerald
 violetengine
 violetestate
 violetfield
+violetfig
 violetfinch
 violetfire
 violetfish
@@ -57360,6 +57577,7 @@ violinemerald
 violinengine
 violinestate
 violinfield
+violinfig
 violinfinch
 violinfire
 violinfish
@@ -57624,6 +57842,7 @@ warmemerald
 warmengine
 warmestate
 warmfield
+warmfig
 warmfinch
 warmfire
 warmfish
@@ -57888,6 +58107,7 @@ wateryemerald
 wateryengine
 wateryestate
 wateryfield
+wateryfig
 wateryfinch
 wateryfire
 wateryfish
@@ -58152,6 +58372,7 @@ weakemerald
 weakengine
 weakestate
 weakfield
+weakfig
 weakfinch
 weakfire
 weakfish
@@ -58416,6 +58637,7 @@ westemerald
 westengine
 westestate
 westfield
+westfig
 westfinch
 westfire
 westfish
@@ -58680,6 +58902,7 @@ whiteemerald
 whiteengine
 whiteestate
 whitefield
+whitefig
 whitefinch
 whitefire
 whitefish
@@ -58944,6 +59167,7 @@ wideemerald
 wideengine
 wideestate
 widefield
+widefig
 widefinch
 widefire
 widefish
@@ -59208,6 +59432,7 @@ wildemerald
 wildengine
 wildestate
 wildfield
+wildfig
 wildfinch
 wildfire
 wildfish
@@ -59472,6 +59697,7 @@ wildeemerald
 wildeengine
 wildeestate
 wildefield
+wildefig
 wildefinch
 wildefire
 wildefish
@@ -59736,6 +59962,7 @@ windyemerald
 windyengine
 windyestate
 windyfield
+windyfig
 windyfinch
 windyfire
 windyfish
@@ -60000,6 +60227,7 @@ wiseemerald
 wiseengine
 wiseestate
 wisefield
+wisefig
 wisefinch
 wisefire
 wisefish
@@ -60264,6 +60492,7 @@ wittyemerald
 wittyengine
 wittyestate
 wittyfield
+wittyfig
 wittyfinch
 wittyfire
 wittyfish
@@ -60528,6 +60757,7 @@ wonderfulemerald
 wonderfulengine
 wonderfulestate
 wonderfulfield
+wonderfulfig
 wonderfulfinch
 wonderfulfire
 wonderfulfish
@@ -60792,6 +61022,7 @@ yellowemerald
 yellowengine
 yellowestate
 yellowfield
+yellowfig
 yellowfinch
 yellowfire
 yellowfish
@@ -61056,6 +61287,7 @@ youngemerald
 youngengine
 youngestate
 youngfield
+youngfig
 youngfinch
 youngfire
 youngfish
@@ -61320,6 +61552,7 @@ zanyemerald
 zanyengine
 zanyestate
 zanyfield
+zanyfig
 zanyfinch
 zanyfire
 zanyfish
