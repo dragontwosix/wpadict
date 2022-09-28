@@ -53,6 +53,7 @@ curly
 curtain
 daisy
 data
+day
 deal
 deer
 degree
@@ -99,6 +100,7 @@ hair
 hat
 hill
 hippo
+hour
 house
 ink
 iris
@@ -128,7 +130,9 @@ market
 mesa
 mesa
 mint
+minute
 monkey
+month
 moon
 motorcycle
 mountain
