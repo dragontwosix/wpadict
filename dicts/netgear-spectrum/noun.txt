@@ -43,6 +43,7 @@ clock
 coast
 coat
 coconut
+coffee
 comet
 country
 course
