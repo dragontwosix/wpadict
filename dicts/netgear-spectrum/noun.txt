@@ -111,6 +111,7 @@ jazz
 jeans
 jet
 jetcar
+jewel
 jungle
 kangaroo
 kayak
@@ -188,6 +189,7 @@ rock
 rose
 rosebud
 ruby
+runner
 salad
 sea
 seed
