@@ -102,6 +102,7 @@ hair
 hat
 hill
 hippo
+honor
 hour
 house
 ink
