@@ -103,6 +103,7 @@ hat
 hill
 hippo
 honor
+hotel
 hour
 house
 ink
