@@ -86,6 +86,7 @@ forest
 formal
 fox
 free
+friend
 gadfly
 gate
 gear
