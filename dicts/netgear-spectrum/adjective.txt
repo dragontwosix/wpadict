@@ -141,6 +141,7 @@ nifty
 noisy
 normal
 north
+novel
 occur
 odd
 old
