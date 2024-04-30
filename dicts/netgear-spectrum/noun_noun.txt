@@ -151,6 +151,7 @@ affectmuseum
 affectnature
 affectness
 affectnest
+affectnews
 affectoasis
 affectobject
 affectoboe
@@ -432,6 +433,7 @@ airplanemuseum
 airplanenature
 airplaneness
 airplanenest
+airplanenews
 airplaneoasis
 airplaneobject
 airplaneoboe
@@ -713,6 +715,7 @@ applemuseum
 applenature
 appleness
 applenest
+applenews
 appleoasis
 appleobject
 appleoboe
@@ -994,6 +997,7 @@ automobilemuseum
 automobilenature
 automobileness
 automobilenest
+automobilenews
 automobileoasis
 automobileobject
 automobileoboe
@@ -1275,6 +1279,7 @@ ballmuseum
 ballnature
 ballness
 ballnest
+ballnews
 balloasis
 ballobject
 balloboe
@@ -1556,6 +1561,7 @@ balloonmuseum
 balloonnature
 balloonness
 balloonnest
+balloonnews
 balloonoasis
 balloonobject
 balloonoboe
@@ -1837,6 +1843,7 @@ bananamuseum
 banananature
 banananess
 banananest
+banananews
 bananaoasis
 bananaobject
 bananaoboe
@@ -2118,6 +2125,7 @@ barrelmuseum
 barrelnature
 barrelness
 barrelnest
+barrelnews
 barreloasis
 barrelobject
 barreloboe
@@ -2399,6 +2407,7 @@ batmuseum
 batnature
 batness
 batnest
+batnews
 batoasis
 batobject
 batoboe
@@ -2680,6 +2689,7 @@ beachmuseum
 beachnature
 beachness
 beachnest
+beachnews
 beachoasis
 beachobject
 beachoboe
@@ -2961,6 +2971,7 @@ beadmuseum
 beadnature
 beadness
 beadnest
+beadnews
 beadoasis
 beadobject
 beadoboe
@@ -3242,6 +3253,7 @@ berrymuseum
 berrynature
 berryness
 berrynest
+berrynews
 berryoasis
 berryobject
 berryoboe
@@ -3523,6 +3535,7 @@ bikemuseum
 bikenature
 bikeness
 bikenest
+bikenews
 bikeoasis
 bikeobject
 bikeoboe
@@ -3804,6 +3817,7 @@ birdmuseum
 birdnature
 birdness
 birdnest
+birdnews
 birdoasis
 birdobject
 birdoboe
@@ -4085,6 +4099,7 @@ boatmuseum
 boatnature
 boatness
 boatnest
+boatnews
 boatoasis
 boatobject
 boatoboe
@@ -4366,6 +4381,7 @@ boltmuseum
 boltnature
 boltness
 boltnest
+boltnews
 boltoasis
 boltobject
 boltoboe
@@ -4647,6 +4663,7 @@ bookmuseum
 booknature
 bookness
 booknest
+booknews
 bookoasis
 bookobject
 bookoboe
@@ -4928,6 +4945,7 @@ bootmuseum
 bootnature
 bootness
 bootnest
+bootnews
 bootoasis
 bootobject
 bootoboe
@@ -5209,6 +5227,7 @@ bottlemuseum
 bottlenature
 bottleness
 bottlenest
+bottlenews
 bottleoasis
 bottleobject
 bottleoboe
@@ -5490,6 +5509,7 @@ boxmuseum
 boxnature
 boxness
 boxnest
+boxnews
 boxoasis
 boxobject
 boxoboe
@@ -5771,6 +5791,7 @@ brainmuseum
 brainnature
 brainness
 brainnest
+brainnews
 brainoasis
 brainobject
 brainoboe
@@ -6052,6 +6073,7 @@ breadmuseum
 breadnature
 breadness
 breadnest
+breadnews
 breadoasis
 breadobject
 breadoboe
@@ -6333,6 +6355,7 @@ breezemuseum
 breezenature
 breezeness
 breezenest
+breezenews
 breezeoasis
 breezeobject
 breezeoboe
@@ -6614,6 +6637,7 @@ bubblemuseum
 bubblenature
 bubbleness
 bubblenest
+bubblenews
 bubbleoasis
 bubbleobject
 bubbleoboe
@@ -6895,6 +6919,7 @@ bugmuseum
 bugnature
 bugness
 bugnest
+bugnews
 bugoasis
 bugobject
 bugoboe
@@ -7176,6 +7201,7 @@ bunnymuseum
 bunnynature
 bunnyness
 bunnynest
+bunnynews
 bunnyoasis
 bunnyobject
 bunnyoboe
@@ -7457,6 +7483,7 @@ busmuseum
 busnature
 busness
 busnest
+busnews
 busoasis
 busobject
 busoboe
@@ -7738,6 +7765,7 @@ bushmuseum
 bushnature
 bushness
 bushnest
+bushnews
 bushoasis
 bushobject
 bushoboe
@@ -8019,6 +8047,7 @@ butlermuseum
 butlernature
 butlerness
 butlernest
+butlernews
 butleroasis
 butlerobject
 butleroboe
@@ -8300,6 +8329,7 @@ buttermuseum
 butternature
 butterness
 butternest
+butternews
 butteroasis
 butterobject
 butteroboe
@@ -8581,6 +8611,7 @@ buyermuseum
 buyernature
 buyerness
 buyernest
+buyernews
 buyeroasis
 buyerobject
 buyeroboe
@@ -8862,6 +8893,7 @@ canoemuseum
 canoenature
 canoeness
 canoenest
+canoenews
 canoeoasis
 canoeobject
 canoeoboe
@@ -9143,6 +9175,7 @@ carmuseum
 carnature
 carness
 carnest
+carnews
 caroasis
 carobject
 caroboe
@@ -9424,6 +9457,7 @@ catmuseum
 catnature
 catness
 catnest
+catnews
 catoasis
 catobject
 catoboe
@@ -9705,6 +9739,7 @@ carrotmuseum
 carrotnature
 carrotness
 carrotnest
+carrotnews
 carrotoasis
 carrotobject
 carrotoboe
@@ -9986,6 +10021,7 @@ cartoonmuseum
 cartoonnature
 cartoonness
 cartoonnest
+cartoonnews
 cartoonoasis
 cartoonobject
 cartoonoboe
@@ -10267,6 +10303,7 @@ cellomuseum
 cellonature
 celloness
 cellonest
+cellonews
 cellooasis
 celloobject
 cellooboe
@@ -10548,6 +10585,7 @@ chairmuseum
 chairnature
 chairness
 chairnest
+chairnews
 chairoasis
 chairobject
 chairoboe
@@ -10829,6 +10867,7 @@ cheekmuseum
 cheeknature
 cheekness
 cheeknest
+cheeknews
 cheekoasis
 cheekobject
 cheekoboe
@@ -11110,6 +11149,7 @@ cheesemuseum
 cheesenature
 cheeseness
 cheesenest
+cheesenews
 cheeseoasis
 cheeseobject
 cheeseoboe
@@ -11391,6 +11431,7 @@ chellomuseum
 chellonature
 chelloness
 chellonest
+chellonews
 chellooasis
 chelloobject
 chellooboe
@@ -11672,6 +11713,7 @@ chipmuseum
 chipnature
 chipness
 chipnest
+chipnews
 chipoasis
 chipobject
 chipoboe
@@ -11953,6 +11995,7 @@ chipmunkmuseum
 chipmunknature
 chipmunkness
 chipmunknest
+chipmunknews
 chipmunkoasis
 chipmunkobject
 chipmunkoboe
@@ -12234,6 +12277,7 @@ clockmuseum
 clocknature
 clockness
 clocknest
+clocknews
 clockoasis
 clockobject
 clockoboe
@@ -12515,6 +12559,7 @@ coastmuseum
 coastnature
 coastness
 coastnest
+coastnews
 coastoasis
 coastobject
 coastoboe
@@ -12796,6 +12841,7 @@ coatmuseum
 coatnature
 coatness
 coatnest
+coatnews
 coatoasis
 coatobject
 coatoboe
@@ -13077,6 +13123,7 @@ coconutmuseum
 coconutnature
 coconutness
 coconutnest
+coconutnews
 coconutoasis
 coconutobject
 coconutoboe
@@ -13358,6 +13405,7 @@ coffeemuseum
 coffeenature
 coffeeness
 coffeenest
+coffeenews
 coffeeoasis
 coffeeobject
 coffeeoboe
@@ -13639,6 +13687,7 @@ cometmuseum
 cometnature
 cometness
 cometnest
+cometnews
 cometoasis
 cometobject
 cometoboe
@@ -13920,6 +13969,7 @@ countrymuseum
 countrynature
 countryness
 countrynest
+countrynews
 countryoasis
 countryobject
 countryoboe
@@ -14201,6 +14251,7 @@ coursemuseum
 coursenature
 courseness
 coursenest
+coursenews
 courseoasis
 courseobject
 courseoboe
@@ -14482,6 +14533,7 @@ cowmuseum
 cownature
 cowness
 cownest
+cownews
 cowoasis
 cowobject
 cowoboe
@@ -14763,6 +14815,7 @@ creammuseum
 creamnature
 creamness
 creamnest
+creamnews
 creamoasis
 creamobject
 creamoboe
@@ -15044,6 +15097,7 @@ crownmuseum
 crownnature
 crownness
 crownnest
+crownnews
 crownoasis
 crownobject
 crownoboe
@@ -15325,6 +15379,7 @@ curlymuseum
 curlynature
 curlyness
 curlynest
+curlynews
 curlyoasis
 curlyobject
 curlyoboe
@@ -15606,6 +15661,7 @@ curtainmuseum
 curtainnature
 curtainness
 curtainnest
+curtainnews
 curtainoasis
 curtainobject
 curtainoboe
@@ -15887,6 +15943,7 @@ daisymuseum
 daisynature
 daisyness
 daisynest
+daisynews
 daisyoasis
 daisyobject
 daisyoboe
@@ -16168,6 +16225,7 @@ datamuseum
 datanature
 dataness
 datanest
+datanews
 dataoasis
 dataobject
 dataoboe
@@ -16449,6 +16507,7 @@ daymuseum
 daynature
 dayness
 daynest
+daynews
 dayoasis
 dayobject
 dayoboe
@@ -16730,6 +16789,7 @@ dealmuseum
 dealnature
 dealness
 dealnest
+dealnews
 dealoasis
 dealobject
 dealoboe
@@ -17011,6 +17071,7 @@ deermuseum
 deernature
 deerness
 deernest
+deernews
 deeroasis
 deerobject
 deeroboe
@@ -17292,6 +17353,7 @@ degreemuseum
 degreenature
 degreeness
 degreenest
+degreenews
 degreeoasis
 degreeobject
 degreeoboe
@@ -17573,6 +17635,7 @@ deskmuseum
 desknature
 deskness
 desknest
+desknews
 deskoasis
 deskobject
 deskoboe
@@ -17854,6 +17917,7 @@ diamondmuseum
 diamondnature
 diamondness
 diamondnest
+diamondnews
 diamondoasis
 diamondobject
 diamondoboe
@@ -18135,6 +18199,7 @@ dinkmuseum
 dinknature
 dinkness
 dinknest
+dinknews
 dinkoasis
 dinkobject
 dinkoboe
@@ -18416,6 +18481,7 @@ dogmuseum
 dognature
 dogness
 dognest
+dognews
 dogoasis
 dogobject
 dogoboe
@@ -18697,6 +18763,7 @@ dollmuseum
 dollnature
 dollness
 dollnest
+dollnews
 dolloasis
 dollobject
 dolloboe
@@ -18978,6 +19045,7 @@ doormuseum
 doornature
 doorness
 doornest
+doornews
 dooroasis
 doorobject
 dooroboe
@@ -19259,6 +19327,7 @@ drawermuseum
 drawernature
 drawerness
 drawernest
+drawernews
 draweroasis
 drawerobject
 draweroboe
@@ -19540,6 +19609,7 @@ dutymuseum
 dutynature
 dutyness
 dutynest
+dutynews
 dutyoasis
 dutyobject
 dutyoboe
@@ -19821,6 +19891,7 @@ eaglemuseum
 eaglenature
 eagleness
 eaglenest
+eaglenews
 eagleoasis
 eagleobject
 eagleoboe
@@ -20102,6 +20173,7 @@ earthmuseum
 earthnature
 earthness
 earthnest
+earthnews
 earthoasis
 earthobject
 earthoboe
@@ -20383,6 +20455,7 @@ effortmuseum
 effortnature
 effortness
 effortnest
+effortnews
 effortoasis
 effortobject
 effortoboe
@@ -20664,6 +20737,7 @@ eggplantmuseum
 eggplantnature
 eggplantness
 eggplantnest
+eggplantnews
 eggplantoasis
 eggplantobject
 eggplantoboe
@@ -20945,6 +21019,7 @@ elephantmuseum
 elephantnature
 elephantness
 elephantnest
+elephantnews
 elephantoasis
 elephantobject
 elephantoboe
@@ -21226,6 +21301,7 @@ emeraldmuseum
 emeraldnature
 emeraldness
 emeraldnest
+emeraldnews
 emeraldoasis
 emeraldobject
 emeraldoboe
@@ -21507,6 +21583,7 @@ enginemuseum
 enginenature
 engineness
 enginenest
+enginenews
 engineoasis
 engineobject
 engineoboe
@@ -21788,6 +21865,7 @@ estatemuseum
 estatenature
 estateness
 estatenest
+estatenews
 estateoasis
 estateobject
 estateoboe
@@ -22069,6 +22147,7 @@ farmermuseum
 farmernature
 farmerness
 farmernest
+farmernews
 farmeroasis
 farmerobject
 farmeroboe
@@ -22350,6 +22429,7 @@ fieldmuseum
 fieldnature
 fieldness
 fieldnest
+fieldnews
 fieldoasis
 fieldobject
 fieldoboe
@@ -22631,6 +22711,7 @@ figmuseum
 fignature
 figness
 fignest
+fignews
 figoasis
 figobject
 figoboe
@@ -22912,6 +22993,7 @@ finchmuseum
 finchnature
 finchness
 finchnest
+finchnews
 finchoasis
 finchobject
 finchoboe
@@ -23193,6 +23275,7 @@ firemuseum
 firenature
 fireness
 firenest
+firenews
 fireoasis
 fireobject
 fireoboe
@@ -23474,6 +23557,7 @@ fishmuseum
 fishnature
 fishness
 fishnest
+fishnews
 fishoasis
 fishobject
 fishoboe
@@ -23755,6 +23839,7 @@ flamingomuseum
 flamingonature
 flamingoness
 flamingonest
+flamingonews
 flamingooasis
 flamingoobject
 flamingooboe
@@ -24036,6 +24121,7 @@ flowermuseum
 flowernature
 flowerness
 flowernest
+flowernews
 floweroasis
 flowerobject
 floweroboe
@@ -24317,6 +24403,7 @@ flutemuseum
 flutenature
 fluteness
 flutenest
+flutenews
 fluteoasis
 fluteobject
 fluteoboe
@@ -24598,6 +24685,7 @@ forestmuseum
 forestnature
 forestness
 forestnest
+forestnews
 forestoasis
 forestobject
 forestoboe
@@ -24879,6 +24967,7 @@ formalmuseum
 formalnature
 formalness
 formalnest
+formalnews
 formaloasis
 formalobject
 formaloboe
@@ -25160,6 +25249,7 @@ foxmuseum
 foxnature
 foxness
 foxnest
+foxnews
 foxoasis
 foxobject
 foxoboe
@@ -25441,6 +25531,7 @@ freemuseum
 freenature
 freeness
 freenest
+freenews
 freeoasis
 freeobject
 freeoboe
@@ -25722,6 +25813,7 @@ friendmuseum
 friendnature
 friendness
 friendnest
+friendnews
 friendoasis
 friendobject
 friendoboe
@@ -26003,6 +26095,7 @@ gadflymuseum
 gadflynature
 gadflyness
 gadflynest
+gadflynews
 gadflyoasis
 gadflyobject
 gadflyoboe
@@ -26284,6 +26377,7 @@ gatemuseum
 gatenature
 gateness
 gatenest
+gatenews
 gateoasis
 gateobject
 gateoboe
@@ -26565,6 +26659,7 @@ gearmuseum
 gearnature
 gearness
 gearnest
+gearnews
 gearoasis
 gearobject
 gearoboe
@@ -26846,6 +26941,7 @@ giantmuseum
 giantnature
 giantness
 giantnest
+giantnews
 giantoasis
 giantobject
 giantoboe
@@ -27127,6 +27223,7 @@ giraffemuseum
 giraffenature
 giraffeness
 giraffenest
+giraffenews
 giraffeoasis
 giraffeobject
 giraffeoboe
@@ -27408,6 +27505,7 @@ girlmuseum
 girlnature
 girlness
 girlnest
+girlnews
 girloasis
 girlobject
 girloboe
@@ -27689,6 +27787,7 @@ glovemuseum
 glovenature
 gloveness
 glovenest
+glovenews
 gloveoasis
 gloveobject
 gloveoboe
@@ -27970,6 +28069,7 @@ goatmuseum
 goatnature
 goatness
 goatnest
+goatnews
 goatoasis
 goatobject
 goatoboe
@@ -28251,6 +28351,7 @@ grainmuseum
 grainnature
 grainness
 grainnest
+grainnews
 grainoasis
 grainobject
 grainoboe
@@ -28532,6 +28633,7 @@ grapemuseum
 grapenature
 grapeness
 grapenest
+grapenews
 grapeoasis
 grapeobject
 grapeoboe
@@ -28813,6 +28915,7 @@ grasshoppermuseum
 grasshoppernature
 grasshopperness
 grasshoppernest
+grasshoppernews
 grasshopperoasis
 grasshopperobject
 grasshopperoboe
@@ -29094,6 +29197,7 @@ guppymuseum
 guppynature
 guppyness
 guppynest
+guppynews
 guppyoasis
 guppyobject
 guppyoboe
@@ -29375,6 +29479,7 @@ hairmuseum
 hairnature
 hairness
 hairnest
+hairnews
 hairoasis
 hairobject
 hairoboe
@@ -29656,6 +29761,7 @@ hatmuseum
 hatnature
 hatness
 hatnest
+hatnews
 hatoasis
 hatobject
 hatoboe
@@ -29937,6 +30043,7 @@ hillmuseum
 hillnature
 hillness
 hillnest
+hillnews
 hilloasis
 hillobject
 hilloboe
@@ -30218,6 +30325,7 @@ hippomuseum
 hipponature
 hipponess
 hipponest
+hipponews
 hippooasis
 hippoobject
 hippooboe
@@ -30499,6 +30607,7 @@ honormuseum
 honornature
 honorness
 honornest
+honornews
 honoroasis
 honorobject
 honoroboe
@@ -30780,6 +30889,7 @@ hotelmuseum
 hotelnature
 hotelness
 hotelnest
+hotelnews
 hoteloasis
 hotelobject
 hoteloboe
@@ -31061,6 +31171,7 @@ hourmuseum
 hournature
 hourness
 hournest
+hournews
 houroasis
 hourobject
 houroboe
@@ -31342,6 +31453,7 @@ housemuseum
 housenature
 houseness
 housenest
+housenews
 houseoasis
 houseobject
 houseoboe
@@ -31623,6 +31735,7 @@ inkmuseum
 inknature
 inkness
 inknest
+inknews
 inkoasis
 inkobject
 inkoboe
@@ -31904,6 +32017,7 @@ irismuseum
 irisnature
 irisness
 irisnest
+irisnews
 irisoasis
 irisobject
 irisoboe
@@ -32185,6 +32299,7 @@ jacketmuseum
 jacketnature
 jacketness
 jacketnest
+jacketnews
 jacketoasis
 jacketobject
 jacketoboe
@@ -32466,6 +32581,7 @@ jademuseum
 jadenature
 jadeness
 jadenest
+jadenews
 jadeoasis
 jadeobject
 jadeoboe
@@ -32747,6 +32863,7 @@ jazzmuseum
 jazznature
 jazzness
 jazznest
+jazznews
 jazzoasis
 jazzobject
 jazzoboe
@@ -33028,6 +33145,7 @@ jeansmuseum
 jeansnature
 jeansness
 jeansnest
+jeansnews
 jeansoasis
 jeansobject
 jeansoboe
@@ -33309,6 +33427,7 @@ jetmuseum
 jetnature
 jetness
 jetnest
+jetnews
 jetoasis
 jetobject
 jetoboe
@@ -33590,6 +33709,7 @@ jetcarmuseum
 jetcarnature
 jetcarness
 jetcarnest
+jetcarnews
 jetcaroasis
 jetcarobject
 jetcaroboe
@@ -33871,6 +33991,7 @@ jewelmuseum
 jewelnature
 jewelness
 jewelnest
+jewelnews
 jeweloasis
 jewelobject
 jeweloboe
@@ -34152,6 +34273,7 @@ junglemuseum
 junglenature
 jungleness
 junglenest
+junglenews
 jungleoasis
 jungleobject
 jungleoboe
@@ -34433,6 +34555,7 @@ kangaroomuseum
 kangaroonature
 kangarooness
 kangaroonest
+kangaroonews
 kangaroooasis
 kangarooobject
 kangaroooboe
@@ -34714,6 +34837,7 @@ kayakmuseum
 kayaknature
 kayakness
 kayaknest
+kayaknews
 kayakoasis
 kayakobject
 kayakoboe
@@ -34995,6 +35119,7 @@ kettlemuseum
 kettlenature
 kettleness
 kettlenest
+kettlenews
 kettleoasis
 kettleobject
 kettleoboe
@@ -35276,6 +35401,7 @@ laddermuseum
 laddernature
 ladderness
 laddernest
+laddernews
 ladderoasis
 ladderobject
 ladderoboe
@@ -35557,6 +35683,7 @@ lakemuseum
 lakenature
 lakeness
 lakenest
+lakenews
 lakeoasis
 lakeobject
 lakeoboe
@@ -35838,6 +35965,7 @@ lawnmuseum
 lawnnature
 lawnness
 lawnnest
+lawnnews
 lawnoasis
 lawnobject
 lawnoboe
@@ -36119,6 +36247,7 @@ lemonmuseum
 lemonnature
 lemonness
 lemonnest
+lemonnews
 lemonoasis
 lemonobject
 lemonoboe
@@ -36400,6 +36529,7 @@ lightmuseum
 lightnature
 lightness
 lightnest
+lightnews
 lightoasis
 lightobject
 lightoboe
@@ -36681,6 +36811,7 @@ lightingmuseum
 lightingnature
 lightingness
 lightingnest
+lightingnews
 lightingoasis
 lightingobject
 lightingoboe
@@ -36962,6 +37093,7 @@ lightningmuseum
 lightningnature
 lightningness
 lightningnest
+lightningnews
 lightningoasis
 lightningobject
 lightningoboe
@@ -37243,6 +37375,7 @@ lionmuseum
 lionnature
 lionness
 lionnest
+lionnews
 lionoasis
 lionobject
 lionoboe
@@ -37524,6 +37657,7 @@ lotusmuseum
 lotusnature
 lotusness
 lotusnest
+lotusnews
 lotusoasis
 lotusobject
 lotusoboe
@@ -37805,6 +37939,7 @@ lumpmuseum
 lumpnature
 lumpness
 lumpnest
+lumpnews
 lumpoasis
 lumpobject
 lumpoboe
@@ -38086,6 +38221,7 @@ mangomuseum
 mangonature
 mangoness
 mangonest
+mangonews
 mangooasis
 mangoobject
 mangooboe
@@ -38367,6 +38503,7 @@ marblemuseum
 marblenature
 marbleness
 marblenest
+marblenews
 marbleoasis
 marbleobject
 marbleoboe
@@ -38648,6 +38785,7 @@ marketmuseum
 marketnature
 marketness
 marketnest
+marketnews
 marketoasis
 marketobject
 marketoboe
@@ -38929,6 +39067,7 @@ mesamuseum
 mesanature
 mesaness
 mesanest
+mesanews
 mesaoasis
 mesaobject
 mesaoboe
@@ -39210,6 +39349,7 @@ mesamuseum
 mesanature
 mesaness
 mesanest
+mesanews
 mesaoasis
 mesaobject
 mesaoboe
@@ -39491,6 +39631,7 @@ mintmuseum
 mintnature
 mintness
 mintnest
+mintnews
 mintoasis
 mintobject
 mintoboe
@@ -39772,6 +39913,7 @@ minutemuseum
 minutenature
 minuteness
 minutenest
+minutenews
 minuteoasis
 minuteobject
 minuteoboe
@@ -40053,6 +40195,7 @@ monkeymuseum
 monkeynature
 monkeyness
 monkeynest
+monkeynews
 monkeyoasis
 monkeyobject
 monkeyoboe
@@ -40334,6 +40477,7 @@ monthmuseum
 monthnature
 monthness
 monthnest
+monthnews
 monthoasis
 monthobject
 monthoboe
@@ -40615,6 +40759,7 @@ moonmuseum
 moonnature
 moonness
 moonnest
+moonnews
 moonoasis
 moonobject
 moonoboe
@@ -40896,6 +41041,7 @@ motorcyclemuseum
 motorcyclenature
 motorcycleness
 motorcyclenest
+motorcyclenews
 motorcycleoasis
 motorcycleobject
 motorcycleoboe
@@ -41177,6 +41323,7 @@ mountainmuseum
 mountainnature
 mountainness
 mountainnest
+mountainnews
 mountainoasis
 mountainobject
 mountainoboe
@@ -41458,6 +41605,7 @@ moviemuseum
 movienature
 movieness
 movienest
+movienews
 movieoasis
 movieobject
 movieoboe
@@ -41739,6 +41887,7 @@ mudmuseum
 mudnature
 mudness
 mudnest
+mudnews
 mudoasis
 mudobject
 mudoboe
@@ -42020,6 +42169,7 @@ museummuseum
 museumnature
 museumness
 museumnest
+museumnews
 museumoasis
 museumobject
 museumoboe
@@ -42301,6 +42451,7 @@ naturemuseum
 naturenature
 natureness
 naturenest
+naturenews
 natureoasis
 natureobject
 natureoboe
@@ -42582,6 +42733,7 @@ nessmuseum
 nessnature
 nessness
 nessnest
+nessnews
 nessoasis
 nessobject
 nessoboe
@@ -42863,6 +43015,7 @@ nestmuseum
 nestnature
 nestness
 nestnest
+nestnews
 nestoasis
 nestobject
 nestoboe
@@ -42991,6 +43144,288 @@ nestyacht
 nestyear
 nestzebra
 nestzoo
+newsaffect
+newsairplane
+newsapple
+newsautomobile
+newsball
+newsballoon
+newsbanana
+newsbarrel
+newsbat
+newsbeach
+newsbead
+newsberry
+newsbike
+newsbird
+newsboat
+newsbolt
+newsbook
+newsboot
+newsbottle
+newsbox
+newsbrain
+newsbread
+newsbreeze
+newsbubble
+newsbug
+newsbunny
+newsbus
+newsbush
+newsbutler
+newsbutter
+newsbuyer
+newscanoe
+newscar
+newscat
+newscarrot
+newscartoon
+newscello
+newschair
+newscheek
+newscheese
+newschello
+newschip
+newschipmunk
+newsclock
+newscoast
+newscoat
+newscoconut
+newscoffee
+newscomet
+newscountry
+newscourse
+newscow
+newscream
+newscrown
+newscurly
+newscurtain
+newsdaisy
+newsdata
+newsday
+newsdeal
+newsdeer
+newsdegree
+newsdesk
+newsdiamond
+newsdink
+newsdog
+newsdoll
+newsdoor
+newsdrawer
+newsduty
+newseagle
+newsearth
+newseffort
+newseggplant
+newselephant
+newsemerald
+newsengine
+newsestate
+newsfarmer
+newsfield
+newsfig
+newsfinch
+newsfire
+newsfish
+newsflamingo
+newsflower
+newsflute
+newsforest
+newsformal
+newsfox
+newsfree
+newsfriend
+newsgadfly
+newsgate
+newsgear
+newsgiant
+newsgiraffe
+newsgirl
+newsglove
+newsgoat
+newsgrain
+newsgrape
+newsgrasshopper
+newsguppy
+newshair
+newshat
+newshill
+newshippo
+newshonor
+newshotel
+newshour
+newshouse
+newsink
+newsiris
+newsjacket
+newsjade
+newsjazz
+newsjeans
+newsjet
+newsjetcar
+newsjewel
+newsjungle
+newskangaroo
+newskayak
+newskettle
+newsladder
+newslake
+newslawn
+newslemon
+newslight
+newslighting
+newslightning
+newslion
+newslotus
+newslump
+newsmango
+newsmarble
+newsmarket
+newsmesa
+newsmesa
+newsmint
+newsminute
+newsmonkey
+newsmonth
+newsmoon
+newsmotorcycle
+newsmountain
+newsmovie
+newsmud
+newsmuseum
+newsnature
+newsness
+newsnest
+newsnews
+newsoasis
+newsobject
+newsoboe
+newsocean
+newsoctopus
+newsonion
+newsorange
+newsorchestra
+newsowl
+newspanda
+newspant
+newspath
+newspatron
+newspear
+newspencil
+newspenguin
+newspepper
+newsphoenix
+newsphone
+newspiano
+newspineapple
+newsplane
+newsplanet
+newsplum
+newspoetry
+newspond
+newspoodle
+newspotato
+newsprairie
+newspuppy
+newsquail
+newsrabbit
+newsraccoon
+newsraid
+newsrain
+newsradio
+newsraven
+newsreview
+newsriver
+newsroad
+newsrobert
+newsrock
+newsrose
+newsrosebud
+newsruby
+newsrunner
+newssalad
+newssea
+newsseed
+newsshark
+newssheep
+newsship
+newsshoe
+newsshore
+newsshrub
+newsskin
+newsside
+newssilver
+newssinger
+newssitter
+newsskates
+newsskin
+newsskunk
+newssky
+newssled
+newssnail
+newssnake
+newssocks
+newssofa
+newsspark
+newssparrow
+newsspider
+newssquash
+newssquirrel
+newsstable
+newsstar
+newsstate
+newsstatue
+newsstove
+newsstraw
+newsstream
+newsstreet
+newssun
+newstable
+newstea
+newsteapot
+newstent
+newsterrain
+newstheory
+newstie
+newstiger
+newstimber
+newstoast
+newstomato
+newstopic
+newstoy
+newstrail
+newstrain
+newstree
+newstruck
+newstrumpet
+newstuba
+newstube
+newstulip
+newsturkey
+newsturtle
+newsumbrella
+newsunicorn
+newsunion
+newsunit
+newsvalley
+newsvase
+newsverse
+newsviolet
+newsviolin
+newswalnut
+newswatch
+newswater
+newsweek
+newswest
+newswhale
+newswind
+newswindow
+newswolf
+newsyacht
+newsyear
+newszebra
+newszoo
 oasisaffect
 oasisairplane
 oasisapple
@@ -43144,6 +43579,7 @@ oasismuseum
 oasisnature
 oasisness
 oasisnest
+oasisnews
 oasisoasis
 oasisobject
 oasisoboe
@@ -43425,6 +43861,7 @@ objectmuseum
 objectnature
 objectness
 objectnest
+objectnews
 objectoasis
 objectobject
 objectoboe
@@ -43706,6 +44143,7 @@ oboemuseum
 oboenature
 oboeness
 oboenest
+oboenews
 oboeoasis
 oboeobject
 oboeoboe
@@ -43987,6 +44425,7 @@ oceanmuseum
 oceannature
 oceanness
 oceannest
+oceannews
 oceanoasis
 oceanobject
 oceanoboe
@@ -44268,6 +44707,7 @@ octopusmuseum
 octopusnature
 octopusness
 octopusnest
+octopusnews
 octopusoasis
 octopusobject
 octopusoboe
@@ -44549,6 +44989,7 @@ onionmuseum
 onionnature
 onionness
 onionnest
+onionnews
 onionoasis
 onionobject
 onionoboe
@@ -44830,6 +45271,7 @@ orangemuseum
 orangenature
 orangeness
 orangenest
+orangenews
 orangeoasis
 orangeobject
 orangeoboe
@@ -45111,6 +45553,7 @@ orchestramuseum
 orchestranature
 orchestraness
 orchestranest
+orchestranews
 orchestraoasis
 orchestraobject
 orchestraoboe
@@ -45392,6 +45835,7 @@ owlmuseum
 owlnature
 owlness
 owlnest
+owlnews
 owloasis
 owlobject
 owloboe
@@ -45673,6 +46117,7 @@ pandamuseum
 pandanature
 pandaness
 pandanest
+pandanews
 pandaoasis
 pandaobject
 pandaoboe
@@ -45954,6 +46399,7 @@ pantmuseum
 pantnature
 pantness
 pantnest
+pantnews
 pantoasis
 pantobject
 pantoboe
@@ -46235,6 +46681,7 @@ pathmuseum
 pathnature
 pathness
 pathnest
+pathnews
 pathoasis
 pathobject
 pathoboe
@@ -46516,6 +46963,7 @@ patronmuseum
 patronnature
 patronness
 patronnest
+patronnews
 patronoasis
 patronobject
 patronoboe
@@ -46797,6 +47245,7 @@ pearmuseum
 pearnature
 pearness
 pearnest
+pearnews
 pearoasis
 pearobject
 pearoboe
@@ -47078,6 +47527,7 @@ pencilmuseum
 pencilnature
 pencilness
 pencilnest
+pencilnews
 penciloasis
 pencilobject
 penciloboe
@@ -47359,6 +47809,7 @@ penguinmuseum
 penguinnature
 penguinness
 penguinnest
+penguinnews
 penguinoasis
 penguinobject
 penguinoboe
@@ -47640,6 +48091,7 @@ peppermuseum
 peppernature
 pepperness
 peppernest
+peppernews
 pepperoasis
 pepperobject
 pepperoboe
@@ -47921,6 +48373,7 @@ phoenixmuseum
 phoenixnature
 phoenixness
 phoenixnest
+phoenixnews
 phoenixoasis
 phoenixobject
 phoenixoboe
@@ -48202,6 +48655,7 @@ phonemuseum
 phonenature
 phoneness
 phonenest
+phonenews
 phoneoasis
 phoneobject
 phoneoboe
@@ -48483,6 +48937,7 @@ pianomuseum
 pianonature
 pianoness
 pianonest
+pianonews
 pianooasis
 pianoobject
 pianooboe
@@ -48764,6 +49219,7 @@ pineapplemuseum
 pineapplenature
 pineappleness
 pineapplenest
+pineapplenews
 pineappleoasis
 pineappleobject
 pineappleoboe
@@ -49045,6 +49501,7 @@ planemuseum
 planenature
 planeness
 planenest
+planenews
 planeoasis
 planeobject
 planeoboe
@@ -49326,6 +49783,7 @@ planetmuseum
 planetnature
 planetness
 planetnest
+planetnews
 planetoasis
 planetobject
 planetoboe
@@ -49607,6 +50065,7 @@ plummuseum
 plumnature
 plumness
 plumnest
+plumnews
 plumoasis
 plumobject
 plumoboe
@@ -49888,6 +50347,7 @@ poetrymuseum
 poetrynature
 poetryness
 poetrynest
+poetrynews
 poetryoasis
 poetryobject
 poetryoboe
@@ -50169,6 +50629,7 @@ pondmuseum
 pondnature
 pondness
 pondnest
+pondnews
 pondoasis
 pondobject
 pondoboe
@@ -50450,6 +50911,7 @@ poodlemuseum
 poodlenature
 poodleness
 poodlenest
+poodlenews
 poodleoasis
 poodleobject
 poodleoboe
@@ -50731,6 +51193,7 @@ potatomuseum
 potatonature
 potatoness
 potatonest
+potatonews
 potatooasis
 potatoobject
 potatooboe
@@ -51012,6 +51475,7 @@ prairiemuseum
 prairienature
 prairieness
 prairienest
+prairienews
 prairieoasis
 prairieobject
 prairieoboe
@@ -51293,6 +51757,7 @@ puppymuseum
 puppynature
 puppyness
 puppynest
+puppynews
 puppyoasis
 puppyobject
 puppyoboe
@@ -51574,6 +52039,7 @@ quailmuseum
 quailnature
 quailness
 quailnest
+quailnews
 quailoasis
 quailobject
 quailoboe
@@ -51855,6 +52321,7 @@ rabbitmuseum
 rabbitnature
 rabbitness
 rabbitnest
+rabbitnews
 rabbitoasis
 rabbitobject
 rabbitoboe
@@ -52136,6 +52603,7 @@ raccoonmuseum
 raccoonnature
 raccoonness
 raccoonnest
+raccoonnews
 raccoonoasis
 raccoonobject
 raccoonoboe
@@ -52417,6 +52885,7 @@ raidmuseum
 raidnature
 raidness
 raidnest
+raidnews
 raidoasis
 raidobject
 raidoboe
@@ -52698,6 +53167,7 @@ rainmuseum
 rainnature
 rainness
 rainnest
+rainnews
 rainoasis
 rainobject
 rainoboe
@@ -52979,6 +53449,7 @@ radiomuseum
 radionature
 radioness
 radionest
+radionews
 radiooasis
 radioobject
 radiooboe
@@ -53260,6 +53731,7 @@ ravenmuseum
 ravennature
 ravenness
 ravennest
+ravennews
 ravenoasis
 ravenobject
 ravenoboe
@@ -53541,6 +54013,7 @@ reviewmuseum
 reviewnature
 reviewness
 reviewnest
+reviewnews
 reviewoasis
 reviewobject
 reviewoboe
@@ -53822,6 +54295,7 @@ rivermuseum
 rivernature
 riverness
 rivernest
+rivernews
 riveroasis
 riverobject
 riveroboe
@@ -54103,6 +54577,7 @@ roadmuseum
 roadnature
 roadness
 roadnest
+roadnews
 roadoasis
 roadobject
 roadoboe
@@ -54384,6 +54859,7 @@ robertmuseum
 robertnature
 robertness
 robertnest
+robertnews
 robertoasis
 robertobject
 robertoboe
@@ -54665,6 +55141,7 @@ rockmuseum
 rocknature
 rockness
 rocknest
+rocknews
 rockoasis
 rockobject
 rockoboe
@@ -54946,6 +55423,7 @@ rosemuseum
 rosenature
 roseness
 rosenest
+rosenews
 roseoasis
 roseobject
 roseoboe
@@ -55227,6 +55705,7 @@ rosebudmuseum
 rosebudnature
 rosebudness
 rosebudnest
+rosebudnews
 rosebudoasis
 rosebudobject
 rosebudoboe
@@ -55508,6 +55987,7 @@ rubymuseum
 rubynature
 rubyness
 rubynest
+rubynews
 rubyoasis
 rubyobject
 rubyoboe
@@ -55789,6 +56269,7 @@ runnermuseum
 runnernature
 runnerness
 runnernest
+runnernews
 runneroasis
 runnerobject
 runneroboe
@@ -56070,6 +56551,7 @@ saladmuseum
 saladnature
 saladness
 saladnest
+saladnews
 saladoasis
 saladobject
 saladoboe
@@ -56351,6 +56833,7 @@ seamuseum
 seanature
 seaness
 seanest
+seanews
 seaoasis
 seaobject
 seaoboe
@@ -56632,6 +57115,7 @@ seedmuseum
 seednature
 seedness
 seednest
+seednews
 seedoasis
 seedobject
 seedoboe
@@ -56913,6 +57397,7 @@ sharkmuseum
 sharknature
 sharkness
 sharknest
+sharknews
 sharkoasis
 sharkobject
 sharkoboe
@@ -57194,6 +57679,7 @@ sheepmuseum
 sheepnature
 sheepness
 sheepnest
+sheepnews
 sheepoasis
 sheepobject
 sheepoboe
@@ -57475,6 +57961,7 @@ shipmuseum
 shipnature
 shipness
 shipnest
+shipnews
 shipoasis
 shipobject
 shipoboe
@@ -57756,6 +58243,7 @@ shoemuseum
 shoenature
 shoeness
 shoenest
+shoenews
 shoeoasis
 shoeobject
 shoeoboe
@@ -58037,6 +58525,7 @@ shoremuseum
 shorenature
 shoreness
 shorenest
+shorenews
 shoreoasis
 shoreobject
 shoreoboe
@@ -58318,6 +58807,7 @@ shrubmuseum
 shrubnature
 shrubness
 shrubnest
+shrubnews
 shruboasis
 shrubobject
 shruboboe
@@ -58599,6 +59089,7 @@ skinmuseum
 skinnature
 skinness
 skinnest
+skinnews
 skinoasis
 skinobject
 skinoboe
@@ -58880,6 +59371,7 @@ sidemuseum
 sidenature
 sideness
 sidenest
+sidenews
 sideoasis
 sideobject
 sideoboe
@@ -59161,6 +59653,7 @@ silvermuseum
 silvernature
 silverness
 silvernest
+silvernews
 silveroasis
 silverobject
 silveroboe
@@ -59442,6 +59935,7 @@ singermuseum
 singernature
 singerness
 singernest
+singernews
 singeroasis
 singerobject
 singeroboe
@@ -59723,6 +60217,7 @@ sittermuseum
 sitternature
 sitterness
 sitternest
+sitternews
 sitteroasis
 sitterobject
 sitteroboe
@@ -60004,6 +60499,7 @@ skatesmuseum
 skatesnature
 skatesness
 skatesnest
+skatesnews
 skatesoasis
 skatesobject
 skatesoboe
@@ -60285,6 +60781,7 @@ skinmuseum
 skinnature
 skinness
 skinnest
+skinnews
 skinoasis
 skinobject
 skinoboe
@@ -60566,6 +61063,7 @@ skunkmuseum
 skunknature
 skunkness
 skunknest
+skunknews
 skunkoasis
 skunkobject
 skunkoboe
@@ -60847,6 +61345,7 @@ skymuseum
 skynature
 skyness
 skynest
+skynews
 skyoasis
 skyobject
 skyoboe
@@ -61128,6 +61627,7 @@ sledmuseum
 slednature
 sledness
 slednest
+slednews
 sledoasis
 sledobject
 sledoboe
@@ -61409,6 +61909,7 @@ snailmuseum
 snailnature
 snailness
 snailnest
+snailnews
 snailoasis
 snailobject
 snailoboe
@@ -61690,6 +62191,7 @@ snakemuseum
 snakenature
 snakeness
 snakenest
+snakenews
 snakeoasis
 snakeobject
 snakeoboe
@@ -61971,6 +62473,7 @@ socksmuseum
 socksnature
 socksness
 socksnest
+socksnews
 socksoasis
 socksobject
 socksoboe
@@ -62252,6 +62755,7 @@ sofamuseum
 sofanature
 sofaness
 sofanest
+sofanews
 sofaoasis
 sofaobject
 sofaoboe
@@ -62533,6 +63037,7 @@ sparkmuseum
 sparknature
 sparkness
 sparknest
+sparknews
 sparkoasis
 sparkobject
 sparkoboe
@@ -62814,6 +63319,7 @@ sparrowmuseum
 sparrownature
 sparrowness
 sparrownest
+sparrownews
 sparrowoasis
 sparrowobject
 sparrowoboe
@@ -63095,6 +63601,7 @@ spidermuseum
 spidernature
 spiderness
 spidernest
+spidernews
 spideroasis
 spiderobject
 spideroboe
@@ -63376,6 +63883,7 @@ squashmuseum
 squashnature
 squashness
 squashnest
+squashnews
 squashoasis
 squashobject
 squashoboe
@@ -63657,6 +64165,7 @@ squirrelmuseum
 squirrelnature
 squirrelness
 squirrelnest
+squirrelnews
 squirreloasis
 squirrelobject
 squirreloboe
@@ -63938,6 +64447,7 @@ stablemuseum
 stablenature
 stableness
 stablenest
+stablenews
 stableoasis
 stableobject
 stableoboe
@@ -64219,6 +64729,7 @@ starmuseum
 starnature
 starness
 starnest
+starnews
 staroasis
 starobject
 staroboe
@@ -64500,6 +65011,7 @@ statemuseum
 statenature
 stateness
 statenest
+statenews
 stateoasis
 stateobject
 stateoboe
@@ -64781,6 +65293,7 @@ statuemuseum
 statuenature
 statueness
 statuenest
+statuenews
 statueoasis
 statueobject
 statueoboe
@@ -65062,6 +65575,7 @@ stovemuseum
 stovenature
 stoveness
 stovenest
+stovenews
 stoveoasis
 stoveobject
 stoveoboe
@@ -65343,6 +65857,7 @@ strawmuseum
 strawnature
 strawness
 strawnest
+strawnews
 strawoasis
 strawobject
 strawoboe
@@ -65624,6 +66139,7 @@ streammuseum
 streamnature
 streamness
 streamnest
+streamnews
 streamoasis
 streamobject
 streamoboe
@@ -65905,6 +66421,7 @@ streetmuseum
 streetnature
 streetness
 streetnest
+streetnews
 streetoasis
 streetobject
 streetoboe
@@ -66186,6 +66703,7 @@ sunmuseum
 sunnature
 sunness
 sunnest
+sunnews
 sunoasis
 sunobject
 sunoboe
@@ -66467,6 +66985,7 @@ tablemuseum
 tablenature
 tableness
 tablenest
+tablenews
 tableoasis
 tableobject
 tableoboe
@@ -66748,6 +67267,7 @@ teamuseum
 teanature
 teaness
 teanest
+teanews
 teaoasis
 teaobject
 teaoboe
@@ -67029,6 +67549,7 @@ teapotmuseum
 teapotnature
 teapotness
 teapotnest
+teapotnews
 teapotoasis
 teapotobject
 teapotoboe
@@ -67310,6 +67831,7 @@ tentmuseum
 tentnature
 tentness
 tentnest
+tentnews
 tentoasis
 tentobject
 tentoboe
@@ -67591,6 +68113,7 @@ terrainmuseum
 terrainnature
 terrainness
 terrainnest
+terrainnews
 terrainoasis
 terrainobject
 terrainoboe
@@ -67872,6 +68395,7 @@ theorymuseum
 theorynature
 theoryness
 theorynest
+theorynews
 theoryoasis
 theoryobject
 theoryoboe
@@ -68153,6 +68677,7 @@ tiemuseum
 tienature
 tieness
 tienest
+tienews
 tieoasis
 tieobject
 tieoboe
@@ -68434,6 +68959,7 @@ tigermuseum
 tigernature
 tigerness
 tigernest
+tigernews
 tigeroasis
 tigerobject
 tigeroboe
@@ -68715,6 +69241,7 @@ timbermuseum
 timbernature
 timberness
 timbernest
+timbernews
 timberoasis
 timberobject
 timberoboe
@@ -68996,6 +69523,7 @@ toastmuseum
 toastnature
 toastness
 toastnest
+toastnews
 toastoasis
 toastobject
 toastoboe
@@ -69277,6 +69805,7 @@ tomatomuseum
 tomatonature
 tomatoness
 tomatonest
+tomatonews
 tomatooasis
 tomatoobject
 tomatooboe
@@ -69558,6 +70087,7 @@ topicmuseum
 topicnature
 topicness
 topicnest
+topicnews
 topicoasis
 topicobject
 topicoboe
@@ -69839,6 +70369,7 @@ toymuseum
 toynature
 toyness
 toynest
+toynews
 toyoasis
 toyobject
 toyoboe
@@ -70120,6 +70651,7 @@ trailmuseum
 trailnature
 trailness
 trailnest
+trailnews
 trailoasis
 trailobject
 trailoboe
@@ -70401,6 +70933,7 @@ trainmuseum
 trainnature
 trainness
 trainnest
+trainnews
 trainoasis
 trainobject
 trainoboe
@@ -70682,6 +71215,7 @@ treemuseum
 treenature
 treeness
 treenest
+treenews
 treeoasis
 treeobject
 treeoboe
@@ -70963,6 +71497,7 @@ truckmuseum
 trucknature
 truckness
 trucknest
+trucknews
 truckoasis
 truckobject
 truckoboe
@@ -71244,6 +71779,7 @@ trumpetmuseum
 trumpetnature
 trumpetness
 trumpetnest
+trumpetnews
 trumpetoasis
 trumpetobject
 trumpetoboe
@@ -71525,6 +72061,7 @@ tubamuseum
 tubanature
 tubaness
 tubanest
+tubanews
 tubaoasis
 tubaobject
 tubaoboe
@@ -71806,6 +72343,7 @@ tubemuseum
 tubenature
 tubeness
 tubenest
+tubenews
 tubeoasis
 tubeobject
 tubeoboe
@@ -72087,6 +72625,7 @@ tulipmuseum
 tulipnature
 tulipness
 tulipnest
+tulipnews
 tulipoasis
 tulipobject
 tulipoboe
@@ -72368,6 +72907,7 @@ turkeymuseum
 turkeynature
 turkeyness
 turkeynest
+turkeynews
 turkeyoasis
 turkeyobject
 turkeyoboe
@@ -72649,6 +73189,7 @@ turtlemuseum
 turtlenature
 turtleness
 turtlenest
+turtlenews
 turtleoasis
 turtleobject
 turtleoboe
@@ -72930,6 +73471,7 @@ umbrellamuseum
 umbrellanature
 umbrellaness
 umbrellanest
+umbrellanews
 umbrellaoasis
 umbrellaobject
 umbrellaoboe
@@ -73211,6 +73753,7 @@ unicornmuseum
 unicornnature
 unicornness
 unicornnest
+unicornnews
 unicornoasis
 unicornobject
 unicornoboe
@@ -73492,6 +74035,7 @@ unionmuseum
 unionnature
 unionness
 unionnest
+unionnews
 unionoasis
 unionobject
 unionoboe
@@ -73773,6 +74317,7 @@ unitmuseum
 unitnature
 unitness
 unitnest
+unitnews
 unitoasis
 unitobject
 unitoboe
@@ -74054,6 +74599,7 @@ valleymuseum
 valleynature
 valleyness
 valleynest
+valleynews
 valleyoasis
 valleyobject
 valleyoboe
@@ -74335,6 +74881,7 @@ vasemuseum
 vasenature
 vaseness
 vasenest
+vasenews
 vaseoasis
 vaseobject
 vaseoboe
@@ -74616,6 +75163,7 @@ versemuseum
 versenature
 verseness
 versenest
+versenews
 verseoasis
 verseobject
 verseoboe
@@ -74897,6 +75445,7 @@ violetmuseum
 violetnature
 violetness
 violetnest
+violetnews
 violetoasis
 violetobject
 violetoboe
@@ -75178,6 +75727,7 @@ violinmuseum
 violinnature
 violinness
 violinnest
+violinnews
 violinoasis
 violinobject
 violinoboe
@@ -75459,6 +76009,7 @@ walnutmuseum
 walnutnature
 walnutness
 walnutnest
+walnutnews
 walnutoasis
 walnutobject
 walnutoboe
@@ -75740,6 +76291,7 @@ watchmuseum
 watchnature
 watchness
 watchnest
+watchnews
 watchoasis
 watchobject
 watchoboe
@@ -76021,6 +76573,7 @@ watermuseum
 waternature
 waterness
 waternest
+waternews
 wateroasis
 waterobject
 wateroboe
@@ -76302,6 +76855,7 @@ weekmuseum
 weeknature
 weekness
 weeknest
+weeknews
 weekoasis
 weekobject
 weekoboe
@@ -76583,6 +77137,7 @@ westmuseum
 westnature
 westness
 westnest
+westnews
 westoasis
 westobject
 westoboe
@@ -76864,6 +77419,7 @@ whalemuseum
 whalenature
 whaleness
 whalenest
+whalenews
 whaleoasis
 whaleobject
 whaleoboe
@@ -77145,6 +77701,7 @@ windmuseum
 windnature
 windness
 windnest
+windnews
 windoasis
 windobject
 windoboe
@@ -77426,6 +77983,7 @@ windowmuseum
 windownature
 windowness
 windownest
+windownews
 windowoasis
 windowobject
 windowoboe
@@ -77707,6 +78265,7 @@ wolfmuseum
 wolfnature
 wolfness
 wolfnest
+wolfnews
 wolfoasis
 wolfobject
 wolfoboe
@@ -77988,6 +78547,7 @@ yachtmuseum
 yachtnature
 yachtness
 yachtnest
+yachtnews
 yachtoasis
 yachtobject
 yachtoboe
@@ -78269,6 +78829,7 @@ yearmuseum
 yearnature
 yearness
 yearnest
+yearnews
 yearoasis
 yearobject
 yearoboe
@@ -78550,6 +79111,7 @@ zebramuseum
 zebranature
 zebraness
 zebranest
+zebranews
 zebraoasis
 zebraobject
 zebraoboe
@@ -78831,6 +79393,7 @@ zoomuseum
 zoonature
 zooness
 zoonest
+zoonews
 zoooasis
 zooobject
 zoooboe

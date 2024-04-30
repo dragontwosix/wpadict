@@ -151,6 +151,7 @@ museum
 nature
 ness
 nest
+news
 oasis
 object
 oboe
