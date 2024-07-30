@@ -53,6 +53,7 @@ cow
 cream
 crown
 curly
+currency
 curtain
 daisy
 data
@@ -199,6 +200,7 @@ rosebud
 ruby
 runner
 salad
+scale
 sea
 seed
 shark

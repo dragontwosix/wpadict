@@ -53,6 +53,7 @@ absurdcow
 absurdcream
 absurdcrown
 absurdcurly
+absurdcurrency
 absurdcurtain
 absurddaisy
 absurddata
@@ -199,6 +200,7 @@ absurdrosebud
 absurdruby
 absurdrunner
 absurdsalad
+absurdscale
 absurdsea
 absurdseed
 absurdshark
@@ -335,6 +337,7 @@ adorablecow
 adorablecream
 adorablecrown
 adorablecurly
+adorablecurrency
 adorablecurtain
 adorabledaisy
 adorabledata
@@ -481,6 +484,7 @@ adorablerosebud
 adorableruby
 adorablerunner
 adorablesalad
+adorablescale
 adorablesea
 adorableseed
 adorableshark
@@ -617,6 +621,7 @@ anchorcow
 anchorcream
 anchorcrown
 anchorcurly
+anchorcurrency
 anchorcurtain
 anchordaisy
 anchordata
@@ -763,6 +768,7 @@ anchorrosebud
 anchorruby
 anchorrunner
 anchorsalad
+anchorscale
 anchorsea
 anchorseed
 anchorshark
@@ -899,6 +905,7 @@ ancientcow
 ancientcream
 ancientcrown
 ancientcurly
+ancientcurrency
 ancientcurtain
 ancientdaisy
 ancientdata
@@ -1045,6 +1052,7 @@ ancientrosebud
 ancientruby
 ancientrunner
 ancientsalad
+ancientscale
 ancientsea
 ancientseed
 ancientshark
@@ -1181,6 +1189,7 @@ angrycow
 angrycream
 angrycrown
 angrycurly
+angrycurrency
 angrycurtain
 angrydaisy
 angrydata
@@ -1327,6 +1336,7 @@ angryrosebud
 angryruby
 angryrunner
 angrysalad
+angryscale
 angrysea
 angryseed
 angryshark
@@ -1463,6 +1473,7 @@ antiquecow
 antiquecream
 antiquecrown
 antiquecurly
+antiquecurrency
 antiquecurtain
 antiquedaisy
 antiquedata
@@ -1609,6 +1620,7 @@ antiquerosebud
 antiqueruby
 antiquerunner
 antiquesalad
+antiquescale
 antiquesea
 antiqueseed
 antiqueshark
@@ -1745,6 +1757,7 @@ aquaticcow
 aquaticcream
 aquaticcrown
 aquaticcurly
+aquaticcurrency
 aquaticcurtain
 aquaticdaisy
 aquaticdata
@@ -1891,6 +1904,7 @@ aquaticrosebud
 aquaticruby
 aquaticrunner
 aquaticsalad
+aquaticscale
 aquaticsea
 aquaticseed
 aquaticshark
@@ -2027,6 +2041,7 @@ awaycow
 awaycream
 awaycrown
 awaycurly
+awaycurrency
 awaycurtain
 awaydaisy
 awaydata
@@ -2173,6 +2188,7 @@ awayrosebud
 awayruby
 awayrunner
 awaysalad
+awayscale
 awaysea
 awayseed
 awayshark
@@ -2309,6 +2325,7 @@ babycow
 babycream
 babycrown
 babycurly
+babycurrency
 babycurtain
 babydaisy
 babydata
@@ -2455,6 +2472,7 @@ babyrosebud
 babyruby
 babyrunner
 babysalad
+babyscale
 babysea
 babyseed
 babyshark
@@ -2591,6 +2609,7 @@ basiccow
 basiccream
 basiccrown
 basiccurly
+basiccurrency
 basiccurtain
 basicdaisy
 basicdata
@@ -2737,6 +2756,7 @@ basicrosebud
 basicruby
 basicrunner
 basicsalad
+basicscale
 basicsea
 basicseed
 basicshark
@@ -2873,6 +2893,7 @@ baycow
 baycream
 baycrown
 baycurly
+baycurrency
 baycurtain
 baydaisy
 baydata
@@ -3019,6 +3040,7 @@ bayrosebud
 bayruby
 bayrunner
 baysalad
+bayscale
 baysea
 bayseed
 bayshark
@@ -3155,6 +3177,7 @@ bettercow
 bettercream
 bettercrown
 bettercurly
+bettercurrency
 bettercurtain
 betterdaisy
 betterdata
@@ -3301,6 +3324,7 @@ betterrosebud
 betterruby
 betterrunner
 bettersalad
+betterscale
 bettersea
 betterseed
 bettershark
@@ -3437,6 +3461,7 @@ bigcow
 bigcream
 bigcrown
 bigcurly
+bigcurrency
 bigcurtain
 bigdaisy
 bigdata
@@ -3583,6 +3608,7 @@ bigrosebud
 bigruby
 bigrunner
 bigsalad
+bigscale
 bigsea
 bigseed
 bigshark
@@ -3719,6 +3745,7 @@ bittercow
 bittercream
 bittercrown
 bittercurly
+bittercurrency
 bittercurtain
 bitterdaisy
 bitterdata
@@ -3865,6 +3892,7 @@ bitterrosebud
 bitterruby
 bitterrunner
 bittersalad
+bitterscale
 bittersea
 bitterseed
 bittershark
@@ -4001,6 +4029,7 @@ blackcow
 blackcream
 blackcrown
 blackcurly
+blackcurrency
 blackcurtain
 blackdaisy
 blackdata
@@ -4147,6 +4176,7 @@ blackrosebud
 blackruby
 blackrunner
 blacksalad
+blackscale
 blacksea
 blackseed
 blackshark
@@ -4283,6 +4313,7 @@ bluecow
 bluecream
 bluecrown
 bluecurly
+bluecurrency
 bluecurtain
 bluedaisy
 bluedata
@@ -4429,6 +4460,7 @@ bluerosebud
 blueruby
 bluerunner
 bluesalad
+bluescale
 bluesea
 blueseed
 blueshark
@@ -4565,6 +4597,7 @@ boardcow
 boardcream
 boardcrown
 boardcurly
+boardcurrency
 boardcurtain
 boarddaisy
 boarddata
@@ -4711,6 +4744,7 @@ boardrosebud
 boardruby
 boardrunner
 boardsalad
+boardscale
 boardsea
 boardseed
 boardshark
@@ -4847,6 +4881,7 @@ boldcow
 boldcream
 boldcrown
 boldcurly
+boldcurrency
 boldcurtain
 bolddaisy
 bolddata
@@ -4993,6 +5028,7 @@ boldrosebud
 boldruby
 boldrunner
 boldsalad
+boldscale
 boldsea
 boldseed
 boldshark
@@ -5129,6 +5165,7 @@ bottlecow
 bottlecream
 bottlecrown
 bottlecurly
+bottlecurrency
 bottlecurtain
 bottledaisy
 bottledata
@@ -5275,6 +5312,7 @@ bottlerosebud
 bottleruby
 bottlerunner
 bottlesalad
+bottlescale
 bottlesea
 bottleseed
 bottleshark
@@ -5411,6 +5449,7 @@ bottledcow
 bottledcream
 bottledcrown
 bottledcurly
+bottledcurrency
 bottledcurtain
 bottleddaisy
 bottleddata
@@ -5557,6 +5596,7 @@ bottledrosebud
 bottledruby
 bottledrunner
 bottledsalad
+bottledscale
 bottledsea
 bottledseed
 bottledshark
@@ -5693,6 +5733,7 @@ bravecow
 bravecream
 bravecrown
 bravecurly
+bravecurrency
 bravecurtain
 bravedaisy
 bravedata
@@ -5839,6 +5880,7 @@ braverosebud
 braveruby
 braverunner
 bravesalad
+bravescale
 bravesea
 braveseed
 braveshark
@@ -5975,6 +6017,7 @@ breezycow
 breezycream
 breezycrown
 breezycurly
+breezycurrency
 breezycurtain
 breezydaisy
 breezydata
@@ -6121,6 +6164,7 @@ breezyrosebud
 breezyruby
 breezyrunner
 breezysalad
+breezyscale
 breezysea
 breezyseed
 breezyshark
@@ -6257,6 +6301,7 @@ brightcow
 brightcream
 brightcrown
 brightcurly
+brightcurrency
 brightcurtain
 brightdaisy
 brightdata
@@ -6403,6 +6448,7 @@ brightrosebud
 brightruby
 brightrunner
 brightsalad
+brightscale
 brightsea
 brightseed
 brightshark
@@ -6539,6 +6585,7 @@ browncow
 browncream
 browncrown
 browncurly
+browncurrency
 browncurtain
 browndaisy
 browndata
@@ -6685,6 +6732,7 @@ brownrosebud
 brownruby
 brownrunner
 brownsalad
+brownscale
 brownsea
 brownseed
 brownshark
@@ -6821,6 +6869,7 @@ calmcow
 calmcream
 calmcrown
 calmcurly
+calmcurrency
 calmcurtain
 calmdaisy
 calmdata
@@ -6967,6 +7016,7 @@ calmrosebud
 calmruby
 calmrunner
 calmsalad
+calmscale
 calmsea
 calmseed
 calmshark
@@ -7103,6 +7153,7 @@ carrotcow
 carrotcream
 carrotcrown
 carrotcurly
+carrotcurrency
 carrotcurtain
 carrotdaisy
 carrotdata
@@ -7249,6 +7300,7 @@ carrotrosebud
 carrotruby
 carrotrunner
 carrotsalad
+carrotscale
 carrotsea
 carrotseed
 carrotshark
@@ -7385,6 +7437,7 @@ cashcow
 cashcream
 cashcrown
 cashcurly
+cashcurrency
 cashcurtain
 cashdaisy
 cashdata
@@ -7531,6 +7584,7 @@ cashrosebud
 cashruby
 cashrunner
 cashsalad
+cashscale
 cashsea
 cashseed
 cashshark
@@ -7667,6 +7721,7 @@ charmingcow
 charmingcream
 charmingcrown
 charmingcurly
+charmingcurrency
 charmingcurtain
 charmingdaisy
 charmingdata
@@ -7813,6 +7868,7 @@ charmingrosebud
 charmingruby
 charmingrunner
 charmingsalad
+charmingscale
 charmingsea
 charmingseed
 charmingshark
@@ -7949,6 +8005,7 @@ cheerfulcow
 cheerfulcream
 cheerfulcrown
 cheerfulcurly
+cheerfulcurrency
 cheerfulcurtain
 cheerfuldaisy
 cheerfuldata
@@ -8095,6 +8152,7 @@ cheerfulrosebud
 cheerfulruby
 cheerfulrunner
 cheerfulsalad
+cheerfulscale
 cheerfulsea
 cheerfulseed
 cheerfulshark
@@ -8231,6 +8289,7 @@ chillycow
 chillycream
 chillycrown
 chillycurly
+chillycurrency
 chillycurtain
 chillydaisy
 chillydata
@@ -8377,6 +8436,7 @@ chillyrosebud
 chillyruby
 chillyrunner
 chillysalad
+chillyscale
 chillysea
 chillyseed
 chillyshark
@@ -8513,6 +8573,7 @@ chipcow
 chipcream
 chipcrown
 chipcurly
+chipcurrency
 chipcurtain
 chipdaisy
 chipdata
@@ -8659,6 +8720,7 @@ chiprosebud
 chipruby
 chiprunner
 chipsalad
+chipscale
 chipsea
 chipseed
 chipshark
@@ -8795,6 +8857,7 @@ chummycow
 chummycream
 chummycrown
 chummycurly
+chummycurrency
 chummycurtain
 chummydaisy
 chummydata
@@ -8941,6 +9004,7 @@ chummyrosebud
 chummyruby
 chummyrunner
 chummysalad
+chummyscale
 chummysea
 chummyseed
 chummyshark
@@ -9077,6 +9141,7 @@ classycow
 classycream
 classycrown
 classycurly
+classycurrency
 classycurtain
 classydaisy
 classydata
@@ -9223,6 +9288,7 @@ classyrosebud
 classyruby
 classyrunner
 classysalad
+classyscale
 classysea
 classyseed
 classyshark
@@ -9359,6 +9425,7 @@ cleancow
 cleancream
 cleancrown
 cleancurly
+cleancurrency
 cleancurtain
 cleandaisy
 cleandata
@@ -9505,6 +9572,7 @@ cleanrosebud
 cleanruby
 cleanrunner
 cleansalad
+cleanscale
 cleansea
 cleanseed
 cleanshark
@@ -9641,6 +9709,7 @@ clearcow
 clearcream
 clearcrown
 clearcurly
+clearcurrency
 clearcurtain
 cleardaisy
 cleardata
@@ -9787,6 +9856,7 @@ clearrosebud
 clearruby
 clearrunner
 clearsalad
+clearscale
 clearsea
 clearseed
 clearshark
@@ -9923,6 +9993,7 @@ clevercow
 clevercream
 clevercrown
 clevercurly
+clevercurrency
 clevercurtain
 cleverdaisy
 cleverdata
@@ -10069,6 +10140,7 @@ cleverrosebud
 cleverruby
 cleverrunner
 cleversalad
+cleverscale
 cleversea
 cleverseed
 clevershark
@@ -10205,6 +10277,7 @@ cloudycow
 cloudycream
 cloudycrown
 cloudycurly
+cloudycurrency
 cloudycurtain
 cloudydaisy
 cloudydata
@@ -10351,6 +10424,7 @@ cloudyrosebud
 cloudyruby
 cloudyrunner
 cloudysalad
+cloudyscale
 cloudysea
 cloudyseed
 cloudyshark
@@ -10487,6 +10561,7 @@ clumsycow
 clumsycream
 clumsycrown
 clumsycurly
+clumsycurrency
 clumsycurtain
 clumsydaisy
 clumsydata
@@ -10633,6 +10708,7 @@ clumsyrosebud
 clumsyruby
 clumsyrunner
 clumsysalad
+clumsyscale
 clumsysea
 clumsyseed
 clumsyshark
@@ -10769,6 +10845,7 @@ coldcow
 coldcream
 coldcrown
 coldcurly
+coldcurrency
 coldcurtain
 colddaisy
 colddata
@@ -10915,6 +10992,7 @@ coldrosebud
 coldruby
 coldrunner
 coldsalad
+coldscale
 coldsea
 coldseed
 coldshark
@@ -11051,6 +11129,7 @@ cometcow
 cometcream
 cometcrown
 cometcurly
+cometcurrency
 cometcurtain
 cometdaisy
 cometdata
@@ -11197,6 +11276,7 @@ cometrosebud
 cometruby
 cometrunner
 cometsalad
+cometscale
 cometsea
 cometseed
 cometshark
@@ -11278,6 +11358,290 @@ cometyacht
 cometyear
 cometzebra
 cometzoo
+constantaffect
+constantairplane
+constantapple
+constantautomobile
+constantball
+constantballoon
+constantbanana
+constantbarrel
+constantbat
+constantbeach
+constantbead
+constantberry
+constantbike
+constantbird
+constantboat
+constantbolt
+constantbook
+constantboot
+constantbottle
+constantbox
+constantbrain
+constantbread
+constantbreeze
+constantbubble
+constantbug
+constantbunny
+constantbus
+constantbush
+constantbutler
+constantbutter
+constantbuyer
+constantcanoe
+constantcar
+constantcat
+constantcarrot
+constantcartoon
+constantcello
+constantchair
+constantcheek
+constantcheese
+constantchello
+constantchip
+constantchipmunk
+constantclock
+constantcoast
+constantcoat
+constantcoconut
+constantcoffee
+constantcomet
+constantcountry
+constantcourse
+constantcow
+constantcream
+constantcrown
+constantcurly
+constantcurrency
+constantcurtain
+constantdaisy
+constantdata
+constantday
+constantdeal
+constantdeer
+constantdegree
+constantdesk
+constantdiamond
+constantdink
+constantdog
+constantdoll
+constantdoor
+constantdrawer
+constantduty
+constanteagle
+constantearth
+constanteffort
+constanteggplant
+constantelephant
+constantemerald
+constantengine
+constantestate
+constantfarmer
+constantfield
+constantfig
+constantfinch
+constantfire
+constantfish
+constantflamingo
+constantflower
+constantflute
+constantforest
+constantformal
+constantfox
+constantfree
+constantfriend
+constantgadfly
+constantgate
+constantgear
+constantgiant
+constantgiraffe
+constantgirl
+constantglove
+constantgoat
+constantgrain
+constantgrape
+constantgrasshopper
+constantguppy
+constanthair
+constanthat
+constanthill
+constanthippo
+constanthonor
+constanthotel
+constanthour
+constanthouse
+constantink
+constantiris
+constantjacket
+constantjade
+constantjazz
+constantjeans
+constantjet
+constantjetcar
+constantjewel
+constantjungle
+constantkangaroo
+constantkayak
+constantkettle
+constantladder
+constantlake
+constantlawn
+constantlemon
+constantlight
+constantlighting
+constantlightning
+constantlion
+constantlotus
+constantlump
+constantmango
+constantmarble
+constantmarket
+constantmesa
+constantmesa
+constantmint
+constantminute
+constantmonkey
+constantmonth
+constantmoon
+constantmotorcycle
+constantmountain
+constantmovie
+constantmud
+constantmuseum
+constantnature
+constantness
+constantnest
+constantnews
+constantoasis
+constantobject
+constantoboe
+constantocean
+constantoctopus
+constantonion
+constantorange
+constantorchestra
+constantowl
+constantpanda
+constantpant
+constantpath
+constantpatron
+constantpear
+constantpencil
+constantpenguin
+constantpepper
+constantphoenix
+constantphone
+constantpiano
+constantpineapple
+constantplane
+constantplanet
+constantplum
+constantpoetry
+constantpond
+constantpoodle
+constantpotato
+constantprairie
+constantpuppy
+constantquail
+constantrabbit
+constantraccoon
+constantraid
+constantrain
+constantradio
+constantraven
+constantreview
+constantriver
+constantroad
+constantrobert
+constantrock
+constantrose
+constantrosebud
+constantruby
+constantrunner
+constantsalad
+constantscale
+constantsea
+constantseed
+constantshark
+constantsheep
+constantship
+constantshoe
+constantshore
+constantshrub
+constantskin
+constantside
+constantsilver
+constantsinger
+constantsitter
+constantskates
+constantskin
+constantskunk
+constantsky
+constantsled
+constantsnail
+constantsnake
+constantsocks
+constantsofa
+constantspark
+constantsparrow
+constantspider
+constantsquash
+constantsquirrel
+constantstable
+constantstar
+constantstate
+constantstatue
+constantstove
+constantstraw
+constantstream
+constantstreet
+constantsun
+constanttable
+constanttea
+constantteapot
+constanttent
+constantterrain
+constanttheory
+constanttie
+constanttiger
+constanttimber
+constanttoast
+constanttomato
+constanttopic
+constanttoy
+constanttrail
+constanttrain
+constanttree
+constanttruck
+constanttrumpet
+constanttuba
+constanttube
+constanttulip
+constantturkey
+constantturtle
+constantumbrella
+constantunicorn
+constantunion
+constantunit
+constantvalley
+constantvase
+constantverse
+constantviolet
+constantviolin
+constantwalnut
+constantwatch
+constantwater
+constantweek
+constantwest
+constantwhale
+constantwind
+constantwindow
+constantwolf
+constantyacht
+constantyear
+constantzebra
+constantzoo
 coolaffect
 coolairplane
 coolapple
@@ -11333,6 +11697,7 @@ coolcow
 coolcream
 coolcrown
 coolcurly
+coolcurrency
 coolcurtain
 cooldaisy
 cooldata
@@ -11479,6 +11844,7 @@ coolrosebud
 coolruby
 coolrunner
 coolsalad
+coolscale
 coolsea
 coolseed
 coolshark
@@ -11615,6 +11981,7 @@ crispycow
 crispycream
 crispycrown
 crispycurly
+crispycurrency
 crispycurtain
 crispydaisy
 crispydata
@@ -11761,6 +12128,7 @@ crispyrosebud
 crispyruby
 crispyrunner
 crispysalad
+crispyscale
 crispysea
 crispyseed
 crispyshark
@@ -11897,6 +12265,7 @@ curlycow
 curlycream
 curlycrown
 curlycurly
+curlycurrency
 curlycurtain
 curlydaisy
 curlydata
@@ -12043,6 +12412,7 @@ curlyrosebud
 curlyruby
 curlyrunner
 curlysalad
+curlyscale
 curlysea
 curlyseed
 curlyshark
@@ -12179,6 +12549,7 @@ cutecow
 cutecream
 cutecrown
 cutecurly
+cutecurrency
 cutecurtain
 cutedaisy
 cutedata
@@ -12325,6 +12696,7 @@ cuterosebud
 cuteruby
 cuterunner
 cutesalad
+cutescale
 cutesea
 cuteseed
 cuteshark
@@ -12461,6 +12833,7 @@ dailycow
 dailycream
 dailycrown
 dailycurly
+dailycurrency
 dailycurtain
 dailydaisy
 dailydata
@@ -12607,6 +12980,7 @@ dailyrosebud
 dailyruby
 dailyrunner
 dailysalad
+dailyscale
 dailysea
 dailyseed
 dailyshark
@@ -12743,6 +13117,7 @@ dampcow
 dampcream
 dampcrown
 dampcurly
+dampcurrency
 dampcurtain
 dampdaisy
 dampdata
@@ -12889,6 +13264,7 @@ damprosebud
 dampruby
 damprunner
 dampsalad
+dampscale
 dampsea
 dampseed
 dampshark
@@ -13025,6 +13401,7 @@ dandycow
 dandycream
 dandycrown
 dandycurly
+dandycurrency
 dandycurtain
 dandydaisy
 dandydata
@@ -13171,6 +13548,7 @@ dandyrosebud
 dandyruby
 dandyrunner
 dandysalad
+dandyscale
 dandysea
 dandyseed
 dandyshark
@@ -13307,6 +13685,7 @@ deepcow
 deepcream
 deepcrown
 deepcurly
+deepcurrency
 deepcurtain
 deepdaisy
 deepdata
@@ -13453,6 +13832,7 @@ deeprosebud
 deepruby
 deeprunner
 deepsalad
+deepscale
 deepsea
 deepseed
 deepshark
@@ -13589,6 +13969,7 @@ delightfulcow
 delightfulcream
 delightfulcrown
 delightfulcurly
+delightfulcurrency
 delightfulcurtain
 delightfuldaisy
 delightfuldata
@@ -13735,6 +14116,7 @@ delightfulrosebud
 delightfulruby
 delightfulrunner
 delightfulsalad
+delightfulscale
 delightfulsea
 delightfulseed
 delightfulshark
@@ -13871,6 +14253,7 @@ desertcow
 desertcream
 desertcrown
 desertcurly
+desertcurrency
 desertcurtain
 desertdaisy
 desertdata
@@ -14017,6 +14400,7 @@ desertrosebud
 desertruby
 desertrunner
 desertsalad
+desertscale
 desertsea
 desertseed
 desertshark
@@ -14153,6 +14537,7 @@ dizzycow
 dizzycream
 dizzycrown
 dizzycurly
+dizzycurrency
 dizzycurtain
 dizzydaisy
 dizzydata
@@ -14299,6 +14684,7 @@ dizzyrosebud
 dizzyruby
 dizzyrunner
 dizzysalad
+dizzyscale
 dizzysea
 dizzyseed
 dizzyshark
@@ -14435,6 +14821,7 @@ doublecow
 doublecream
 doublecrown
 doublecurly
+doublecurrency
 doublecurtain
 doubledaisy
 doubledata
@@ -14581,6 +14968,7 @@ doublerosebud
 doubleruby
 doublerunner
 doublesalad
+doublescale
 doublesea
 doubleseed
 doubleshark
@@ -14717,6 +15105,7 @@ downcow
 downcream
 downcrown
 downcurly
+downcurrency
 downcurtain
 downdaisy
 downdata
@@ -14863,6 +15252,7 @@ downrosebud
 downruby
 downrunner
 downsalad
+downscale
 downsea
 downseed
 downshark
@@ -14999,6 +15389,7 @@ dustycow
 dustycream
 dustycrown
 dustycurly
+dustycurrency
 dustycurtain
 dustydaisy
 dustydata
@@ -15145,6 +15536,7 @@ dustyrosebud
 dustyruby
 dustyrunner
 dustysalad
+dustyscale
 dustysea
 dustyseed
 dustyshark
@@ -15281,6 +15673,7 @@ dynamiccow
 dynamiccream
 dynamiccrown
 dynamiccurly
+dynamiccurrency
 dynamiccurtain
 dynamicdaisy
 dynamicdata
@@ -15427,6 +15820,7 @@ dynamicrosebud
 dynamicruby
 dynamicrunner
 dynamicsalad
+dynamicscale
 dynamicsea
 dynamicseed
 dynamicshark
@@ -15563,6 +15957,7 @@ eagercow
 eagercream
 eagercrown
 eagercurly
+eagercurrency
 eagercurtain
 eagerdaisy
 eagerdata
@@ -15709,6 +16104,7 @@ eagerrosebud
 eagerruby
 eagerrunner
 eagersalad
+eagerscale
 eagersea
 eagerseed
 eagershark
@@ -15845,6 +16241,7 @@ eastcow
 eastcream
 eastcrown
 eastcurly
+eastcurrency
 eastcurtain
 eastdaisy
 eastdata
@@ -15991,6 +16388,7 @@ eastrosebud
 eastruby
 eastrunner
 eastsalad
+eastscale
 eastsea
 eastseed
 eastshark
@@ -16127,6 +16525,7 @@ easycow
 easycream
 easycrown
 easycurly
+easycurrency
 easycurtain
 easydaisy
 easydata
@@ -16273,6 +16672,7 @@ easyrosebud
 easyruby
 easyrunner
 easysalad
+easyscale
 easysea
 easyseed
 easyshark
@@ -16409,6 +16809,7 @@ elatedcow
 elatedcream
 elatedcrown
 elatedcurly
+elatedcurrency
 elatedcurtain
 elateddaisy
 elateddata
@@ -16555,6 +16956,7 @@ elatedrosebud
 elatedruby
 elatedrunner
 elatedsalad
+elatedscale
 elatedsea
 elatedseed
 elatedshark
@@ -16691,6 +17093,7 @@ elegantcow
 elegantcream
 elegantcrown
 elegantcurly
+elegantcurrency
 elegantcurtain
 elegantdaisy
 elegantdata
@@ -16837,6 +17240,7 @@ elegantrosebud
 elegantruby
 elegantrunner
 elegantsalad
+elegantscale
 elegantsea
 elegantseed
 elegantshark
@@ -16973,6 +17377,7 @@ enginecow
 enginecream
 enginecrown
 enginecurly
+enginecurrency
 enginecurtain
 enginedaisy
 enginedata
@@ -17119,6 +17524,7 @@ enginerosebud
 engineruby
 enginerunner
 enginesalad
+enginescale
 enginesea
 engineseed
 engineshark
@@ -17255,6 +17661,7 @@ excitecow
 excitecream
 excitecrown
 excitecurly
+excitecurrency
 excitecurtain
 excitedaisy
 excitedata
@@ -17401,6 +17808,7 @@ exciterosebud
 exciteruby
 exciterunner
 excitesalad
+excitescale
 excitesea
 exciteseed
 exciteshark
@@ -17537,6 +17945,7 @@ epiccow
 epiccream
 epiccrown
 epiccurly
+epiccurrency
 epiccurtain
 epicdaisy
 epicdata
@@ -17683,6 +18092,7 @@ epicrosebud
 epicruby
 epicrunner
 epicsalad
+epicscale
 epicsea
 epicseed
 epicshark
@@ -17819,6 +18229,7 @@ excitedcow
 excitedcream
 excitedcrown
 excitedcurly
+excitedcurrency
 excitedcurtain
 exciteddaisy
 exciteddata
@@ -17965,6 +18376,7 @@ excitedrosebud
 excitedruby
 excitedrunner
 excitedsalad
+excitedscale
 excitedsea
 excitedseed
 excitedshark
@@ -18101,6 +18513,7 @@ exoticcow
 exoticcream
 exoticcrown
 exoticcurly
+exoticcurrency
 exoticcurtain
 exoticdaisy
 exoticdata
@@ -18247,6 +18660,7 @@ exoticrosebud
 exoticruby
 exoticrunner
 exoticsalad
+exoticscale
 exoticsea
 exoticseed
 exoticshark
@@ -18383,6 +18797,7 @@ famouscow
 famouscream
 famouscrown
 famouscurly
+famouscurrency
 famouscurtain
 famousdaisy
 famousdata
@@ -18529,6 +18944,7 @@ famousrosebud
 famousruby
 famousrunner
 famoussalad
+famousscale
 famoussea
 famousseed
 famousshark
@@ -18665,6 +19081,7 @@ fancycow
 fancycream
 fancycrown
 fancycurly
+fancycurrency
 fancycurtain
 fancydaisy
 fancydata
@@ -18811,6 +19228,7 @@ fancyrosebud
 fancyruby
 fancyrunner
 fancysalad
+fancyscale
 fancysea
 fancyseed
 fancyshark
@@ -18947,6 +19365,7 @@ fastcow
 fastcream
 fastcrown
 fastcurly
+fastcurrency
 fastcurtain
 fastdaisy
 fastdata
@@ -19093,6 +19512,7 @@ fastrosebud
 fastruby
 fastrunner
 fastsalad
+fastscale
 fastsea
 fastseed
 fastshark
@@ -19229,6 +19649,7 @@ fearlesscow
 fearlesscream
 fearlesscrown
 fearlesscurly
+fearlesscurrency
 fearlesscurtain
 fearlessdaisy
 fearlessdata
@@ -19375,6 +19796,7 @@ fearlessrosebud
 fearlessruby
 fearlessrunner
 fearlesssalad
+fearlessscale
 fearlesssea
 fearlessseed
 fearlessshark
@@ -19511,6 +19933,7 @@ festivecow
 festivecream
 festivecrown
 festivecurly
+festivecurrency
 festivecurtain
 festivedaisy
 festivedata
@@ -19657,6 +20080,7 @@ festiverosebud
 festiveruby
 festiverunner
 festivesalad
+festivescale
 festivesea
 festiveseed
 festiveshark
@@ -19793,6 +20217,7 @@ finishcow
 finishcream
 finishcrown
 finishcurly
+finishcurrency
 finishcurtain
 finishdaisy
 finishdata
@@ -19939,6 +20364,7 @@ finishrosebud
 finishruby
 finishrunner
 finishsalad
+finishscale
 finishsea
 finishseed
 finishshark
@@ -20075,6 +20501,7 @@ flatcow
 flatcream
 flatcrown
 flatcurly
+flatcurrency
 flatcurtain
 flatdaisy
 flatdata
@@ -20221,6 +20648,7 @@ flatrosebud
 flatruby
 flatrunner
 flatsalad
+flatscale
 flatsea
 flatseed
 flatshark
@@ -20357,6 +20785,7 @@ fluentcow
 fluentcream
 fluentcrown
 fluentcurly
+fluentcurrency
 fluentcurtain
 fluentdaisy
 fluentdata
@@ -20503,6 +20932,7 @@ fluentrosebud
 fluentruby
 fluentrunner
 fluentsalad
+fluentscale
 fluentsea
 fluentseed
 fluentshark
@@ -20639,6 +21069,7 @@ fluffycow
 fluffycream
 fluffycrown
 fluffycurly
+fluffycurrency
 fluffycurtain
 fluffydaisy
 fluffydata
@@ -20785,6 +21216,7 @@ fluffyrosebud
 fluffyruby
 fluffyrunner
 fluffysalad
+fluffyscale
 fluffysea
 fluffyseed
 fluffyshark
@@ -20921,6 +21353,7 @@ fragilecow
 fragilecream
 fragilecrown
 fragilecurly
+fragilecurrency
 fragilecurtain
 fragiledaisy
 fragiledata
@@ -21067,6 +21500,7 @@ fragilerosebud
 fragileruby
 fragilerunner
 fragilesalad
+fragilescale
 fragilesea
 fragileseed
 fragileshark
@@ -21203,6 +21637,7 @@ freecow
 freecream
 freecrown
 freecurly
+freecurrency
 freecurtain
 freedaisy
 freedata
@@ -21349,6 +21784,7 @@ freerosebud
 freeruby
 freerunner
 freesalad
+freescale
 freesea
 freeseed
 freeshark
@@ -21485,6 +21921,7 @@ freshcow
 freshcream
 freshcrown
 freshcurly
+freshcurrency
 freshcurtain
 freshdaisy
 freshdata
@@ -21631,6 +22068,7 @@ freshrosebud
 freshruby
 freshrunner
 freshsalad
+freshscale
 freshsea
 freshseed
 freshshark
@@ -21767,6 +22205,7 @@ friendlycow
 friendlycream
 friendlycrown
 friendlycurly
+friendlycurrency
 friendlycurtain
 friendlydaisy
 friendlydata
@@ -21913,6 +22352,7 @@ friendlyrosebud
 friendlyruby
 friendlyrunner
 friendlysalad
+friendlyscale
 friendlysea
 friendlyseed
 friendlyshark
@@ -22049,6 +22489,7 @@ frostycow
 frostycream
 frostycrown
 frostycurly
+frostycurrency
 frostycurtain
 frostydaisy
 frostydata
@@ -22195,6 +22636,7 @@ frostyrosebud
 frostyruby
 frostyrunner
 frostysalad
+frostyscale
 frostysea
 frostyseed
 frostyshark
@@ -22331,6 +22773,7 @@ funnycow
 funnycream
 funnycrown
 funnycurly
+funnycurrency
 funnycurtain
 funnydaisy
 funnydata
@@ -22477,6 +22920,7 @@ funnyrosebud
 funnyruby
 funnyrunner
 funnysalad
+funnyscale
 funnysea
 funnyseed
 funnyshark
@@ -22613,6 +23057,7 @@ furrycow
 furrycream
 furrycrown
 furrycurly
+furrycurrency
 furrycurtain
 furrydaisy
 furrydata
@@ -22759,6 +23204,7 @@ furryrosebud
 furryruby
 furryrunner
 furrysalad
+furryscale
 furrysea
 furryseed
 furryshark
@@ -22895,6 +23341,7 @@ fuzzycow
 fuzzycream
 fuzzycrown
 fuzzycurly
+fuzzycurrency
 fuzzycurtain
 fuzzydaisy
 fuzzydata
@@ -23041,6 +23488,7 @@ fuzzyrosebud
 fuzzyruby
 fuzzyrunner
 fuzzysalad
+fuzzyscale
 fuzzysea
 fuzzyseed
 fuzzyshark
@@ -23177,6 +23625,7 @@ gentlecow
 gentlecream
 gentlecrown
 gentlecurly
+gentlecurrency
 gentlecurtain
 gentledaisy
 gentledata
@@ -23323,6 +23772,7 @@ gentlerosebud
 gentleruby
 gentlerunner
 gentlesalad
+gentlescale
 gentlesea
 gentleseed
 gentleshark
@@ -23459,6 +23909,7 @@ globalcow
 globalcream
 globalcrown
 globalcurly
+globalcurrency
 globalcurtain
 globaldaisy
 globaldata
@@ -23605,6 +24056,7 @@ globalrosebud
 globalruby
 globalrunner
 globalsalad
+globalscale
 globalsea
 globalseed
 globalshark
@@ -23741,6 +24193,7 @@ giddycow
 giddycream
 giddycrown
 giddycurly
+giddycurrency
 giddycurtain
 giddydaisy
 giddydata
@@ -23887,6 +24340,7 @@ giddyrosebud
 giddyruby
 giddyrunner
 giddysalad
+giddyscale
 giddysea
 giddyseed
 giddyshark
@@ -24023,6 +24477,7 @@ giftedcow
 giftedcream
 giftedcrown
 giftedcurly
+giftedcurrency
 giftedcurtain
 gifteddaisy
 gifteddata
@@ -24169,6 +24624,7 @@ giftedrosebud
 giftedruby
 giftedrunner
 giftedsalad
+giftedscale
 giftedsea
 giftedseed
 giftedshark
@@ -24305,6 +24761,7 @@ giganticcow
 giganticcream
 giganticcrown
 giganticcurly
+giganticcurrency
 giganticcurtain
 giganticdaisy
 giganticdata
@@ -24451,6 +24908,7 @@ giganticrosebud
 giganticruby
 giganticrunner
 giganticsalad
+giganticscale
 giganticsea
 giganticseed
 giganticshark
@@ -24587,6 +25045,7 @@ goodcow
 goodcream
 goodcrown
 goodcurly
+goodcurrency
 goodcurtain
 gooddaisy
 gooddata
@@ -24733,6 +25192,7 @@ goodrosebud
 goodruby
 goodrunner
 goodsalad
+goodscale
 goodsea
 goodseed
 goodshark
@@ -24869,6 +25329,7 @@ goldcow
 goldcream
 goldcrown
 goldcurly
+goldcurrency
 goldcurtain
 golddaisy
 golddata
@@ -25015,6 +25476,7 @@ goldrosebud
 goldruby
 goldrunner
 goldsalad
+goldscale
 goldsea
 goldseed
 goldshark
@@ -25151,6 +25613,7 @@ goldencow
 goldencream
 goldencrown
 goldencurly
+goldencurrency
 goldencurtain
 goldendaisy
 goldendata
@@ -25297,6 +25760,7 @@ goldenrosebud
 goldenruby
 goldenrunner
 goldensalad
+goldenscale
 goldensea
 goldenseed
 goldenshark
@@ -25433,6 +25897,7 @@ goofycow
 goofycream
 goofycrown
 goofycurly
+goofycurrency
 goofycurtain
 goofydaisy
 goofydata
@@ -25579,6 +26044,7 @@ goofyrosebud
 goofyruby
 goofyrunner
 goofysalad
+goofyscale
 goofysea
 goofyseed
 goofyshark
@@ -25715,6 +26181,7 @@ gracefulcow
 gracefulcream
 gracefulcrown
 gracefulcurly
+gracefulcurrency
 gracefulcurtain
 gracefuldaisy
 gracefuldata
@@ -25861,6 +26328,7 @@ gracefulrosebud
 gracefulruby
 gracefulrunner
 gracefulsalad
+gracefulscale
 gracefulsea
 gracefulseed
 gracefulshark
@@ -25997,6 +26465,7 @@ grandcow
 grandcream
 grandcrown
 grandcurly
+grandcurrency
 grandcurtain
 granddaisy
 granddata
@@ -26143,6 +26612,7 @@ grandrosebud
 grandruby
 grandrunner
 grandsalad
+grandscale
 grandsea
 grandseed
 grandshark
@@ -26279,6 +26749,7 @@ gratefulcow
 gratefulcream
 gratefulcrown
 gratefulcurly
+gratefulcurrency
 gratefulcurtain
 gratefuldaisy
 gratefuldata
@@ -26425,6 +26896,7 @@ gratefulrosebud
 gratefulruby
 gratefulrunner
 gratefulsalad
+gratefulscale
 gratefulsea
 gratefulseed
 gratefulshark
@@ -26561,6 +27033,7 @@ greatcow
 greatcream
 greatcrown
 greatcurly
+greatcurrency
 greatcurtain
 greatdaisy
 greatdata
@@ -26707,6 +27180,7 @@ greatrosebud
 greatruby
 greatrunner
 greatsalad
+greatscale
 greatsea
 greatseed
 greatshark
@@ -26843,6 +27317,7 @@ greencow
 greencream
 greencrown
 greencurly
+greencurrency
 greencurtain
 greendaisy
 greendata
@@ -26989,6 +27464,7 @@ greenrosebud
 greenruby
 greenrunner
 greensalad
+greenscale
 greensea
 greenseed
 greenshark
@@ -27125,6 +27601,7 @@ happycow
 happycream
 happycrown
 happycurly
+happycurrency
 happycurtain
 happydaisy
 happydata
@@ -27271,6 +27748,7 @@ happyrosebud
 happyruby
 happyrunner
 happysalad
+happyscale
 happysea
 happyseed
 happyshark
@@ -27407,6 +27885,7 @@ heartycow
 heartycream
 heartycrown
 heartycurly
+heartycurrency
 heartycurtain
 heartydaisy
 heartydata
@@ -27553,6 +28032,7 @@ heartyrosebud
 heartyruby
 heartyrunner
 heartysalad
+heartyscale
 heartysea
 heartyseed
 heartyshark
@@ -27689,6 +28169,7 @@ heavycow
 heavycream
 heavycrown
 heavycurly
+heavycurrency
 heavycurtain
 heavydaisy
 heavydata
@@ -27835,6 +28316,7 @@ heavyrosebud
 heavyruby
 heavyrunner
 heavysalad
+heavyscale
 heavysea
 heavyseed
 heavyshark
@@ -27971,6 +28453,7 @@ helpfulcow
 helpfulcream
 helpfulcrown
 helpfulcurly
+helpfulcurrency
 helpfulcurtain
 helpfuldaisy
 helpfuldata
@@ -28117,6 +28600,7 @@ helpfulrosebud
 helpfulruby
 helpfulrunner
 helpfulsalad
+helpfulscale
 helpfulsea
 helpfulseed
 helpfulshark
@@ -28198,6 +28682,290 @@ helpfulyacht
 helpfulyear
 helpfulzebra
 helpfulzoo
+homeaffect
+homeairplane
+homeapple
+homeautomobile
+homeball
+homeballoon
+homebanana
+homebarrel
+homebat
+homebeach
+homebead
+homeberry
+homebike
+homebird
+homeboat
+homebolt
+homebook
+homeboot
+homebottle
+homebox
+homebrain
+homebread
+homebreeze
+homebubble
+homebug
+homebunny
+homebus
+homebush
+homebutler
+homebutter
+homebuyer
+homecanoe
+homecar
+homecat
+homecarrot
+homecartoon
+homecello
+homechair
+homecheek
+homecheese
+homechello
+homechip
+homechipmunk
+homeclock
+homecoast
+homecoat
+homecoconut
+homecoffee
+homecomet
+homecountry
+homecourse
+homecow
+homecream
+homecrown
+homecurly
+homecurrency
+homecurtain
+homedaisy
+homedata
+homeday
+homedeal
+homedeer
+homedegree
+homedesk
+homediamond
+homedink
+homedog
+homedoll
+homedoor
+homedrawer
+homeduty
+homeeagle
+homeearth
+homeeffort
+homeeggplant
+homeelephant
+homeemerald
+homeengine
+homeestate
+homefarmer
+homefield
+homefig
+homefinch
+homefire
+homefish
+homeflamingo
+homeflower
+homeflute
+homeforest
+homeformal
+homefox
+homefree
+homefriend
+homegadfly
+homegate
+homegear
+homegiant
+homegiraffe
+homegirl
+homeglove
+homegoat
+homegrain
+homegrape
+homegrasshopper
+homeguppy
+homehair
+homehat
+homehill
+homehippo
+homehonor
+homehotel
+homehour
+homehouse
+homeink
+homeiris
+homejacket
+homejade
+homejazz
+homejeans
+homejet
+homejetcar
+homejewel
+homejungle
+homekangaroo
+homekayak
+homekettle
+homeladder
+homelake
+homelawn
+homelemon
+homelight
+homelighting
+homelightning
+homelion
+homelotus
+homelump
+homemango
+homemarble
+homemarket
+homemesa
+homemesa
+homemint
+homeminute
+homemonkey
+homemonth
+homemoon
+homemotorcycle
+homemountain
+homemovie
+homemud
+homemuseum
+homenature
+homeness
+homenest
+homenews
+homeoasis
+homeobject
+homeoboe
+homeocean
+homeoctopus
+homeonion
+homeorange
+homeorchestra
+homeowl
+homepanda
+homepant
+homepath
+homepatron
+homepear
+homepencil
+homepenguin
+homepepper
+homephoenix
+homephone
+homepiano
+homepineapple
+homeplane
+homeplanet
+homeplum
+homepoetry
+homepond
+homepoodle
+homepotato
+homeprairie
+homepuppy
+homequail
+homerabbit
+homeraccoon
+homeraid
+homerain
+homeradio
+homeraven
+homereview
+homeriver
+homeroad
+homerobert
+homerock
+homerose
+homerosebud
+homeruby
+homerunner
+homesalad
+homescale
+homesea
+homeseed
+homeshark
+homesheep
+homeship
+homeshoe
+homeshore
+homeshrub
+homeskin
+homeside
+homesilver
+homesinger
+homesitter
+homeskates
+homeskin
+homeskunk
+homesky
+homesled
+homesnail
+homesnake
+homesocks
+homesofa
+homespark
+homesparrow
+homespider
+homesquash
+homesquirrel
+homestable
+homestar
+homestate
+homestatue
+homestove
+homestraw
+homestream
+homestreet
+homesun
+hometable
+hometea
+hometeapot
+hometent
+hometerrain
+hometheory
+hometie
+hometiger
+hometimber
+hometoast
+hometomato
+hometopic
+hometoy
+hometrail
+hometrain
+hometree
+hometruck
+hometrumpet
+hometuba
+hometube
+hometulip
+hometurkey
+hometurtle
+homeumbrella
+homeunicorn
+homeunion
+homeunit
+homevalley
+homevase
+homeverse
+homeviolet
+homeviolin
+homewalnut
+homewatch
+homewater
+homeweek
+homewest
+homewhale
+homewind
+homewindow
+homewolf
+homeyacht
+homeyear
+homezebra
+homezoo
 honestaffect
 honestairplane
 honestapple
@@ -28253,6 +29021,7 @@ honestcow
 honestcream
 honestcrown
 honestcurly
+honestcurrency
 honestcurtain
 honestdaisy
 honestdata
@@ -28399,6 +29168,7 @@ honestrosebud
 honestruby
 honestrunner
 honestsalad
+honestscale
 honestsea
 honestseed
 honestshark
@@ -28535,6 +29305,7 @@ hotcow
 hotcream
 hotcrown
 hotcurly
+hotcurrency
 hotcurtain
 hotdaisy
 hotdata
@@ -28681,6 +29452,7 @@ hotrosebud
 hotruby
 hotrunner
 hotsalad
+hotscale
 hotsea
 hotseed
 hotshark
@@ -28817,6 +29589,7 @@ hungrycow
 hungrycream
 hungrycrown
 hungrycurly
+hungrycurrency
 hungrycurtain
 hungrydaisy
 hungrydata
@@ -28963,6 +29736,7 @@ hungryrosebud
 hungryruby
 hungryrunner
 hungrysalad
+hungryscale
 hungrysea
 hungryseed
 hungryshark
@@ -29099,6 +29873,7 @@ huskycow
 huskycream
 huskycrown
 huskycurly
+huskycurrency
 huskycurtain
 huskydaisy
 huskydata
@@ -29245,6 +30020,7 @@ huskyrosebud
 huskyruby
 huskyrunner
 huskysalad
+huskyscale
 huskysea
 huskyseed
 huskyshark
@@ -29381,6 +30157,7 @@ hybridcow
 hybridcream
 hybridcrown
 hybridcurly
+hybridcurrency
 hybridcurtain
 hybriddaisy
 hybriddata
@@ -29527,6 +30304,7 @@ hybridrosebud
 hybridruby
 hybridrunner
 hybridsalad
+hybridscale
 hybridsea
 hybridseed
 hybridshark
@@ -29663,6 +30441,7 @@ icycow
 icycream
 icycrown
 icycurly
+icycurrency
 icycurtain
 icydaisy
 icydata
@@ -29809,6 +30588,7 @@ icyrosebud
 icyruby
 icyrunner
 icysalad
+icyscale
 icysea
 icyseed
 icyshark
@@ -29945,6 +30725,7 @@ imaginarycow
 imaginarycream
 imaginarycrown
 imaginarycurly
+imaginarycurrency
 imaginarycurtain
 imaginarydaisy
 imaginarydata
@@ -30091,6 +30872,7 @@ imaginaryrosebud
 imaginaryruby
 imaginaryrunner
 imaginarysalad
+imaginaryscale
 imaginarysea
 imaginaryseed
 imaginaryshark
@@ -30227,6 +31009,7 @@ immunecow
 immunecream
 immunecrown
 immunecurly
+immunecurrency
 immunecurtain
 immunedaisy
 immunedata
@@ -30373,6 +31156,7 @@ immunerosebud
 immuneruby
 immunerunner
 immunesalad
+immunescale
 immunesea
 immuneseed
 immuneshark
@@ -30509,6 +31293,7 @@ inputcow
 inputcream
 inputcrown
 inputcurly
+inputcurrency
 inputcurtain
 inputdaisy
 inputdata
@@ -30655,6 +31440,7 @@ inputrosebud
 inputruby
 inputrunner
 inputsalad
+inputscale
 inputsea
 inputseed
 inputshark
@@ -30791,6 +31577,7 @@ internalcow
 internalcream
 internalcrown
 internalcurly
+internalcurrency
 internalcurtain
 internaldaisy
 internaldata
@@ -30937,6 +31724,7 @@ internalrosebud
 internalruby
 internalrunner
 internalsalad
+internalscale
 internalsea
 internalseed
 internalshark
@@ -31073,6 +31861,7 @@ invisiblecow
 invisiblecream
 invisiblecrown
 invisiblecurly
+invisiblecurrency
 invisiblecurtain
 invisibledaisy
 invisibledata
@@ -31219,6 +32008,7 @@ invisiblerosebud
 invisibleruby
 invisiblerunner
 invisiblesalad
+invisiblescale
 invisiblesea
 invisibleseed
 invisibleshark
@@ -31355,6 +32145,7 @@ jaggedcow
 jaggedcream
 jaggedcrown
 jaggedcurly
+jaggedcurrency
 jaggedcurtain
 jaggeddaisy
 jaggeddata
@@ -31501,6 +32292,7 @@ jaggedrosebud
 jaggedruby
 jaggedrunner
 jaggedsalad
+jaggedscale
 jaggedsea
 jaggedseed
 jaggedshark
@@ -31637,6 +32429,7 @@ jollycow
 jollycream
 jollycrown
 jollycurly
+jollycurrency
 jollycurtain
 jollydaisy
 jollydata
@@ -31783,6 +32576,7 @@ jollyrosebud
 jollyruby
 jollyrunner
 jollysalad
+jollyscale
 jollysea
 jollyseed
 jollyshark
@@ -31919,6 +32713,7 @@ joyfulcow
 joyfulcream
 joyfulcrown
 joyfulcurly
+joyfulcurrency
 joyfulcurtain
 joyfuldaisy
 joyfuldata
@@ -32065,6 +32860,7 @@ joyfulrosebud
 joyfulruby
 joyfulrunner
 joyfulsalad
+joyfulscale
 joyfulsea
 joyfulseed
 joyfulshark
@@ -32201,6 +32997,7 @@ joyouscow
 joyouscream
 joyouscrown
 joyouscurly
+joyouscurrency
 joyouscurtain
 joyousdaisy
 joyousdata
@@ -32347,6 +33144,7 @@ joyousrosebud
 joyousruby
 joyousrunner
 joyoussalad
+joyousscale
 joyoussea
 joyousseed
 joyousshark
@@ -32483,6 +33281,7 @@ kindcow
 kindcream
 kindcrown
 kindcurly
+kindcurrency
 kindcurtain
 kinddaisy
 kinddata
@@ -32629,6 +33428,7 @@ kindrosebud
 kindruby
 kindrunner
 kindsalad
+kindscale
 kindsea
 kindseed
 kindshark
@@ -32765,6 +33565,7 @@ largecow
 largecream
 largecrown
 largecurly
+largecurrency
 largecurtain
 largedaisy
 largedata
@@ -32911,6 +33712,7 @@ largerosebud
 largeruby
 largerunner
 largesalad
+largescale
 largesea
 largeseed
 largeshark
@@ -33047,6 +33849,7 @@ leadercow
 leadercream
 leadercrown
 leadercurly
+leadercurrency
 leadercurtain
 leaderdaisy
 leaderdata
@@ -33193,6 +33996,7 @@ leaderrosebud
 leaderruby
 leaderrunner
 leadersalad
+leaderscale
 leadersea
 leaderseed
 leadershark
@@ -33329,6 +34133,7 @@ lightcow
 lightcream
 lightcrown
 lightcurly
+lightcurrency
 lightcurtain
 lightdaisy
 lightdata
@@ -33475,6 +34280,7 @@ lightrosebud
 lightruby
 lightrunner
 lightsalad
+lightscale
 lightsea
 lightseed
 lightshark
@@ -33611,6 +34417,7 @@ littlecow
 littlecream
 littlecrown
 littlecurly
+littlecurrency
 littlecurtain
 littledaisy
 littledata
@@ -33757,6 +34564,7 @@ littlerosebud
 littleruby
 littlerunner
 littlesalad
+littlescale
 littlesea
 littleseed
 littleshark
@@ -33893,6 +34701,7 @@ livelycow
 livelycream
 livelycrown
 livelycurly
+livelycurrency
 livelycurtain
 livelydaisy
 livelydata
@@ -34039,6 +34848,7 @@ livelyrosebud
 livelyruby
 livelyrunner
 livelysalad
+livelyscale
 livelysea
 livelyseed
 livelyshark
@@ -34175,6 +34985,7 @@ longcow
 longcream
 longcrown
 longcurly
+longcurrency
 longcurtain
 longdaisy
 longdata
@@ -34321,6 +35132,7 @@ longrosebud
 longruby
 longrunner
 longsalad
+longscale
 longsea
 longseed
 longshark
@@ -34457,6 +35269,7 @@ loudcow
 loudcream
 loudcrown
 loudcurly
+loudcurrency
 loudcurtain
 louddaisy
 louddata
@@ -34603,6 +35416,7 @@ loudrosebud
 loudruby
 loudrunner
 loudsalad
+loudscale
 loudsea
 loudseed
 loudshark
@@ -34739,6 +35553,7 @@ lovelycow
 lovelycream
 lovelycrown
 lovelycurly
+lovelycurrency
 lovelycurtain
 lovelydaisy
 lovelydata
@@ -34885,6 +35700,7 @@ lovelyrosebud
 lovelyruby
 lovelyrunner
 lovelysalad
+lovelyscale
 lovelysea
 lovelyseed
 lovelyshark
@@ -35021,6 +35837,7 @@ loyalcow
 loyalcream
 loyalcrown
 loyalcurly
+loyalcurrency
 loyalcurtain
 loyaldaisy
 loyaldata
@@ -35167,6 +35984,7 @@ loyalrosebud
 loyalruby
 loyalrunner
 loyalsalad
+loyalscale
 loyalsea
 loyalseed
 loyalshark
@@ -35303,6 +36121,7 @@ luckycow
 luckycream
 luckycrown
 luckycurly
+luckycurrency
 luckycurtain
 luckydaisy
 luckydata
@@ -35449,6 +36268,7 @@ luckyrosebud
 luckyruby
 luckyrunner
 luckysalad
+luckyscale
 luckysea
 luckyseed
 luckyshark
@@ -35585,6 +36405,7 @@ lumpycow
 lumpycream
 lumpycrown
 lumpycurly
+lumpycurrency
 lumpycurtain
 lumpydaisy
 lumpydata
@@ -35731,6 +36552,7 @@ lumpyrosebud
 lumpyruby
 lumpyrunner
 lumpysalad
+lumpyscale
 lumpysea
 lumpyseed
 lumpyshark
@@ -35867,6 +36689,7 @@ magicalcow
 magicalcream
 magicalcrown
 magicalcurly
+magicalcurrency
 magicalcurtain
 magicaldaisy
 magicaldata
@@ -36013,6 +36836,7 @@ magicalrosebud
 magicalruby
 magicalrunner
 magicalsalad
+magicalscale
 magicalsea
 magicalseed
 magicalshark
@@ -36149,6 +36973,7 @@ majorcow
 majorcream
 majorcrown
 majorcurly
+majorcurrency
 majorcurtain
 majordaisy
 majordata
@@ -36295,6 +37120,7 @@ majorrosebud
 majorruby
 majorrunner
 majorsalad
+majorscale
 majorsea
 majorseed
 majorshark
@@ -36431,6 +37257,7 @@ maniccow
 maniccream
 maniccrown
 maniccurly
+maniccurrency
 maniccurtain
 manicdaisy
 manicdata
@@ -36577,6 +37404,7 @@ manicrosebud
 manicruby
 manicrunner
 manicsalad
+manicscale
 manicsea
 manicseed
 manicshark
@@ -36713,6 +37541,7 @@ mellowcow
 mellowcream
 mellowcrown
 mellowcurly
+mellowcurrency
 mellowcurtain
 mellowdaisy
 mellowdata
@@ -36859,6 +37688,7 @@ mellowrosebud
 mellowruby
 mellowrunner
 mellowsalad
+mellowscale
 mellowsea
 mellowseed
 mellowshark
@@ -36995,6 +37825,7 @@ melodiccow
 melodiccream
 melodiccrown
 melodiccurly
+melodiccurrency
 melodiccurtain
 melodicdaisy
 melodicdata
@@ -37141,6 +37972,7 @@ melodicrosebud
 melodicruby
 melodicrunner
 melodicsalad
+melodicscale
 melodicsea
 melodicseed
 melodicshark
@@ -37277,6 +38109,7 @@ mentalcow
 mentalcream
 mentalcrown
 mentalcurly
+mentalcurrency
 mentalcurtain
 mentaldaisy
 mentaldata
@@ -37423,6 +38256,7 @@ mentalrosebud
 mentalruby
 mentalrunner
 mentalsalad
+mentalscale
 mentalsea
 mentalseed
 mentalshark
@@ -37559,6 +38393,7 @@ mightycow
 mightycream
 mightycrown
 mightycurly
+mightycurrency
 mightycurtain
 mightydaisy
 mightydata
@@ -37705,6 +38540,7 @@ mightyrosebud
 mightyruby
 mightyrunner
 mightysalad
+mightyscale
 mightysea
 mightyseed
 mightyshark
@@ -37841,6 +38677,7 @@ mistycow
 mistycream
 mistycrown
 mistycurly
+mistycurrency
 mistycurtain
 mistydaisy
 mistydata
@@ -37987,6 +38824,7 @@ mistyrosebud
 mistyruby
 mistyrunner
 mistysalad
+mistyscale
 mistysea
 mistyseed
 mistyshark
@@ -38123,6 +38961,7 @@ mobilecow
 mobilecream
 mobilecrown
 mobilecurly
+mobilecurrency
 mobilecurtain
 mobiledaisy
 mobiledata
@@ -38269,6 +39108,7 @@ mobilerosebud
 mobileruby
 mobilerunner
 mobilesalad
+mobilescale
 mobilesea
 mobileseed
 mobileshark
@@ -38405,6 +39245,7 @@ moderncow
 moderncream
 moderncrown
 moderncurly
+moderncurrency
 moderncurtain
 moderndaisy
 moderndata
@@ -38551,6 +39392,7 @@ modernrosebud
 modernruby
 modernrunner
 modernsalad
+modernscale
 modernsea
 modernseed
 modernshark
@@ -38687,6 +39529,7 @@ narrowcow
 narrowcream
 narrowcrown
 narrowcurly
+narrowcurrency
 narrowcurtain
 narrowdaisy
 narrowdata
@@ -38833,6 +39676,7 @@ narrowrosebud
 narrowruby
 narrowrunner
 narrowsalad
+narrowscale
 narrowsea
 narrowseed
 narrowshark
@@ -38969,6 +39813,7 @@ newcow
 newcream
 newcrown
 newcurly
+newcurrency
 newcurtain
 newdaisy
 newdata
@@ -39115,6 +39960,7 @@ newrosebud
 newruby
 newrunner
 newsalad
+newscale
 newsea
 newseed
 newshark
@@ -39251,6 +40097,7 @@ nicecow
 nicecream
 nicecrown
 nicecurly
+nicecurrency
 nicecurtain
 nicedaisy
 nicedata
@@ -39397,6 +40244,7 @@ nicerosebud
 niceruby
 nicerunner
 nicesalad
+nicescale
 nicesea
 niceseed
 niceshark
@@ -39533,6 +40381,7 @@ niftycow
 niftycream
 niftycrown
 niftycurly
+niftycurrency
 niftycurtain
 niftydaisy
 niftydata
@@ -39679,6 +40528,7 @@ niftyrosebud
 niftyruby
 niftyrunner
 niftysalad
+niftyscale
 niftysea
 niftyseed
 niftyshark
@@ -39815,6 +40665,7 @@ noisycow
 noisycream
 noisycrown
 noisycurly
+noisycurrency
 noisycurtain
 noisydaisy
 noisydata
@@ -39961,6 +40812,7 @@ noisyrosebud
 noisyruby
 noisyrunner
 noisysalad
+noisyscale
 noisysea
 noisyseed
 noisyshark
@@ -40097,6 +40949,7 @@ normalcow
 normalcream
 normalcrown
 normalcurly
+normalcurrency
 normalcurtain
 normaldaisy
 normaldata
@@ -40243,6 +41096,7 @@ normalrosebud
 normalruby
 normalrunner
 normalsalad
+normalscale
 normalsea
 normalseed
 normalshark
@@ -40379,6 +41233,7 @@ northcow
 northcream
 northcrown
 northcurly
+northcurrency
 northcurtain
 northdaisy
 northdata
@@ -40525,6 +41380,7 @@ northrosebud
 northruby
 northrunner
 northsalad
+northscale
 northsea
 northseed
 northshark
@@ -40661,6 +41517,7 @@ novelcow
 novelcream
 novelcrown
 novelcurly
+novelcurrency
 novelcurtain
 noveldaisy
 noveldata
@@ -40807,6 +41664,7 @@ novelrosebud
 novelruby
 novelrunner
 novelsalad
+novelscale
 novelsea
 novelseed
 novelshark
@@ -40943,6 +41801,7 @@ occurcow
 occurcream
 occurcrown
 occurcurly
+occurcurrency
 occurcurtain
 occurdaisy
 occurdata
@@ -41089,6 +41948,7 @@ occurrosebud
 occurruby
 occurrunner
 occursalad
+occurscale
 occursea
 occurseed
 occurshark
@@ -41225,6 +42085,7 @@ oddcow
 oddcream
 oddcrown
 oddcurly
+oddcurrency
 oddcurtain
 odddaisy
 odddata
@@ -41371,6 +42232,7 @@ oddrosebud
 oddruby
 oddrunner
 oddsalad
+oddscale
 oddsea
 oddseed
 oddshark
@@ -41507,6 +42369,7 @@ oldcow
 oldcream
 oldcrown
 oldcurly
+oldcurrency
 oldcurtain
 olddaisy
 olddata
@@ -41653,6 +42516,7 @@ oldrosebud
 oldruby
 oldrunner
 oldsalad
+oldscale
 oldsea
 oldseed
 oldshark
@@ -41789,6 +42653,7 @@ olivecow
 olivecream
 olivecrown
 olivecurly
+olivecurrency
 olivecurtain
 olivedaisy
 olivedata
@@ -41935,6 +42800,7 @@ oliverosebud
 oliveruby
 oliverunner
 olivesalad
+olivescale
 olivesea
 oliveseed
 oliveshark
@@ -42071,6 +42937,7 @@ orangecow
 orangecream
 orangecrown
 orangecurly
+orangecurrency
 orangecurtain
 orangedaisy
 orangedata
@@ -42217,6 +43084,7 @@ orangerosebud
 orangeruby
 orangerunner
 orangesalad
+orangescale
 orangesea
 orangeseed
 orangeshark
@@ -42353,6 +43221,7 @@ ordinarycow
 ordinarycream
 ordinarycrown
 ordinarycurly
+ordinarycurrency
 ordinarycurtain
 ordinarydaisy
 ordinarydata
@@ -42499,6 +43368,7 @@ ordinaryrosebud
 ordinaryruby
 ordinaryrunner
 ordinarysalad
+ordinaryscale
 ordinarysea
 ordinaryseed
 ordinaryshark
@@ -42635,6 +43505,7 @@ painlesscow
 painlesscream
 painlesscrown
 painlesscurly
+painlesscurrency
 painlesscurtain
 painlessdaisy
 painlessdata
@@ -42781,6 +43652,7 @@ painlessrosebud
 painlessruby
 painlessrunner
 painlesssalad
+painlessscale
 painlesssea
 painlessseed
 painlessshark
@@ -42917,6 +43789,7 @@ pastelcow
 pastelcream
 pastelcrown
 pastelcurly
+pastelcurrency
 pastelcurtain
 pasteldaisy
 pasteldata
@@ -43063,6 +43936,7 @@ pastelrosebud
 pastelruby
 pastelrunner
 pastelsalad
+pastelscale
 pastelsea
 pastelseed
 pastelshark
@@ -43199,6 +44073,7 @@ peacefulcow
 peacefulcream
 peacefulcrown
 peacefulcurly
+peacefulcurrency
 peacefulcurtain
 peacefuldaisy
 peacefuldata
@@ -43345,6 +44220,7 @@ peacefulrosebud
 peacefulruby
 peacefulrunner
 peacefulsalad
+peacefulscale
 peacefulsea
 peacefulseed
 peacefulshark
@@ -43481,6 +44357,7 @@ perfectcow
 perfectcream
 perfectcrown
 perfectcurly
+perfectcurrency
 perfectcurtain
 perfectdaisy
 perfectdata
@@ -43627,6 +44504,7 @@ perfectrosebud
 perfectruby
 perfectrunner
 perfectsalad
+perfectscale
 perfectsea
 perfectseed
 perfectshark
@@ -43763,6 +44641,7 @@ phobiccow
 phobiccream
 phobiccrown
 phobiccurly
+phobiccurrency
 phobiccurtain
 phobicdaisy
 phobicdata
@@ -43909,6 +44788,7 @@ phobicrosebud
 phobicruby
 phobicrunner
 phobicsalad
+phobicscale
 phobicsea
 phobicseed
 phobicshark
@@ -44045,6 +44925,7 @@ pinkcow
 pinkcream
 pinkcrown
 pinkcurly
+pinkcurrency
 pinkcurtain
 pinkdaisy
 pinkdata
@@ -44191,6 +45072,7 @@ pinkrosebud
 pinkruby
 pinkrunner
 pinksalad
+pinkscale
 pinksea
 pinkseed
 pinkshark
@@ -44327,6 +45209,7 @@ plaincow
 plaincream
 plaincrown
 plaincurly
+plaincurrency
 plaincurtain
 plaindaisy
 plaindata
@@ -44473,6 +45356,7 @@ plainrosebud
 plainruby
 plainrunner
 plainsalad
+plainscale
 plainsea
 plainseed
 plainshark
@@ -44609,6 +45493,7 @@ politecow
 politecream
 politecrown
 politecurly
+politecurrency
 politecurtain
 politedaisy
 politedata
@@ -44755,6 +45640,7 @@ politerosebud
 politeruby
 politerunner
 politesalad
+politescale
 politesea
 politeseed
 politeshark
@@ -44891,6 +45777,7 @@ poorcow
 poorcream
 poorcrown
 poorcurly
+poorcurrency
 poorcurtain
 poordaisy
 poordata
@@ -45037,6 +45924,7 @@ poorrosebud
 poorruby
 poorrunner
 poorsalad
+poorscale
 poorsea
 poorseed
 poorshark
@@ -45173,6 +46061,7 @@ preciouscow
 preciouscream
 preciouscrown
 preciouscurly
+preciouscurrency
 preciouscurtain
 preciousdaisy
 preciousdata
@@ -45319,6 +46208,7 @@ preciousrosebud
 preciousruby
 preciousrunner
 precioussalad
+preciousscale
 precioussea
 preciousseed
 preciousshark
@@ -45455,6 +46345,7 @@ prettycow
 prettycream
 prettycrown
 prettycurly
+prettycurrency
 prettycurtain
 prettydaisy
 prettydata
@@ -45601,6 +46492,7 @@ prettyrosebud
 prettyruby
 prettyrunner
 prettysalad
+prettyscale
 prettysea
 prettyseed
 prettyshark
@@ -45737,6 +46629,7 @@ proudcow
 proudcream
 proudcrown
 proudcurly
+proudcurrency
 proudcurtain
 prouddaisy
 prouddata
@@ -45883,6 +46776,7 @@ proudrosebud
 proudruby
 proudrunner
 proudsalad
+proudscale
 proudsea
 proudseed
 proudshark
@@ -46019,6 +46913,7 @@ purplecow
 purplecream
 purplecrown
 purplecurly
+purplecurrency
 purplecurtain
 purpledaisy
 purpledata
@@ -46165,6 +47060,7 @@ purplerosebud
 purpleruby
 purplerunner
 purplesalad
+purplescale
 purplesea
 purpleseed
 purpleshark
@@ -46301,6 +47197,7 @@ quaintcow
 quaintcream
 quaintcrown
 quaintcurly
+quaintcurrency
 quaintcurtain
 quaintdaisy
 quaintdata
@@ -46447,6 +47344,7 @@ quaintrosebud
 quaintruby
 quaintrunner
 quaintsalad
+quaintscale
 quaintsea
 quaintseed
 quaintshark
@@ -46583,6 +47481,7 @@ quickcow
 quickcream
 quickcrown
 quickcurly
+quickcurrency
 quickcurtain
 quickdaisy
 quickdata
@@ -46729,6 +47628,7 @@ quickrosebud
 quickruby
 quickrunner
 quicksalad
+quickscale
 quicksea
 quickseed
 quickshark
@@ -46865,6 +47765,7 @@ quietcow
 quietcream
 quietcrown
 quietcurly
+quietcurrency
 quietcurtain
 quietdaisy
 quietdata
@@ -47011,6 +47912,7 @@ quietrosebud
 quietruby
 quietrunner
 quietsalad
+quietscale
 quietsea
 quietseed
 quietshark
@@ -47147,6 +48049,7 @@ rapidcow
 rapidcream
 rapidcrown
 rapidcurly
+rapidcurrency
 rapidcurtain
 rapiddaisy
 rapiddata
@@ -47293,6 +48196,7 @@ rapidrosebud
 rapidruby
 rapidrunner
 rapidsalad
+rapidscale
 rapidsea
 rapidseed
 rapidshark
@@ -47429,6 +48333,7 @@ readycow
 readycream
 readycrown
 readycurly
+readycurrency
 readycurtain
 readydaisy
 readydata
@@ -47575,6 +48480,7 @@ readyrosebud
 readyruby
 readyrunner
 readysalad
+readyscale
 readysea
 readyseed
 readyshark
@@ -47711,6 +48617,7 @@ redcow
 redcream
 redcrown
 redcurly
+redcurrency
 redcurtain
 reddaisy
 reddata
@@ -47857,6 +48764,7 @@ redrosebud
 redruby
 redrunner
 redsalad
+redscale
 redsea
 redseed
 redshark
@@ -47993,6 +48901,7 @@ rockycow
 rockycream
 rockycrown
 rockycurly
+rockycurrency
 rockycurtain
 rockydaisy
 rockydata
@@ -48139,6 +49048,7 @@ rockyrosebud
 rockyruby
 rockyrunner
 rockysalad
+rockyscale
 rockysea
 rockyseed
 rockyshark
@@ -48275,6 +49185,7 @@ roughcow
 roughcream
 roughcrown
 roughcurly
+roughcurrency
 roughcurtain
 roughdaisy
 roughdata
@@ -48421,6 +49332,7 @@ roughrosebud
 roughruby
 roughrunner
 roughsalad
+roughscale
 roughsea
 roughseed
 roughshark
@@ -48557,6 +49469,7 @@ roundcow
 roundcream
 roundcrown
 roundcurly
+roundcurrency
 roundcurtain
 rounddaisy
 rounddata
@@ -48703,6 +49616,7 @@ roundrosebud
 roundruby
 roundrunner
 roundsalad
+roundscale
 roundsea
 roundseed
 roundshark
@@ -48839,6 +49753,7 @@ royalcow
 royalcream
 royalcrown
 royalcurly
+royalcurrency
 royalcurtain
 royaldaisy
 royaldata
@@ -48985,6 +49900,7 @@ royalrosebud
 royalruby
 royalrunner
 royalsalad
+royalscale
 royalsea
 royalseed
 royalshark
@@ -49121,6 +50037,7 @@ ruggedcow
 ruggedcream
 ruggedcrown
 ruggedcurly
+ruggedcurrency
 ruggedcurtain
 ruggeddaisy
 ruggeddata
@@ -49267,6 +50184,7 @@ ruggedrosebud
 ruggedruby
 ruggedrunner
 ruggedsalad
+ruggedscale
 ruggedsea
 ruggedseed
 ruggedshark
@@ -49403,6 +50321,7 @@ rusticcow
 rusticcream
 rusticcrown
 rusticcurly
+rusticcurrency
 rusticcurtain
 rusticdaisy
 rusticdata
@@ -49549,6 +50468,7 @@ rusticrosebud
 rusticruby
 rusticrunner
 rusticsalad
+rusticscale
 rusticsea
 rusticseed
 rusticshark
@@ -49685,6 +50605,7 @@ safecow
 safecream
 safecrown
 safecurly
+safecurrency
 safecurtain
 safedaisy
 safedata
@@ -49831,6 +50752,7 @@ saferosebud
 saferuby
 saferunner
 safesalad
+safescale
 safesea
 safeseed
 safeshark
@@ -49967,6 +50889,7 @@ sandycow
 sandycream
 sandycrown
 sandycurly
+sandycurrency
 sandycurtain
 sandydaisy
 sandydata
@@ -50113,6 +51036,7 @@ sandyrosebud
 sandyruby
 sandyrunner
 sandysalad
+sandyscale
 sandysea
 sandyseed
 sandyshark
@@ -50249,6 +51173,7 @@ scalycow
 scalycream
 scalycrown
 scalycurly
+scalycurrency
 scalycurtain
 scalydaisy
 scalydata
@@ -50395,6 +51320,7 @@ scalyrosebud
 scalyruby
 scalyrunner
 scalysalad
+scalyscale
 scalysea
 scalyseed
 scalyshark
@@ -50531,6 +51457,7 @@ scarycow
 scarycream
 scarycrown
 scarycurly
+scarycurrency
 scarycurtain
 scarydaisy
 scarydata
@@ -50677,6 +51604,7 @@ scaryrosebud
 scaryruby
 scaryrunner
 scarysalad
+scaryscale
 scarysea
 scaryseed
 scaryshark
@@ -50813,6 +51741,7 @@ shinycow
 shinycream
 shinycrown
 shinycurly
+shinycurrency
 shinycurtain
 shinydaisy
 shinydata
@@ -50959,6 +51888,7 @@ shinyrosebud
 shinyruby
 shinyrunner
 shinysalad
+shinyscale
 shinysea
 shinyseed
 shinyshark
@@ -51095,6 +52025,7 @@ shortcow
 shortcream
 shortcrown
 shortcurly
+shortcurrency
 shortcurtain
 shortdaisy
 shortdata
@@ -51241,6 +52172,7 @@ shortrosebud
 shortruby
 shortrunner
 shortsalad
+shortscale
 shortsea
 shortseed
 shortshark
@@ -51377,6 +52309,7 @@ silentcow
 silentcream
 silentcrown
 silentcurly
+silentcurrency
 silentcurtain
 silentdaisy
 silentdata
@@ -51523,6 +52456,7 @@ silentrosebud
 silentruby
 silentrunner
 silentsalad
+silentscale
 silentsea
 silentseed
 silentshark
@@ -51659,6 +52593,7 @@ silkycow
 silkycream
 silkycrown
 silkycurly
+silkycurrency
 silkycurtain
 silkydaisy
 silkydata
@@ -51805,6 +52740,7 @@ silkyrosebud
 silkyruby
 silkyrunner
 silkysalad
+silkyscale
 silkysea
 silkyseed
 silkyshark
@@ -51941,6 +52877,7 @@ sillycow
 sillycream
 sillycrown
 sillycurly
+sillycurrency
 sillycurtain
 sillydaisy
 sillydata
@@ -52087,6 +53024,7 @@ sillyrosebud
 sillyruby
 sillyrunner
 sillysalad
+sillyscale
 sillysea
 sillyseed
 sillyshark
@@ -52223,6 +53161,7 @@ sleepycow
 sleepycream
 sleepycrown
 sleepycurly
+sleepycurrency
 sleepycurtain
 sleepydaisy
 sleepydata
@@ -52369,6 +53308,7 @@ sleepyrosebud
 sleepyruby
 sleepyrunner
 sleepysalad
+sleepyscale
 sleepysea
 sleepyseed
 sleepyshark
@@ -52505,6 +53445,7 @@ slendercow
 slendercream
 slendercrown
 slendercurly
+slendercurrency
 slendercurtain
 slenderdaisy
 slenderdata
@@ -52651,6 +53592,7 @@ slenderrosebud
 slenderruby
 slenderrunner
 slendersalad
+slenderscale
 slendersea
 slenderseed
 slendershark
@@ -52787,6 +53729,7 @@ slowcow
 slowcream
 slowcrown
 slowcurly
+slowcurrency
 slowcurtain
 slowdaisy
 slowdata
@@ -52933,6 +53876,7 @@ slowrosebud
 slowruby
 slowrunner
 slowsalad
+slowscale
 slowsea
 slowseed
 slowshark
@@ -53069,6 +54013,7 @@ slowercow
 slowercream
 slowercrown
 slowercurly
+slowercurrency
 slowercurtain
 slowerdaisy
 slowerdata
@@ -53215,6 +54160,7 @@ slowerrosebud
 slowerruby
 slowerrunner
 slowersalad
+slowerscale
 slowersea
 slowerseed
 slowershark
@@ -53351,6 +54297,7 @@ smallcow
 smallcream
 smallcrown
 smallcurly
+smallcurrency
 smallcurtain
 smalldaisy
 smalldata
@@ -53497,6 +54444,7 @@ smallrosebud
 smallruby
 smallrunner
 smallsalad
+smallscale
 smallsea
 smallseed
 smallshark
@@ -53633,6 +54581,7 @@ smartcow
 smartcream
 smartcrown
 smartcurly
+smartcurrency
 smartcurtain
 smartdaisy
 smartdata
@@ -53779,6 +54728,7 @@ smartrosebud
 smartruby
 smartrunner
 smartsalad
+smartscale
 smartsea
 smartseed
 smartshark
@@ -53915,6 +54865,7 @@ smileycow
 smileycream
 smileycrown
 smileycurly
+smileycurrency
 smileycurtain
 smileydaisy
 smileydata
@@ -54061,6 +55012,7 @@ smileyrosebud
 smileyruby
 smileyrunner
 smileysalad
+smileyscale
 smileysea
 smileyseed
 smileyshark
@@ -54197,6 +55149,7 @@ smilelycow
 smilelycream
 smilelycrown
 smilelycurly
+smilelycurrency
 smilelycurtain
 smilelydaisy
 smilelydata
@@ -54343,6 +55296,7 @@ smilelyrosebud
 smilelyruby
 smilelyrunner
 smilelysalad
+smilelyscale
 smilelysea
 smilelyseed
 smilelyshark
@@ -54479,6 +55433,7 @@ smilingcow
 smilingcream
 smilingcrown
 smilingcurly
+smilingcurrency
 smilingcurtain
 smilingdaisy
 smilingdata
@@ -54625,6 +55580,7 @@ smilingrosebud
 smilingruby
 smilingrunner
 smilingsalad
+smilingscale
 smilingsea
 smilingseed
 smilingshark
@@ -54761,6 +55717,7 @@ smoothcow
 smoothcream
 smoothcrown
 smoothcurly
+smoothcurrency
 smoothcurtain
 smoothdaisy
 smoothdata
@@ -54907,6 +55864,7 @@ smoothrosebud
 smoothruby
 smoothrunner
 smoothsalad
+smoothscale
 smoothsea
 smoothseed
 smoothshark
@@ -55043,6 +56001,7 @@ snugcow
 snugcream
 snugcrown
 snugcurly
+snugcurrency
 snugcurtain
 snugdaisy
 snugdata
@@ -55189,6 +56148,7 @@ snugrosebud
 snugruby
 snugrunner
 snugsalad
+snugscale
 snugsea
 snugseed
 snugshark
@@ -55325,6 +56285,7 @@ softcow
 softcream
 softcrown
 softcurly
+softcurrency
 softcurtain
 softdaisy
 softdata
@@ -55471,6 +56432,7 @@ softrosebud
 softruby
 softrunner
 softsalad
+softscale
 softsea
 softseed
 softshark
@@ -55607,6 +56569,7 @@ sourcow
 sourcream
 sourcrown
 sourcurly
+sourcurrency
 sourcurtain
 sourdaisy
 sourdata
@@ -55753,6 +56716,7 @@ sourrosebud
 sourruby
 sourrunner
 soursalad
+sourscale
 soursea
 sourseed
 sourshark
@@ -55889,6 +56853,7 @@ southcow
 southcream
 southcrown
 southcurly
+southcurrency
 southcurtain
 southdaisy
 southdata
@@ -56035,6 +57000,7 @@ southrosebud
 southruby
 southrunner
 southsalad
+southscale
 southsea
 southseed
 southshark
@@ -56171,6 +57137,7 @@ squarecow
 squarecream
 squarecrown
 squarecurly
+squarecurrency
 squarecurtain
 squaredaisy
 squaredata
@@ -56317,6 +57284,7 @@ squarerosebud
 squareruby
 squarerunner
 squaresalad
+squarescale
 squaresea
 squareseed
 squareshark
@@ -56453,6 +57421,7 @@ strangecow
 strangecream
 strangecrown
 strangecurly
+strangecurrency
 strangecurtain
 strangedaisy
 strangedata
@@ -56599,6 +57568,7 @@ strangerosebud
 strangeruby
 strangerunner
 strangesalad
+strangescale
 strangesea
 strangeseed
 strangeshark
@@ -56735,6 +57705,7 @@ strongcow
 strongcream
 strongcrown
 strongcurly
+strongcurrency
 strongcurtain
 strongdaisy
 strongdata
@@ -56881,6 +57852,7 @@ strongrosebud
 strongruby
 strongrunner
 strongsalad
+strongscale
 strongsea
 strongseed
 strongshark
@@ -57017,6 +57989,7 @@ sturdycow
 sturdycream
 sturdycrown
 sturdycurly
+sturdycurrency
 sturdycurtain
 sturdydaisy
 sturdydata
@@ -57163,6 +58136,7 @@ sturdyrosebud
 sturdyruby
 sturdyrunner
 sturdysalad
+sturdyscale
 sturdysea
 sturdyseed
 sturdyshark
@@ -57299,6 +58273,7 @@ suddencow
 suddencream
 suddencrown
 suddencurly
+suddencurrency
 suddencurtain
 suddendaisy
 suddendata
@@ -57445,6 +58420,7 @@ suddenrosebud
 suddenruby
 suddenrunner
 suddensalad
+suddenscale
 suddensea
 suddenseed
 suddenshark
@@ -57581,6 +58557,7 @@ sunnycow
 sunnycream
 sunnycrown
 sunnycurly
+sunnycurrency
 sunnycurtain
 sunnydaisy
 sunnydata
@@ -57727,6 +58704,7 @@ sunnyrosebud
 sunnyruby
 sunnyrunner
 sunnysalad
+sunnyscale
 sunnysea
 sunnyseed
 sunnyshark
@@ -57863,6 +58841,7 @@ supercow
 supercream
 supercrown
 supercurly
+supercurrency
 supercurtain
 superdaisy
 superdata
@@ -58009,6 +58988,7 @@ superrosebud
 superruby
 superrunner
 supersalad
+superscale
 supersea
 superseed
 supershark
@@ -58145,6 +59125,7 @@ sweetcow
 sweetcream
 sweetcrown
 sweetcurly
+sweetcurrency
 sweetcurtain
 sweetdaisy
 sweetdata
@@ -58291,6 +59272,7 @@ sweetrosebud
 sweetruby
 sweetrunner
 sweetsalad
+sweetscale
 sweetsea
 sweetseed
 sweetshark
@@ -58427,6 +59409,7 @@ swiftcow
 swiftcream
 swiftcrown
 swiftcurly
+swiftcurrency
 swiftcurtain
 swiftdaisy
 swiftdata
@@ -58573,6 +59556,7 @@ swiftrosebud
 swiftruby
 swiftrunner
 swiftsalad
+swiftscale
 swiftsea
 swiftseed
 swiftshark
@@ -58709,6 +59693,7 @@ tallcow
 tallcream
 tallcrown
 tallcurly
+tallcurrency
 tallcurtain
 talldaisy
 talldata
@@ -58855,6 +59840,7 @@ tallrosebud
 tallruby
 tallrunner
 tallsalad
+tallscale
 tallsea
 tallseed
 tallshark
@@ -58991,6 +59977,7 @@ tealcow
 tealcream
 tealcrown
 tealcurly
+tealcurrency
 tealcurtain
 tealdaisy
 tealdata
@@ -59137,6 +60124,7 @@ tealrosebud
 tealruby
 tealrunner
 tealsalad
+tealscale
 tealsea
 tealseed
 tealshark
@@ -59273,6 +60261,7 @@ terrificcow
 terrificcream
 terrificcrown
 terrificcurly
+terrificcurrency
 terrificcurtain
 terrificdaisy
 terrificdata
@@ -59419,6 +60408,7 @@ terrificrosebud
 terrificruby
 terrificrunner
 terrificsalad
+terrificscale
 terrificsea
 terrificseed
 terrificshark
@@ -59555,6 +60545,7 @@ thirstycow
 thirstycream
 thirstycrown
 thirstycurly
+thirstycurrency
 thirstycurtain
 thirstydaisy
 thirstydata
@@ -59701,6 +60692,7 @@ thirstyrosebud
 thirstyruby
 thirstyrunner
 thirstysalad
+thirstyscale
 thirstysea
 thirstyseed
 thirstyshark
@@ -59837,6 +60829,7 @@ thoughtfulcow
 thoughtfulcream
 thoughtfulcrown
 thoughtfulcurly
+thoughtfulcurrency
 thoughtfulcurtain
 thoughtfuldaisy
 thoughtfuldata
@@ -59983,6 +60976,7 @@ thoughtfulrosebud
 thoughtfulruby
 thoughtfulrunner
 thoughtfulsalad
+thoughtfulscale
 thoughtfulsea
 thoughtfulseed
 thoughtfulshark
@@ -60119,6 +61113,7 @@ tinycow
 tinycream
 tinycrown
 tinycurly
+tinycurrency
 tinycurtain
 tinydaisy
 tinydata
@@ -60265,6 +61260,7 @@ tinyrosebud
 tinyruby
 tinyrunner
 tinysalad
+tinyscale
 tinysea
 tinyseed
 tinyshark
@@ -60401,6 +61397,7 @@ unevencow
 unevencream
 unevencrown
 unevencurly
+unevencurrency
 unevencurtain
 unevendaisy
 unevendata
@@ -60547,6 +61544,7 @@ unevenrosebud
 unevenruby
 unevenrunner
 unevensalad
+unevenscale
 unevensea
 unevenseed
 unevenshark
@@ -60683,6 +61681,7 @@ unitecow
 unitecream
 unitecrown
 unitecurly
+unitecurrency
 unitecurtain
 unitedaisy
 unitedata
@@ -60829,6 +61828,7 @@ uniterosebud
 uniteruby
 uniterunner
 unitesalad
+unitescale
 unitesea
 uniteseed
 uniteshark
@@ -60965,6 +61965,7 @@ unusualcow
 unusualcream
 unusualcrown
 unusualcurly
+unusualcurrency
 unusualcurtain
 unusualdaisy
 unusualdata
@@ -61111,6 +62112,7 @@ unusualrosebud
 unusualruby
 unusualrunner
 unusualsalad
+unusualscale
 unusualsea
 unusualseed
 unusualshark
@@ -61247,6 +62249,7 @@ urbancow
 urbancream
 urbancrown
 urbancurly
+urbancurrency
 urbancurtain
 urbandaisy
 urbandata
@@ -61393,6 +62396,7 @@ urbanrosebud
 urbanruby
 urbanrunner
 urbansalad
+urbanscale
 urbansea
 urbanseed
 urbanshark
@@ -61529,6 +62533,7 @@ vanillacow
 vanillacream
 vanillacrown
 vanillacurly
+vanillacurrency
 vanillacurtain
 vanilladaisy
 vanilladata
@@ -61675,6 +62680,7 @@ vanillarosebud
 vanillaruby
 vanillarunner
 vanillasalad
+vanillascale
 vanillasea
 vanillaseed
 vanillashark
@@ -61811,6 +62817,7 @@ vastcow
 vastcream
 vastcrown
 vastcurly
+vastcurrency
 vastcurtain
 vastdaisy
 vastdata
@@ -61957,6 +62964,7 @@ vastrosebud
 vastruby
 vastrunner
 vastsalad
+vastscale
 vastsea
 vastseed
 vastshark
@@ -62093,6 +63101,7 @@ violetcow
 violetcream
 violetcrown
 violetcurly
+violetcurrency
 violetcurtain
 violetdaisy
 violetdata
@@ -62239,6 +63248,7 @@ violetrosebud
 violetruby
 violetrunner
 violetsalad
+violetscale
 violetsea
 violetseed
 violetshark
@@ -62375,6 +63385,7 @@ violincow
 violincream
 violincrown
 violincurly
+violincurrency
 violincurtain
 violindaisy
 violindata
@@ -62521,6 +63532,7 @@ violinrosebud
 violinruby
 violinrunner
 violinsalad
+violinscale
 violinsea
 violinseed
 violinshark
@@ -62657,6 +63669,7 @@ warmcow
 warmcream
 warmcrown
 warmcurly
+warmcurrency
 warmcurtain
 warmdaisy
 warmdata
@@ -62803,6 +63816,7 @@ warmrosebud
 warmruby
 warmrunner
 warmsalad
+warmscale
 warmsea
 warmseed
 warmshark
@@ -62939,6 +63953,7 @@ waterycow
 waterycream
 waterycrown
 waterycurly
+waterycurrency
 waterycurtain
 waterydaisy
 waterydata
@@ -63085,6 +64100,7 @@ wateryrosebud
 wateryruby
 wateryrunner
 waterysalad
+wateryscale
 waterysea
 wateryseed
 wateryshark
@@ -63221,6 +64237,7 @@ weakcow
 weakcream
 weakcrown
 weakcurly
+weakcurrency
 weakcurtain
 weakdaisy
 weakdata
@@ -63367,6 +64384,7 @@ weakrosebud
 weakruby
 weakrunner
 weaksalad
+weakscale
 weaksea
 weakseed
 weakshark
@@ -63503,6 +64521,7 @@ westcow
 westcream
 westcrown
 westcurly
+westcurrency
 westcurtain
 westdaisy
 westdata
@@ -63649,6 +64668,7 @@ westrosebud
 westruby
 westrunner
 westsalad
+westscale
 westsea
 westseed
 westshark
@@ -63785,6 +64805,7 @@ whitecow
 whitecream
 whitecrown
 whitecurly
+whitecurrency
 whitecurtain
 whitedaisy
 whitedata
@@ -63931,6 +64952,7 @@ whiterosebud
 whiteruby
 whiterunner
 whitesalad
+whitescale
 whitesea
 whiteseed
 whiteshark
@@ -64067,6 +65089,7 @@ widecow
 widecream
 widecrown
 widecurly
+widecurrency
 widecurtain
 widedaisy
 widedata
@@ -64213,6 +65236,7 @@ widerosebud
 wideruby
 widerunner
 widesalad
+widescale
 widesea
 wideseed
 wideshark
@@ -64349,6 +65373,7 @@ wildcow
 wildcream
 wildcrown
 wildcurly
+wildcurrency
 wildcurtain
 wilddaisy
 wilddata
@@ -64495,6 +65520,7 @@ wildrosebud
 wildruby
 wildrunner
 wildsalad
+wildscale
 wildsea
 wildseed
 wildshark
@@ -64631,6 +65657,7 @@ wildecow
 wildecream
 wildecrown
 wildecurly
+wildecurrency
 wildecurtain
 wildedaisy
 wildedata
@@ -64777,6 +65804,7 @@ wilderosebud
 wilderuby
 wilderunner
 wildesalad
+wildescale
 wildesea
 wildeseed
 wildeshark
@@ -64913,6 +65941,7 @@ windycow
 windycream
 windycrown
 windycurly
+windycurrency
 windycurtain
 windydaisy
 windydata
@@ -65059,6 +66088,7 @@ windyrosebud
 windyruby
 windyrunner
 windysalad
+windyscale
 windysea
 windyseed
 windyshark
@@ -65195,6 +66225,7 @@ wisecow
 wisecream
 wisecrown
 wisecurly
+wisecurrency
 wisecurtain
 wisedaisy
 wisedata
@@ -65341,6 +66372,7 @@ wiserosebud
 wiseruby
 wiserunner
 wisesalad
+wisescale
 wisesea
 wiseseed
 wiseshark
@@ -65477,6 +66509,7 @@ wittycow
 wittycream
 wittycrown
 wittycurly
+wittycurrency
 wittycurtain
 wittydaisy
 wittydata
@@ -65623,6 +66656,7 @@ wittyrosebud
 wittyruby
 wittyrunner
 wittysalad
+wittyscale
 wittysea
 wittyseed
 wittyshark
@@ -65759,6 +66793,7 @@ wonderfulcow
 wonderfulcream
 wonderfulcrown
 wonderfulcurly
+wonderfulcurrency
 wonderfulcurtain
 wonderfuldaisy
 wonderfuldata
@@ -65905,6 +66940,7 @@ wonderfulrosebud
 wonderfulruby
 wonderfulrunner
 wonderfulsalad
+wonderfulscale
 wonderfulsea
 wonderfulseed
 wonderfulshark
@@ -66041,6 +67077,7 @@ yellowcow
 yellowcream
 yellowcrown
 yellowcurly
+yellowcurrency
 yellowcurtain
 yellowdaisy
 yellowdata
@@ -66187,6 +67224,7 @@ yellowrosebud
 yellowruby
 yellowrunner
 yellowsalad
+yellowscale
 yellowsea
 yellowseed
 yellowshark
@@ -66323,6 +67361,7 @@ youngcow
 youngcream
 youngcrown
 youngcurly
+youngcurrency
 youngcurtain
 youngdaisy
 youngdata
@@ -66469,6 +67508,7 @@ youngrosebud
 youngruby
 youngrunner
 youngsalad
+youngscale
 youngsea
 youngseed
 youngshark
@@ -66605,6 +67645,7 @@ zanycow
 zanycream
 zanycrown
 zanycurly
+zanycurrency
 zanycurtain
 zanydaisy
 zanydata
@@ -66751,6 +67792,7 @@ zanyrosebud
 zanyruby
 zanyrunner
 zanysalad
+zanyscale
 zanysea
 zanyseed
 zanyshark

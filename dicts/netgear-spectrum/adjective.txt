@@ -38,6 +38,7 @@ cloudy
 clumsy
 cold
 comet
+constant
 cool
 crispy
 curly
@@ -98,6 +99,7 @@ happy
 hearty
 heavy
 helpful
+home
 honest
 hot
 hungry
