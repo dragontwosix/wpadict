@@ -102,6 +102,7 @@ absurdgoat
 absurdgrain
 absurdgrape
 absurdgrasshopper
+absurdguitar
 absurdguppy
 absurdhair
 absurdhat
@@ -388,6 +389,7 @@ adorablegoat
 adorablegrain
 adorablegrape
 adorablegrasshopper
+adorableguitar
 adorableguppy
 adorablehair
 adorablehat
@@ -674,6 +676,7 @@ anchorgoat
 anchorgrain
 anchorgrape
 anchorgrasshopper
+anchorguitar
 anchorguppy
 anchorhair
 anchorhat
@@ -960,6 +963,7 @@ ancientgoat
 ancientgrain
 ancientgrape
 ancientgrasshopper
+ancientguitar
 ancientguppy
 ancienthair
 ancienthat
@@ -1246,6 +1250,7 @@ angrygoat
 angrygrain
 angrygrape
 angrygrasshopper
+angryguitar
 angryguppy
 angryhair
 angryhat
@@ -1532,6 +1537,7 @@ antiquegoat
 antiquegrain
 antiquegrape
 antiquegrasshopper
+antiqueguitar
 antiqueguppy
 antiquehair
 antiquehat
@@ -1818,6 +1824,7 @@ aquaticgoat
 aquaticgrain
 aquaticgrape
 aquaticgrasshopper
+aquaticguitar
 aquaticguppy
 aquatichair
 aquatichat
@@ -2104,6 +2111,7 @@ awaygoat
 awaygrain
 awaygrape
 awaygrasshopper
+awayguitar
 awayguppy
 awayhair
 awayhat
@@ -2390,6 +2398,7 @@ babygoat
 babygrain
 babygrape
 babygrasshopper
+babyguitar
 babyguppy
 babyhair
 babyhat
@@ -2676,6 +2685,7 @@ basicgoat
 basicgrain
 basicgrape
 basicgrasshopper
+basicguitar
 basicguppy
 basichair
 basichat
@@ -2962,6 +2972,7 @@ baygoat
 baygrain
 baygrape
 baygrasshopper
+bayguitar
 bayguppy
 bayhair
 bayhat
@@ -3248,6 +3259,7 @@ bettergoat
 bettergrain
 bettergrape
 bettergrasshopper
+betterguitar
 betterguppy
 betterhair
 betterhat
@@ -3534,6 +3546,7 @@ biggoat
 biggrain
 biggrape
 biggrasshopper
+bigguitar
 bigguppy
 bighair
 bighat
@@ -3820,6 +3833,7 @@ bittergoat
 bittergrain
 bittergrape
 bittergrasshopper
+bitterguitar
 bitterguppy
 bitterhair
 bitterhat
@@ -4106,6 +4120,7 @@ blackgoat
 blackgrain
 blackgrape
 blackgrasshopper
+blackguitar
 blackguppy
 blackhair
 blackhat
@@ -4392,6 +4407,7 @@ bluegoat
 bluegrain
 bluegrape
 bluegrasshopper
+blueguitar
 blueguppy
 bluehair
 bluehat
@@ -4678,6 +4694,7 @@ boardgoat
 boardgrain
 boardgrape
 boardgrasshopper
+boardguitar
 boardguppy
 boardhair
 boardhat
@@ -4964,6 +4981,7 @@ boldgoat
 boldgrain
 boldgrape
 boldgrasshopper
+boldguitar
 boldguppy
 boldhair
 boldhat
@@ -5250,6 +5268,7 @@ bottlegoat
 bottlegrain
 bottlegrape
 bottlegrasshopper
+bottleguitar
 bottleguppy
 bottlehair
 bottlehat
@@ -5536,6 +5555,7 @@ bottledgoat
 bottledgrain
 bottledgrape
 bottledgrasshopper
+bottledguitar
 bottledguppy
 bottledhair
 bottledhat
@@ -5822,6 +5842,7 @@ bravegoat
 bravegrain
 bravegrape
 bravegrasshopper
+braveguitar
 braveguppy
 bravehair
 bravehat
@@ -6108,6 +6129,7 @@ breezygoat
 breezygrain
 breezygrape
 breezygrasshopper
+breezyguitar
 breezyguppy
 breezyhair
 breezyhat
@@ -6394,6 +6416,7 @@ brightgoat
 brightgrain
 brightgrape
 brightgrasshopper
+brightguitar
 brightguppy
 brighthair
 brighthat
@@ -6680,6 +6703,7 @@ browngoat
 browngrain
 browngrape
 browngrasshopper
+brownguitar
 brownguppy
 brownhair
 brownhat
@@ -6966,6 +6990,7 @@ calmgoat
 calmgrain
 calmgrape
 calmgrasshopper
+calmguitar
 calmguppy
 calmhair
 calmhat
@@ -7252,6 +7277,7 @@ carrotgoat
 carrotgrain
 carrotgrape
 carrotgrasshopper
+carrotguitar
 carrotguppy
 carrothair
 carrothat
@@ -7538,6 +7564,7 @@ cashgoat
 cashgrain
 cashgrape
 cashgrasshopper
+cashguitar
 cashguppy
 cashhair
 cashhat
@@ -7824,6 +7851,7 @@ charminggoat
 charminggrain
 charminggrape
 charminggrasshopper
+charmingguitar
 charmingguppy
 charminghair
 charminghat
@@ -8110,6 +8138,7 @@ cheerfulgoat
 cheerfulgrain
 cheerfulgrape
 cheerfulgrasshopper
+cheerfulguitar
 cheerfulguppy
 cheerfulhair
 cheerfulhat
@@ -8396,6 +8425,7 @@ chillygoat
 chillygrain
 chillygrape
 chillygrasshopper
+chillyguitar
 chillyguppy
 chillyhair
 chillyhat
@@ -8682,6 +8712,7 @@ chipgoat
 chipgrain
 chipgrape
 chipgrasshopper
+chipguitar
 chipguppy
 chiphair
 chiphat
@@ -8968,6 +8999,7 @@ chummygoat
 chummygrain
 chummygrape
 chummygrasshopper
+chummyguitar
 chummyguppy
 chummyhair
 chummyhat
@@ -9254,6 +9286,7 @@ classygoat
 classygrain
 classygrape
 classygrasshopper
+classyguitar
 classyguppy
 classyhair
 classyhat
@@ -9540,6 +9573,7 @@ cleangoat
 cleangrain
 cleangrape
 cleangrasshopper
+cleanguitar
 cleanguppy
 cleanhair
 cleanhat
@@ -9826,6 +9860,7 @@ cleargoat
 cleargrain
 cleargrape
 cleargrasshopper
+clearguitar
 clearguppy
 clearhair
 clearhat
@@ -10112,6 +10147,7 @@ clevergoat
 clevergrain
 clevergrape
 clevergrasshopper
+cleverguitar
 cleverguppy
 cleverhair
 cleverhat
@@ -10398,6 +10434,7 @@ cloudygoat
 cloudygrain
 cloudygrape
 cloudygrasshopper
+cloudyguitar
 cloudyguppy
 cloudyhair
 cloudyhat
@@ -10684,6 +10721,7 @@ clumsygoat
 clumsygrain
 clumsygrape
 clumsygrasshopper
+clumsyguitar
 clumsyguppy
 clumsyhair
 clumsyhat
@@ -10970,6 +11008,7 @@ coldgoat
 coldgrain
 coldgrape
 coldgrasshopper
+coldguitar
 coldguppy
 coldhair
 coldhat
@@ -11256,6 +11295,7 @@ cometgoat
 cometgrain
 cometgrape
 cometgrasshopper
+cometguitar
 cometguppy
 comethair
 comethat
@@ -11542,6 +11582,7 @@ constantgoat
 constantgrain
 constantgrape
 constantgrasshopper
+constantguitar
 constantguppy
 constanthair
 constanthat
@@ -11828,6 +11869,7 @@ coolgoat
 coolgrain
 coolgrape
 coolgrasshopper
+coolguitar
 coolguppy
 coolhair
 coolhat
@@ -12114,6 +12156,7 @@ crispygoat
 crispygrain
 crispygrape
 crispygrasshopper
+crispyguitar
 crispyguppy
 crispyhair
 crispyhat
@@ -12400,6 +12443,7 @@ curlygoat
 curlygrain
 curlygrape
 curlygrasshopper
+curlyguitar
 curlyguppy
 curlyhair
 curlyhat
@@ -12686,6 +12730,7 @@ cutegoat
 cutegrain
 cutegrape
 cutegrasshopper
+cuteguitar
 cuteguppy
 cutehair
 cutehat
@@ -12972,6 +13017,7 @@ dailygoat
 dailygrain
 dailygrape
 dailygrasshopper
+dailyguitar
 dailyguppy
 dailyhair
 dailyhat
@@ -13258,6 +13304,7 @@ dampgoat
 dampgrain
 dampgrape
 dampgrasshopper
+dampguitar
 dampguppy
 damphair
 damphat
@@ -13544,6 +13591,7 @@ dandygoat
 dandygrain
 dandygrape
 dandygrasshopper
+dandyguitar
 dandyguppy
 dandyhair
 dandyhat
@@ -13830,6 +13878,7 @@ deepgoat
 deepgrain
 deepgrape
 deepgrasshopper
+deepguitar
 deepguppy
 deephair
 deephat
@@ -14116,6 +14165,7 @@ delightfulgoat
 delightfulgrain
 delightfulgrape
 delightfulgrasshopper
+delightfulguitar
 delightfulguppy
 delightfulhair
 delightfulhat
@@ -14402,6 +14452,7 @@ desertgoat
 desertgrain
 desertgrape
 desertgrasshopper
+desertguitar
 desertguppy
 deserthair
 deserthat
@@ -14688,6 +14739,7 @@ dizzygoat
 dizzygrain
 dizzygrape
 dizzygrasshopper
+dizzyguitar
 dizzyguppy
 dizzyhair
 dizzyhat
@@ -14974,6 +15026,7 @@ doublegoat
 doublegrain
 doublegrape
 doublegrasshopper
+doubleguitar
 doubleguppy
 doublehair
 doublehat
@@ -15260,6 +15313,7 @@ downgoat
 downgrain
 downgrape
 downgrasshopper
+downguitar
 downguppy
 downhair
 downhat
@@ -15546,6 +15600,7 @@ dustygoat
 dustygrain
 dustygrape
 dustygrasshopper
+dustyguitar
 dustyguppy
 dustyhair
 dustyhat
@@ -15832,6 +15887,7 @@ dynamicgoat
 dynamicgrain
 dynamicgrape
 dynamicgrasshopper
+dynamicguitar
 dynamicguppy
 dynamichair
 dynamichat
@@ -16118,6 +16174,7 @@ eagergoat
 eagergrain
 eagergrape
 eagergrasshopper
+eagerguitar
 eagerguppy
 eagerhair
 eagerhat
@@ -16404,6 +16461,7 @@ eastgoat
 eastgrain
 eastgrape
 eastgrasshopper
+eastguitar
 eastguppy
 easthair
 easthat
@@ -16690,6 +16748,7 @@ easygoat
 easygrain
 easygrape
 easygrasshopper
+easyguitar
 easyguppy
 easyhair
 easyhat
@@ -16976,6 +17035,7 @@ elatedgoat
 elatedgrain
 elatedgrape
 elatedgrasshopper
+elatedguitar
 elatedguppy
 elatedhair
 elatedhat
@@ -17262,6 +17322,7 @@ elegantgoat
 elegantgrain
 elegantgrape
 elegantgrasshopper
+elegantguitar
 elegantguppy
 eleganthair
 eleganthat
@@ -17548,6 +17609,7 @@ enginegoat
 enginegrain
 enginegrape
 enginegrasshopper
+engineguitar
 engineguppy
 enginehair
 enginehat
@@ -17834,6 +17896,7 @@ excitegoat
 excitegrain
 excitegrape
 excitegrasshopper
+exciteguitar
 exciteguppy
 excitehair
 excitehat
@@ -18120,6 +18183,7 @@ epicgoat
 epicgrain
 epicgrape
 epicgrasshopper
+epicguitar
 epicguppy
 epichair
 epichat
@@ -18406,6 +18470,7 @@ excitedgoat
 excitedgrain
 excitedgrape
 excitedgrasshopper
+excitedguitar
 excitedguppy
 excitedhair
 excitedhat
@@ -18692,6 +18757,7 @@ exoticgoat
 exoticgrain
 exoticgrape
 exoticgrasshopper
+exoticguitar
 exoticguppy
 exotichair
 exotichat
@@ -18978,6 +19044,7 @@ famousgoat
 famousgrain
 famousgrape
 famousgrasshopper
+famousguitar
 famousguppy
 famoushair
 famoushat
@@ -19264,6 +19331,7 @@ fancygoat
 fancygrain
 fancygrape
 fancygrasshopper
+fancyguitar
 fancyguppy
 fancyhair
 fancyhat
@@ -19550,6 +19618,7 @@ fastgoat
 fastgrain
 fastgrape
 fastgrasshopper
+fastguitar
 fastguppy
 fasthair
 fasthat
@@ -19836,6 +19905,7 @@ fearlessgoat
 fearlessgrain
 fearlessgrape
 fearlessgrasshopper
+fearlessguitar
 fearlessguppy
 fearlesshair
 fearlesshat
@@ -20122,6 +20192,7 @@ festivegoat
 festivegrain
 festivegrape
 festivegrasshopper
+festiveguitar
 festiveguppy
 festivehair
 festivehat
@@ -20408,6 +20479,7 @@ finishgoat
 finishgrain
 finishgrape
 finishgrasshopper
+finishguitar
 finishguppy
 finishhair
 finishhat
@@ -20694,6 +20766,7 @@ flatgoat
 flatgrain
 flatgrape
 flatgrasshopper
+flatguitar
 flatguppy
 flathair
 flathat
@@ -20980,6 +21053,7 @@ fluentgoat
 fluentgrain
 fluentgrape
 fluentgrasshopper
+fluentguitar
 fluentguppy
 fluenthair
 fluenthat
@@ -21266,6 +21340,7 @@ fluffygoat
 fluffygrain
 fluffygrape
 fluffygrasshopper
+fluffyguitar
 fluffyguppy
 fluffyhair
 fluffyhat
@@ -21552,6 +21627,7 @@ fragilegoat
 fragilegrain
 fragilegrape
 fragilegrasshopper
+fragileguitar
 fragileguppy
 fragilehair
 fragilehat
@@ -21838,6 +21914,7 @@ freegoat
 freegrain
 freegrape
 freegrasshopper
+freeguitar
 freeguppy
 freehair
 freehat
@@ -22124,6 +22201,7 @@ freshgoat
 freshgrain
 freshgrape
 freshgrasshopper
+freshguitar
 freshguppy
 freshhair
 freshhat
@@ -22410,6 +22488,7 @@ friendlygoat
 friendlygrain
 friendlygrape
 friendlygrasshopper
+friendlyguitar
 friendlyguppy
 friendlyhair
 friendlyhat
@@ -22696,6 +22775,7 @@ frostygoat
 frostygrain
 frostygrape
 frostygrasshopper
+frostyguitar
 frostyguppy
 frostyhair
 frostyhat
@@ -22982,6 +23062,7 @@ funnygoat
 funnygrain
 funnygrape
 funnygrasshopper
+funnyguitar
 funnyguppy
 funnyhair
 funnyhat
@@ -23268,6 +23349,7 @@ furrygoat
 furrygrain
 furrygrape
 furrygrasshopper
+furryguitar
 furryguppy
 furryhair
 furryhat
@@ -23554,6 +23636,7 @@ fuzzygoat
 fuzzygrain
 fuzzygrape
 fuzzygrasshopper
+fuzzyguitar
 fuzzyguppy
 fuzzyhair
 fuzzyhat
@@ -23840,6 +23923,7 @@ gentlegoat
 gentlegrain
 gentlegrape
 gentlegrasshopper
+gentleguitar
 gentleguppy
 gentlehair
 gentlehat
@@ -24126,6 +24210,7 @@ globalgoat
 globalgrain
 globalgrape
 globalgrasshopper
+globalguitar
 globalguppy
 globalhair
 globalhat
@@ -24412,6 +24497,7 @@ giddygoat
 giddygrain
 giddygrape
 giddygrasshopper
+giddyguitar
 giddyguppy
 giddyhair
 giddyhat
@@ -24698,6 +24784,7 @@ giftedgoat
 giftedgrain
 giftedgrape
 giftedgrasshopper
+giftedguitar
 giftedguppy
 giftedhair
 giftedhat
@@ -24984,6 +25071,7 @@ giganticgoat
 giganticgrain
 giganticgrape
 giganticgrasshopper
+giganticguitar
 giganticguppy
 gigantichair
 gigantichat
@@ -25270,6 +25358,7 @@ goodgoat
 goodgrain
 goodgrape
 goodgrasshopper
+goodguitar
 goodguppy
 goodhair
 goodhat
@@ -25556,6 +25645,7 @@ goldgoat
 goldgrain
 goldgrape
 goldgrasshopper
+goldguitar
 goldguppy
 goldhair
 goldhat
@@ -25842,6 +25932,7 @@ goldengoat
 goldengrain
 goldengrape
 goldengrasshopper
+goldenguitar
 goldenguppy
 goldenhair
 goldenhat
@@ -26128,6 +26219,7 @@ goofygoat
 goofygrain
 goofygrape
 goofygrasshopper
+goofyguitar
 goofyguppy
 goofyhair
 goofyhat
@@ -26414,6 +26506,7 @@ gracefulgoat
 gracefulgrain
 gracefulgrape
 gracefulgrasshopper
+gracefulguitar
 gracefulguppy
 gracefulhair
 gracefulhat
@@ -26700,6 +26793,7 @@ grandgoat
 grandgrain
 grandgrape
 grandgrasshopper
+grandguitar
 grandguppy
 grandhair
 grandhat
@@ -26986,6 +27080,7 @@ gratefulgoat
 gratefulgrain
 gratefulgrape
 gratefulgrasshopper
+gratefulguitar
 gratefulguppy
 gratefulhair
 gratefulhat
@@ -27272,6 +27367,7 @@ greatgoat
 greatgrain
 greatgrape
 greatgrasshopper
+greatguitar
 greatguppy
 greathair
 greathat
@@ -27558,6 +27654,7 @@ greengoat
 greengrain
 greengrape
 greengrasshopper
+greenguitar
 greenguppy
 greenhair
 greenhat
@@ -27844,6 +27941,7 @@ happygoat
 happygrain
 happygrape
 happygrasshopper
+happyguitar
 happyguppy
 happyhair
 happyhat
@@ -28130,6 +28228,7 @@ heartygoat
 heartygrain
 heartygrape
 heartygrasshopper
+heartyguitar
 heartyguppy
 heartyhair
 heartyhat
@@ -28416,6 +28515,7 @@ heavygoat
 heavygrain
 heavygrape
 heavygrasshopper
+heavyguitar
 heavyguppy
 heavyhair
 heavyhat
@@ -28702,6 +28802,7 @@ helpfulgoat
 helpfulgrain
 helpfulgrape
 helpfulgrasshopper
+helpfulguitar
 helpfulguppy
 helpfulhair
 helpfulhat
@@ -28988,6 +29089,7 @@ homegoat
 homegrain
 homegrape
 homegrasshopper
+homeguitar
 homeguppy
 homehair
 homehat
@@ -29274,6 +29376,7 @@ honestgoat
 honestgrain
 honestgrape
 honestgrasshopper
+honestguitar
 honestguppy
 honesthair
 honesthat
@@ -29560,6 +29663,7 @@ hotgoat
 hotgrain
 hotgrape
 hotgrasshopper
+hotguitar
 hotguppy
 hothair
 hothat
@@ -29846,6 +29950,7 @@ hungrygoat
 hungrygrain
 hungrygrape
 hungrygrasshopper
+hungryguitar
 hungryguppy
 hungryhair
 hungryhat
@@ -30132,6 +30237,7 @@ huskygoat
 huskygrain
 huskygrape
 huskygrasshopper
+huskyguitar
 huskyguppy
 huskyhair
 huskyhat
@@ -30418,6 +30524,7 @@ hybridgoat
 hybridgrain
 hybridgrape
 hybridgrasshopper
+hybridguitar
 hybridguppy
 hybridhair
 hybridhat
@@ -30704,6 +30811,7 @@ icygoat
 icygrain
 icygrape
 icygrasshopper
+icyguitar
 icyguppy
 icyhair
 icyhat
@@ -30990,6 +31098,7 @@ imaginarygoat
 imaginarygrain
 imaginarygrape
 imaginarygrasshopper
+imaginaryguitar
 imaginaryguppy
 imaginaryhair
 imaginaryhat
@@ -31276,6 +31385,7 @@ immunegoat
 immunegrain
 immunegrape
 immunegrasshopper
+immuneguitar
 immuneguppy
 immunehair
 immunehat
@@ -31562,6 +31672,7 @@ inputgoat
 inputgrain
 inputgrape
 inputgrasshopper
+inputguitar
 inputguppy
 inputhair
 inputhat
@@ -31848,6 +31959,7 @@ internalgoat
 internalgrain
 internalgrape
 internalgrasshopper
+internalguitar
 internalguppy
 internalhair
 internalhat
@@ -32134,6 +32246,7 @@ invisiblegoat
 invisiblegrain
 invisiblegrape
 invisiblegrasshopper
+invisibleguitar
 invisibleguppy
 invisiblehair
 invisiblehat
@@ -32420,6 +32533,7 @@ jaggedgoat
 jaggedgrain
 jaggedgrape
 jaggedgrasshopper
+jaggedguitar
 jaggedguppy
 jaggedhair
 jaggedhat
@@ -32706,6 +32820,7 @@ jollygoat
 jollygrain
 jollygrape
 jollygrasshopper
+jollyguitar
 jollyguppy
 jollyhair
 jollyhat
@@ -32992,6 +33107,7 @@ joyfulgoat
 joyfulgrain
 joyfulgrape
 joyfulgrasshopper
+joyfulguitar
 joyfulguppy
 joyfulhair
 joyfulhat
@@ -33278,6 +33394,7 @@ joyousgoat
 joyousgrain
 joyousgrape
 joyousgrasshopper
+joyousguitar
 joyousguppy
 joyoushair
 joyoushat
@@ -33564,6 +33681,7 @@ kindgoat
 kindgrain
 kindgrape
 kindgrasshopper
+kindguitar
 kindguppy
 kindhair
 kindhat
@@ -33850,6 +33968,7 @@ largegoat
 largegrain
 largegrape
 largegrasshopper
+largeguitar
 largeguppy
 largehair
 largehat
@@ -34136,6 +34255,7 @@ leadergoat
 leadergrain
 leadergrape
 leadergrasshopper
+leaderguitar
 leaderguppy
 leaderhair
 leaderhat
@@ -34422,6 +34542,7 @@ lightgoat
 lightgrain
 lightgrape
 lightgrasshopper
+lightguitar
 lightguppy
 lighthair
 lighthat
@@ -34708,6 +34829,7 @@ littlegoat
 littlegrain
 littlegrape
 littlegrasshopper
+littleguitar
 littleguppy
 littlehair
 littlehat
@@ -34994,6 +35116,7 @@ livelygoat
 livelygrain
 livelygrape
 livelygrasshopper
+livelyguitar
 livelyguppy
 livelyhair
 livelyhat
@@ -35280,6 +35403,7 @@ longgoat
 longgrain
 longgrape
 longgrasshopper
+longguitar
 longguppy
 longhair
 longhat
@@ -35566,6 +35690,7 @@ loudgoat
 loudgrain
 loudgrape
 loudgrasshopper
+loudguitar
 loudguppy
 loudhair
 loudhat
@@ -35852,6 +35977,7 @@ lovelygoat
 lovelygrain
 lovelygrape
 lovelygrasshopper
+lovelyguitar
 lovelyguppy
 lovelyhair
 lovelyhat
@@ -36138,6 +36264,7 @@ loyalgoat
 loyalgrain
 loyalgrape
 loyalgrasshopper
+loyalguitar
 loyalguppy
 loyalhair
 loyalhat
@@ -36424,6 +36551,7 @@ luckygoat
 luckygrain
 luckygrape
 luckygrasshopper
+luckyguitar
 luckyguppy
 luckyhair
 luckyhat
@@ -36710,6 +36838,7 @@ lumpygoat
 lumpygrain
 lumpygrape
 lumpygrasshopper
+lumpyguitar
 lumpyguppy
 lumpyhair
 lumpyhat
@@ -36996,6 +37125,7 @@ magicalgoat
 magicalgrain
 magicalgrape
 magicalgrasshopper
+magicalguitar
 magicalguppy
 magicalhair
 magicalhat
@@ -37282,6 +37412,7 @@ majorgoat
 majorgrain
 majorgrape
 majorgrasshopper
+majorguitar
 majorguppy
 majorhair
 majorhat
@@ -37568,6 +37699,7 @@ manicgoat
 manicgrain
 manicgrape
 manicgrasshopper
+manicguitar
 manicguppy
 manichair
 manichat
@@ -37854,6 +37986,7 @@ mellowgoat
 mellowgrain
 mellowgrape
 mellowgrasshopper
+mellowguitar
 mellowguppy
 mellowhair
 mellowhat
@@ -38140,6 +38273,7 @@ melodicgoat
 melodicgrain
 melodicgrape
 melodicgrasshopper
+melodicguitar
 melodicguppy
 melodichair
 melodichat
@@ -38426,6 +38560,7 @@ mentalgoat
 mentalgrain
 mentalgrape
 mentalgrasshopper
+mentalguitar
 mentalguppy
 mentalhair
 mentalhat
@@ -38712,6 +38847,7 @@ mightygoat
 mightygrain
 mightygrape
 mightygrasshopper
+mightyguitar
 mightyguppy
 mightyhair
 mightyhat
@@ -38998,6 +39134,7 @@ mistygoat
 mistygrain
 mistygrape
 mistygrasshopper
+mistyguitar
 mistyguppy
 mistyhair
 mistyhat
@@ -39284,6 +39421,7 @@ mobilegoat
 mobilegrain
 mobilegrape
 mobilegrasshopper
+mobileguitar
 mobileguppy
 mobilehair
 mobilehat
@@ -39570,6 +39708,7 @@ moderngoat
 moderngrain
 moderngrape
 moderngrasshopper
+modernguitar
 modernguppy
 modernhair
 modernhat
@@ -39856,6 +39995,7 @@ narrowgoat
 narrowgrain
 narrowgrape
 narrowgrasshopper
+narrowguitar
 narrowguppy
 narrowhair
 narrowhat
@@ -40142,6 +40282,7 @@ newgoat
 newgrain
 newgrape
 newgrasshopper
+newguitar
 newguppy
 newhair
 newhat
@@ -40428,6 +40569,7 @@ nicegoat
 nicegrain
 nicegrape
 nicegrasshopper
+niceguitar
 niceguppy
 nicehair
 nicehat
@@ -40714,6 +40856,7 @@ niftygoat
 niftygrain
 niftygrape
 niftygrasshopper
+niftyguitar
 niftyguppy
 niftyhair
 niftyhat
@@ -41000,6 +41143,7 @@ noisygoat
 noisygrain
 noisygrape
 noisygrasshopper
+noisyguitar
 noisyguppy
 noisyhair
 noisyhat
@@ -41286,6 +41430,7 @@ normalgoat
 normalgrain
 normalgrape
 normalgrasshopper
+normalguitar
 normalguppy
 normalhair
 normalhat
@@ -41572,6 +41717,7 @@ northgoat
 northgrain
 northgrape
 northgrasshopper
+northguitar
 northguppy
 northhair
 northhat
@@ -41858,6 +42004,7 @@ novelgoat
 novelgrain
 novelgrape
 novelgrasshopper
+novelguitar
 novelguppy
 novelhair
 novelhat
@@ -42144,6 +42291,7 @@ occurgoat
 occurgrain
 occurgrape
 occurgrasshopper
+occurguitar
 occurguppy
 occurhair
 occurhat
@@ -42430,6 +42578,7 @@ oddgoat
 oddgrain
 oddgrape
 oddgrasshopper
+oddguitar
 oddguppy
 oddhair
 oddhat
@@ -42716,6 +42865,7 @@ oldgoat
 oldgrain
 oldgrape
 oldgrasshopper
+oldguitar
 oldguppy
 oldhair
 oldhat
@@ -43002,6 +43152,7 @@ olivegoat
 olivegrain
 olivegrape
 olivegrasshopper
+oliveguitar
 oliveguppy
 olivehair
 olivehat
@@ -43288,6 +43439,7 @@ orangegoat
 orangegrain
 orangegrape
 orangegrasshopper
+orangeguitar
 orangeguppy
 orangehair
 orangehat
@@ -43574,6 +43726,7 @@ ordinarygoat
 ordinarygrain
 ordinarygrape
 ordinarygrasshopper
+ordinaryguitar
 ordinaryguppy
 ordinaryhair
 ordinaryhat
@@ -43860,6 +44013,7 @@ painlessgoat
 painlessgrain
 painlessgrape
 painlessgrasshopper
+painlessguitar
 painlessguppy
 painlesshair
 painlesshat
@@ -44146,6 +44300,7 @@ pastelgoat
 pastelgrain
 pastelgrape
 pastelgrasshopper
+pastelguitar
 pastelguppy
 pastelhair
 pastelhat
@@ -44432,6 +44587,7 @@ peacefulgoat
 peacefulgrain
 peacefulgrape
 peacefulgrasshopper
+peacefulguitar
 peacefulguppy
 peacefulhair
 peacefulhat
@@ -44718,6 +44874,7 @@ perfectgoat
 perfectgrain
 perfectgrape
 perfectgrasshopper
+perfectguitar
 perfectguppy
 perfecthair
 perfecthat
@@ -45004,6 +45161,7 @@ phobicgoat
 phobicgrain
 phobicgrape
 phobicgrasshopper
+phobicguitar
 phobicguppy
 phobichair
 phobichat
@@ -45290,6 +45448,7 @@ pinkgoat
 pinkgrain
 pinkgrape
 pinkgrasshopper
+pinkguitar
 pinkguppy
 pinkhair
 pinkhat
@@ -45576,6 +45735,7 @@ plaingoat
 plaingrain
 plaingrape
 plaingrasshopper
+plainguitar
 plainguppy
 plainhair
 plainhat
@@ -45862,6 +46022,7 @@ politegoat
 politegrain
 politegrape
 politegrasshopper
+politeguitar
 politeguppy
 politehair
 politehat
@@ -46148,6 +46309,7 @@ poorgoat
 poorgrain
 poorgrape
 poorgrasshopper
+poorguitar
 poorguppy
 poorhair
 poorhat
@@ -46434,6 +46596,7 @@ preciousgoat
 preciousgrain
 preciousgrape
 preciousgrasshopper
+preciousguitar
 preciousguppy
 precioushair
 precioushat
@@ -46720,6 +46883,7 @@ prettygoat
 prettygrain
 prettygrape
 prettygrasshopper
+prettyguitar
 prettyguppy
 prettyhair
 prettyhat
@@ -47006,6 +47170,7 @@ proudgoat
 proudgrain
 proudgrape
 proudgrasshopper
+proudguitar
 proudguppy
 proudhair
 proudhat
@@ -47292,6 +47457,7 @@ purplegoat
 purplegrain
 purplegrape
 purplegrasshopper
+purpleguitar
 purpleguppy
 purplehair
 purplehat
@@ -47578,6 +47744,7 @@ quaintgoat
 quaintgrain
 quaintgrape
 quaintgrasshopper
+quaintguitar
 quaintguppy
 quainthair
 quainthat
@@ -47864,6 +48031,7 @@ quickgoat
 quickgrain
 quickgrape
 quickgrasshopper
+quickguitar
 quickguppy
 quickhair
 quickhat
@@ -48150,6 +48318,7 @@ quietgoat
 quietgrain
 quietgrape
 quietgrasshopper
+quietguitar
 quietguppy
 quiethair
 quiethat
@@ -48436,6 +48605,7 @@ rapidgoat
 rapidgrain
 rapidgrape
 rapidgrasshopper
+rapidguitar
 rapidguppy
 rapidhair
 rapidhat
@@ -48722,6 +48892,7 @@ readygoat
 readygrain
 readygrape
 readygrasshopper
+readyguitar
 readyguppy
 readyhair
 readyhat
@@ -49008,6 +49179,7 @@ redgoat
 redgrain
 redgrape
 redgrasshopper
+redguitar
 redguppy
 redhair
 redhat
@@ -49294,6 +49466,7 @@ rockygoat
 rockygrain
 rockygrape
 rockygrasshopper
+rockyguitar
 rockyguppy
 rockyhair
 rockyhat
@@ -49580,6 +49753,7 @@ roughgoat
 roughgrain
 roughgrape
 roughgrasshopper
+roughguitar
 roughguppy
 roughhair
 roughhat
@@ -49866,6 +50040,7 @@ roundgoat
 roundgrain
 roundgrape
 roundgrasshopper
+roundguitar
 roundguppy
 roundhair
 roundhat
@@ -50152,6 +50327,7 @@ royalgoat
 royalgrain
 royalgrape
 royalgrasshopper
+royalguitar
 royalguppy
 royalhair
 royalhat
@@ -50438,6 +50614,7 @@ ruggedgoat
 ruggedgrain
 ruggedgrape
 ruggedgrasshopper
+ruggedguitar
 ruggedguppy
 ruggedhair
 ruggedhat
@@ -50724,6 +50901,7 @@ rusticgoat
 rusticgrain
 rusticgrape
 rusticgrasshopper
+rusticguitar
 rusticguppy
 rustichair
 rustichat
@@ -51010,6 +51188,7 @@ safegoat
 safegrain
 safegrape
 safegrasshopper
+safeguitar
 safeguppy
 safehair
 safehat
@@ -51296,6 +51475,7 @@ sandygoat
 sandygrain
 sandygrape
 sandygrasshopper
+sandyguitar
 sandyguppy
 sandyhair
 sandyhat
@@ -51582,6 +51762,7 @@ scalygoat
 scalygrain
 scalygrape
 scalygrasshopper
+scalyguitar
 scalyguppy
 scalyhair
 scalyhat
@@ -51868,6 +52049,7 @@ scarygoat
 scarygrain
 scarygrape
 scarygrasshopper
+scaryguitar
 scaryguppy
 scaryhair
 scaryhat
@@ -52154,6 +52336,7 @@ shinygoat
 shinygrain
 shinygrape
 shinygrasshopper
+shinyguitar
 shinyguppy
 shinyhair
 shinyhat
@@ -52440,6 +52623,7 @@ shortgoat
 shortgrain
 shortgrape
 shortgrasshopper
+shortguitar
 shortguppy
 shorthair
 shorthat
@@ -52726,6 +52910,7 @@ silentgoat
 silentgrain
 silentgrape
 silentgrasshopper
+silentguitar
 silentguppy
 silenthair
 silenthat
@@ -53012,6 +53197,7 @@ silkygoat
 silkygrain
 silkygrape
 silkygrasshopper
+silkyguitar
 silkyguppy
 silkyhair
 silkyhat
@@ -53298,6 +53484,7 @@ sillygoat
 sillygrain
 sillygrape
 sillygrasshopper
+sillyguitar
 sillyguppy
 sillyhair
 sillyhat
@@ -53584,6 +53771,7 @@ sleepygoat
 sleepygrain
 sleepygrape
 sleepygrasshopper
+sleepyguitar
 sleepyguppy
 sleepyhair
 sleepyhat
@@ -53870,6 +54058,7 @@ slendergoat
 slendergrain
 slendergrape
 slendergrasshopper
+slenderguitar
 slenderguppy
 slenderhair
 slenderhat
@@ -54156,6 +54345,7 @@ slowgoat
 slowgrain
 slowgrape
 slowgrasshopper
+slowguitar
 slowguppy
 slowhair
 slowhat
@@ -54442,6 +54632,7 @@ slowergoat
 slowergrain
 slowergrape
 slowergrasshopper
+slowerguitar
 slowerguppy
 slowerhair
 slowerhat
@@ -54728,6 +54919,7 @@ smallgoat
 smallgrain
 smallgrape
 smallgrasshopper
+smallguitar
 smallguppy
 smallhair
 smallhat
@@ -55014,6 +55206,7 @@ smartgoat
 smartgrain
 smartgrape
 smartgrasshopper
+smartguitar
 smartguppy
 smarthair
 smarthat
@@ -55300,6 +55493,7 @@ smileygoat
 smileygrain
 smileygrape
 smileygrasshopper
+smileyguitar
 smileyguppy
 smileyhair
 smileyhat
@@ -55586,6 +55780,7 @@ smilelygoat
 smilelygrain
 smilelygrape
 smilelygrasshopper
+smilelyguitar
 smilelyguppy
 smilelyhair
 smilelyhat
@@ -55872,6 +56067,7 @@ smilinggoat
 smilinggrain
 smilinggrape
 smilinggrasshopper
+smilingguitar
 smilingguppy
 smilinghair
 smilinghat
@@ -56158,6 +56354,7 @@ smoothgoat
 smoothgrain
 smoothgrape
 smoothgrasshopper
+smoothguitar
 smoothguppy
 smoothhair
 smoothhat
@@ -56444,6 +56641,7 @@ snuggoat
 snuggrain
 snuggrape
 snuggrasshopper
+snugguitar
 snugguppy
 snughair
 snughat
@@ -56730,6 +56928,7 @@ softgoat
 softgrain
 softgrape
 softgrasshopper
+softguitar
 softguppy
 softhair
 softhat
@@ -57016,6 +57215,7 @@ sourgoat
 sourgrain
 sourgrape
 sourgrasshopper
+sourguitar
 sourguppy
 sourhair
 sourhat
@@ -57302,6 +57502,7 @@ southgoat
 southgrain
 southgrape
 southgrasshopper
+southguitar
 southguppy
 southhair
 southhat
@@ -57588,6 +57789,7 @@ squaregoat
 squaregrain
 squaregrape
 squaregrasshopper
+squareguitar
 squareguppy
 squarehair
 squarehat
@@ -57874,6 +58076,7 @@ strangegoat
 strangegrain
 strangegrape
 strangegrasshopper
+strangeguitar
 strangeguppy
 strangehair
 strangehat
@@ -58160,6 +58363,7 @@ stronggoat
 stronggrain
 stronggrape
 stronggrasshopper
+strongguitar
 strongguppy
 stronghair
 stronghat
@@ -58446,6 +58650,7 @@ sturdygoat
 sturdygrain
 sturdygrape
 sturdygrasshopper
+sturdyguitar
 sturdyguppy
 sturdyhair
 sturdyhat
@@ -58732,6 +58937,7 @@ suddengoat
 suddengrain
 suddengrape
 suddengrasshopper
+suddenguitar
 suddenguppy
 suddenhair
 suddenhat
@@ -59018,6 +59224,7 @@ sunnygoat
 sunnygrain
 sunnygrape
 sunnygrasshopper
+sunnyguitar
 sunnyguppy
 sunnyhair
 sunnyhat
@@ -59304,6 +59511,7 @@ supergoat
 supergrain
 supergrape
 supergrasshopper
+superguitar
 superguppy
 superhair
 superhat
@@ -59590,6 +59798,7 @@ sweetgoat
 sweetgrain
 sweetgrape
 sweetgrasshopper
+sweetguitar
 sweetguppy
 sweethair
 sweethat
@@ -59876,6 +60085,7 @@ swiftgoat
 swiftgrain
 swiftgrape
 swiftgrasshopper
+swiftguitar
 swiftguppy
 swifthair
 swifthat
@@ -60162,6 +60372,7 @@ tallgoat
 tallgrain
 tallgrape
 tallgrasshopper
+tallguitar
 tallguppy
 tallhair
 tallhat
@@ -60448,6 +60659,7 @@ tealgoat
 tealgrain
 tealgrape
 tealgrasshopper
+tealguitar
 tealguppy
 tealhair
 tealhat
@@ -60734,6 +60946,7 @@ terrificgoat
 terrificgrain
 terrificgrape
 terrificgrasshopper
+terrificguitar
 terrificguppy
 terrifichair
 terrifichat
@@ -61020,6 +61233,7 @@ thirstygoat
 thirstygrain
 thirstygrape
 thirstygrasshopper
+thirstyguitar
 thirstyguppy
 thirstyhair
 thirstyhat
@@ -61306,6 +61520,7 @@ thoughtfulgoat
 thoughtfulgrain
 thoughtfulgrape
 thoughtfulgrasshopper
+thoughtfulguitar
 thoughtfulguppy
 thoughtfulhair
 thoughtfulhat
@@ -61592,6 +61807,7 @@ tinygoat
 tinygrain
 tinygrape
 tinygrasshopper
+tinyguitar
 tinyguppy
 tinyhair
 tinyhat
@@ -61878,6 +62094,7 @@ unevengoat
 unevengrain
 unevengrape
 unevengrasshopper
+unevenguitar
 unevenguppy
 unevenhair
 unevenhat
@@ -62164,6 +62381,7 @@ unitegoat
 unitegrain
 unitegrape
 unitegrasshopper
+uniteguitar
 uniteguppy
 unitehair
 unitehat
@@ -62450,6 +62668,7 @@ unusualgoat
 unusualgrain
 unusualgrape
 unusualgrasshopper
+unusualguitar
 unusualguppy
 unusualhair
 unusualhat
@@ -62736,6 +62955,7 @@ urbangoat
 urbangrain
 urbangrape
 urbangrasshopper
+urbanguitar
 urbanguppy
 urbanhair
 urbanhat
@@ -63022,6 +63242,7 @@ vanillagoat
 vanillagrain
 vanillagrape
 vanillagrasshopper
+vanillaguitar
 vanillaguppy
 vanillahair
 vanillahat
@@ -63308,6 +63529,7 @@ vastgoat
 vastgrain
 vastgrape
 vastgrasshopper
+vastguitar
 vastguppy
 vasthair
 vasthat
@@ -63594,6 +63816,7 @@ violetgoat
 violetgrain
 violetgrape
 violetgrasshopper
+violetguitar
 violetguppy
 violethair
 violethat
@@ -63880,6 +64103,7 @@ violingoat
 violingrain
 violingrape
 violingrasshopper
+violinguitar
 violinguppy
 violinhair
 violinhat
@@ -64166,6 +64390,7 @@ warmgoat
 warmgrain
 warmgrape
 warmgrasshopper
+warmguitar
 warmguppy
 warmhair
 warmhat
@@ -64452,6 +64677,7 @@ waterygoat
 waterygrain
 waterygrape
 waterygrasshopper
+wateryguitar
 wateryguppy
 wateryhair
 wateryhat
@@ -64738,6 +64964,7 @@ weakgoat
 weakgrain
 weakgrape
 weakgrasshopper
+weakguitar
 weakguppy
 weakhair
 weakhat
@@ -65024,6 +65251,7 @@ westgoat
 westgrain
 westgrape
 westgrasshopper
+westguitar
 westguppy
 westhair
 westhat
@@ -65310,6 +65538,7 @@ whitegoat
 whitegrain
 whitegrape
 whitegrasshopper
+whiteguitar
 whiteguppy
 whitehair
 whitehat
@@ -65596,6 +65825,7 @@ widegoat
 widegrain
 widegrape
 widegrasshopper
+wideguitar
 wideguppy
 widehair
 widehat
@@ -65882,6 +66112,7 @@ wildgoat
 wildgrain
 wildgrape
 wildgrasshopper
+wildguitar
 wildguppy
 wildhair
 wildhat
@@ -66168,6 +66399,7 @@ wildegoat
 wildegrain
 wildegrape
 wildegrasshopper
+wildeguitar
 wildeguppy
 wildehair
 wildehat
@@ -66454,6 +66686,7 @@ windygoat
 windygrain
 windygrape
 windygrasshopper
+windyguitar
 windyguppy
 windyhair
 windyhat
@@ -66740,6 +66973,7 @@ wisegoat
 wisegrain
 wisegrape
 wisegrasshopper
+wiseguitar
 wiseguppy
 wisehair
 wisehat
@@ -67026,6 +67260,7 @@ wittygoat
 wittygrain
 wittygrape
 wittygrasshopper
+wittyguitar
 wittyguppy
 wittyhair
 wittyhat
@@ -67312,6 +67547,7 @@ wonderfulgoat
 wonderfulgrain
 wonderfulgrape
 wonderfulgrasshopper
+wonderfulguitar
 wonderfulguppy
 wonderfulhair
 wonderfulhat
@@ -67598,6 +67834,7 @@ yellowgoat
 yellowgrain
 yellowgrape
 yellowgrasshopper
+yellowguitar
 yellowguppy
 yellowhair
 yellowhat
@@ -67884,6 +68121,7 @@ younggoat
 younggrain
 younggrape
 younggrasshopper
+youngguitar
 youngguppy
 younghair
 younghat
@@ -68170,6 +68408,7 @@ zanygoat
 zanygrain
 zanygrape
 zanygrasshopper
+zanyguitar
 zanyguppy
 zanyhair
 zanyhat
