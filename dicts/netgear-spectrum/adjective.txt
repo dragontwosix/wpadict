@@ -39,6 +39,7 @@ clumsy
 cold
 comet
 constant
+content
 cool
 crispy
 curly
@@ -200,6 +201,7 @@ soft
 sour
 south
 square
+stealth
 strange
 strong
 sturdy

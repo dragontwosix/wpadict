@@ -66,6 +66,7 @@ diamond
 dink
 dog
 doll
+domain
 door
 drawer
 duty
@@ -142,6 +143,7 @@ mesa
 mesa
 mint
 minute
+mirror
 monkey
 month
 moon
@@ -281,6 +283,7 @@ whale
 wind
 window
 wolf
+worker
 yacht
 year
 zebra
