@@ -24,6 +24,7 @@ bread
 breeze
 bubble
 bug
+building
 bunny
 bus
 bush
@@ -49,6 +50,7 @@ coconut
 coffee
 comet
 country
+county
 course
 cow
 cream
@@ -80,6 +82,7 @@ emerald
 engine
 estate
 farmer
+feeling
 field
 fig
 finch

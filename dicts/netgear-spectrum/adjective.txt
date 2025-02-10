@@ -63,6 +63,7 @@ elegant
 engine
 excite
 epic
+exact
 excited
 exotic
 famous
